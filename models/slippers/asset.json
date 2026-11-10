@@ -1,0 +1,28 @@
+{
+  "id": "slippers",
+  "name": "Slippers",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_deep_green",
+  "native": "models/slippers/slippers.blend",
+  "native_sha256": "c4467d46415e06ad73bb421c9dbb5c9f1aa3262f2dd9607e756c557434cffbe3",
+  "source_native_sha256": "c4467d46415e06ad73bb421c9dbb5c9f1aa3262f2dd9607e756c557434cffbe3",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/slippers/previews/preview.jpg",
+      "sha256": "160f00583bf6a6a600fbd3478663a0e2682de1441df56b3fcd393bc93f608134"
+    },
+    "alternate": {
+      "path": "models/slippers/previews/alternate.jpg",
+      "sha256": "58bafa5a5548b566fdb4117ecb8d36786677a690752051c71b7a4db92401e3ae"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

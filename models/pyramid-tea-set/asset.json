@@ -1,0 +1,28 @@
+{
+  "id": "pyramid-tea-set",
+  "name": "Loose-leaf tea tin and pyramid sachet",
+  "category": "Tea",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/pyramid-tea-set/pyramid-tea-set.blend",
+  "native_sha256": "17413df304073929e59dfdfbc3b29892a0494a4415c79950e60620a0cda75733",
+  "source_native_sha256": "17413df304073929e59dfdfbc3b29892a0494a4415c79950e60620a0cda75733",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/pyramid-tea-set/previews/preview.jpg",
+      "sha256": "3f8adcd3267f9cd48aabf1e6eafe0f080f91c530111fe5467235f2f76295105a"
+    },
+    "alternate": {
+      "path": "models/pyramid-tea-set/previews/alternate.jpg",
+      "sha256": "cdc0661990458c6991cb06988551667ba167b397b33cf9bf347fadd84429e13b"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

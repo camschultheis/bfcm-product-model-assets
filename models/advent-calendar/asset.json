@@ -1,0 +1,28 @@
+{
+  "id": "advent-calendar",
+  "name": "Advent Calendar",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/advent-calendar/advent-calendar.blend",
+  "native_sha256": "b634208afb5dadf49106c72592dfee16d861a7b29ef25d9cb1031d48b12878e2",
+  "source_native_sha256": "b634208afb5dadf49106c72592dfee16d861a7b29ef25d9cb1031d48b12878e2",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/advent-calendar/previews/preview.jpg",
+      "sha256": "acd50a83026435dd52b5a2a7e193f981b85829562ee218929b3a0ec057495df8"
+    },
+    "alternate": {
+      "path": "models/advent-calendar/previews/alternate.jpg",
+      "sha256": "d8d4fc8c60633e41f1bb9cacb9ec36e493bc8b0d8e2e6cb8a2c04ad8da5f9682"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

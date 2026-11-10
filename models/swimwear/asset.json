@@ -1,0 +1,28 @@
+{
+  "id": "swimwear",
+  "name": "Swimwear",
+  "category": "Swimwear",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": null,
+  "native": "models/swimwear/swimwear.blend",
+  "native_sha256": "e7cd71b37ca8c5d81e50b07ad9f8b96b23f2a4f16d2b029cddc11de61d9f794d",
+  "source_native_sha256": "e7cd71b37ca8c5d81e50b07ad9f8b96b23f2a4f16d2b029cddc11de61d9f794d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/swimwear/previews/preview.jpg",
+      "sha256": "fbfd8346b3ff978d92ec526329e2896039d08b96691838d0596f89c9f00b0244"
+    },
+    "alternate": {
+      "path": "models/swimwear/previews/alternate.jpg",
+      "sha256": "72be2546ad00c66808c4d746244458ed43a6451eea92765e91e6e7f0f64aa1d5"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,69 @@
+{
+  "id": "button-down-shirt",
+  "name": "Folded button-down shirt",
+  "category": "Shirts",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/button-down-shirt/button-down-shirt.blend",
+  "native_sha256": "7c55d8db2d765905228f2f8c6d057cfbfa32d36b1b0f2d74da12e3fbaaaec493",
+  "source_native_sha256": "7c55d8db2d765905228f2f8c6d057cfbfa32d36b1b0f2d74da12e3fbaaaec493",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/button-down-shirt/previews/preview.jpg",
+      "sha256": "1323979eea06c4e21044cb21d512fc07180a3e085b59d04aeb74e4962db73f04"
+    },
+    "alternate": {
+      "path": "models/button-down-shirt/previews/alternate.jpg",
+      "sha256": "63e2c7e7cf0aef661d6f0fe7a17716aced8404a616c461e40e2f77d791cd03b3"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9",
+      "path": "models/button-down-shirt/textures/Color_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9__0__Color_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9.png",
+      "sha256": "9002f5fc3935abb097a65d48cc1ed3bddd53da851137e39e53723a631c2e52f1",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9",
+      "path": "models/button-down-shirt/textures/NormalGL_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9__0__NormalGL_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9.png",
+      "sha256": "fe262690a37abcc311357164b05f3c6c35bfefe2542d31a98310f78546e9685a",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9",
+      "path": "models/button-down-shirt/textures/ORM_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9__0__ORM_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9.png",
+      "sha256": "f49fb1d32c40aa46aa113c240c5f237a611671ff18aaa97f6766c68c5ca92a6f",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Shirt | paired mask A10 shoulder-contour copy",
+      "path": "models/button-down-shirt/textures/Shirt___paired_mask_A10_shoulder-contour_copy__0__Shirt___paired_mask_A10_shoulder-contour_copy.png",
+      "sha256": "b6effd332634a44e7f8d85a28f933a122695fe1c15085f741c6116a45dacd4a9",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Shirt | paired mask with blank cream interior label region",
+      "path": "models/button-down-shirt/textures/Shirt___paired_mask_with_blank_cream_interior_label_region__0__Shirt___paired_mask_with_blank_cream_interior_label_region.png",
+      "sha256": "8a60202cca9127ce69a4d9dbbea6e15fe5d7e9c5b87e03deb5ac962982121401",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "dog-rope-toy",
+  "name": "Braided dog rope toy",
+  "category": "Dog Toys",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/dog-rope-toy/dog-rope-toy.blend",
+  "native_sha256": "398ae0aeda2beab3258d45b3d64e0b20bb73049ab7665299a392b1765c147ee6",
+  "source_native_sha256": "398ae0aeda2beab3258d45b3d64e0b20bb73049ab7665299a392b1765c147ee6",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/dog-rope-toy/previews/preview.jpg",
+      "sha256": "ca2e981a6c100b084e20a1079583dea5c860b3a60b79fb51300b0a984818055b"
+    },
+    "alternate": {
+      "path": "models/dog-rope-toy/previews/alternate.jpg",
+      "sha256": "094c6ecc097fdbb7a22d3afd86dbbf2461ab272b55315ccf1188375c4bf81989"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

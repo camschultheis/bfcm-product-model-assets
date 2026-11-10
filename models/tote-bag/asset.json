@@ -1,0 +1,37 @@
+{
+  "id": "tote-bag",
+  "name": "Tote bag",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/tote-bag/tote-bag.blend",
+  "native_sha256": "544a432891474f91bfb70793893d7e644403ba9bb4cec003e76cf839847aaf14",
+  "source_native_sha256": "544a432891474f91bfb70793893d7e644403ba9bb4cec003e76cf839847aaf14",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/tote-bag/previews/preview.jpg",
+      "sha256": "878bf5365452677a5bfa9aabfb5e3a7e2cc3a66730bd39b4be7b75ba010d7b44"
+    },
+    "alternate": {
+      "path": "models/tote-bag/previews/alternate.jpg",
+      "sha256": "997ca2aee07ac1a5035213e2aa4c3a38c8e3491fd764014eed81234bf57bed5e"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Front artwork boundaries",
+      "path": "models/tote-bag/textures/Front_artwork_boundaries__0__Front_artwork_boundaries.png",
+      "sha256": "8380384e56112ad2f9d75d4ec90017ba82864e6480d4a8e05d6caac97d1bbce0",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

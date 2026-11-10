@@ -1,0 +1,28 @@
+{
+  "id": "press-on-nail-kit",
+  "name": "Press-on nail display kit",
+  "category": "False Nails",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "models/press-on-nail-kit/press-on-nail-kit.blend",
+  "native_sha256": "95d1f329e9035ef4c5d352f9142d5d973132fb30a98aa3044862aa7990ade4ce",
+  "source_native_sha256": "95d1f329e9035ef4c5d352f9142d5d973132fb30a98aa3044862aa7990ade4ce",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/press-on-nail-kit/previews/preview.jpg",
+      "sha256": "ffcb14898816a8da68e0eef2f93e98ef0fe4cacd28dce537d94da2083df46a88"
+    },
+    "alternate": {
+      "path": "models/press-on-nail-kit/previews/alternate.jpg",
+      "sha256": "c63d4e717535dfaf01ebb4670eba3bacd7fdf8600737b17f30334988c6062a33"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

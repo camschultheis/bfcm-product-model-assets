@@ -1,0 +1,53 @@
+{
+  "id": "aquarium",
+  "name": "Aquarium",
+  "category": "Aquariums",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/aquarium/aquarium.blend",
+  "native_sha256": "ed722fedc1ec4840910b084ac5de150496f69d6c627b51191f823638cf2fae7e",
+  "source_native_sha256": "ed722fedc1ec4840910b084ac5de150496f69d6c627b51191f823638cf2fae7e",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/aquarium/previews/preview.jpg",
+      "sha256": "8bd0b8f40eb5e708e644962ad3b7861208c8ca1ddcd9d7342858d01ae4404a83"
+    },
+    "alternate": {
+      "path": "models/aquarium/previews/alternate.jpg",
+      "sha256": "13f30be73d376fd0587492e25ccc0dfb831fd582a7341fa88c681f7147fffde8"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "M_JikinFins_baseColor",
+      "path": "models/aquarium/textures/M_JikinFins_baseColor__0__M_JikinFins_baseColor.png",
+      "sha256": "2764e90c004896d1217dd9494ec8f5f97aacc149039716713eb2ab4964a52f89",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "M_JikinFins_metallicRoughness_metal.jpg-M_JikinFins_metallicRoughness_rough.jpg",
+      "path": "models/aquarium/textures/M_JikinFins_metallicRoughness_metal.jpg-M_JikinFins_metallicRoughness_rough.jpg__0__M_JikinFins_metallicRoughness_metal.jpg-M_JikinFins_metallicRoughness_rough.jpg",
+      "sha256": "8d301b864df0a6019ed81b66250f5ff41164911a6b43c7aeb54fd123b628da79",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "M_JikinFins_normal",
+      "path": "models/aquarium/textures/M_JikinFins_normal__0__M_JikinFins_normal.png",
+      "sha256": "2dc7c122a1e0257d53029e0df1a6c5d395f62b00159ba2a19b8bd1431e52ce05",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

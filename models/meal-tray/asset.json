@@ -1,0 +1,28 @@
+{
+  "id": "meal-tray",
+  "name": "Meal Tray",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/meal-tray/meal-tray.blend",
+  "native_sha256": "d4bc91c67d49320e91c089bd73ba4ca5d8f411ce84dfbb5866f185e33733dfe7",
+  "source_native_sha256": "d4bc91c67d49320e91c089bd73ba4ca5d8f411ce84dfbb5866f185e33733dfe7",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/meal-tray/previews/preview.jpg",
+      "sha256": "cf0d0fc0923e3e3607e4b25f8f2b0fc69da6eba9828ad7f7ba6b566a7465201e"
+    },
+    "alternate": {
+      "path": "models/meal-tray/previews/alternate.jpg",
+      "sha256": "4d71f784cf9e705eb4ace749e35a4f79d4875e0c6577a59d60a003b432ab6858"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

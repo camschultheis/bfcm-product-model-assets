@@ -1,0 +1,28 @@
+{
+  "id": "flats",
+  "name": "Flats",
+  "category": "Flats",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/flats/flats.blend",
+  "native_sha256": "a0ec47a5b5c65bb7380e99cf846b19560c21bdddae9e7dd63524cf4b8198bba7",
+  "source_native_sha256": "a0ec47a5b5c65bb7380e99cf846b19560c21bdddae9e7dd63524cf4b8198bba7",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/flats/previews/preview.jpg",
+      "sha256": "a7478f86a95c1aa9d0ecb315481530abaed36a5ba8b394f0db0348eff9e2ba36"
+    },
+    "alternate": {
+      "path": "models/flats/previews/alternate.jpg",
+      "sha256": "49e5b839cbdde482fee20c8e65a5d1a3c25ffb4da422af609e8ed265e7a20e5f"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

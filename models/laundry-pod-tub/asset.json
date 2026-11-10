@@ -1,0 +1,28 @@
+{
+  "id": "laundry-pod-tub",
+  "name": "Laundry detergent pod tub",
+  "category": "Laundry Detergent",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/laundry-pod-tub/laundry-pod-tub.blend",
+  "native_sha256": "7b676217c721d7489ed6a91b571d00c8f17ec1e1b90ee556f8413ecc27b181a5",
+  "source_native_sha256": "7b676217c721d7489ed6a91b571d00c8f17ec1e1b90ee556f8413ecc27b181a5",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/laundry-pod-tub/previews/preview.jpg",
+      "sha256": "c9169b81cc8d6ee132211231a4468856392d1dc0d511fbcedcca2c98c8dc9630"
+    },
+    "alternate": {
+      "path": "models/laundry-pod-tub/previews/alternate.jpg",
+      "sha256": "64e7daeaf5af1a2788ea38cdaaac60ff48572a314fc81517ce683db0bf706c3e"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

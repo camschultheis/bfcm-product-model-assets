@@ -1,0 +1,28 @@
+{
+  "id": "pruning-shears",
+  "name": "Pruning shears",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/pruning-shears/pruning-shears.blend",
+  "native_sha256": "101c016a1f3ea024c01c7cbc0ac6fbe19a6baabb5c60d614e3917c820c5c7ce9",
+  "source_native_sha256": "101c016a1f3ea024c01c7cbc0ac6fbe19a6baabb5c60d614e3917c820c5c7ce9",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/pruning-shears/previews/preview.jpg",
+      "sha256": "e3730f3112445d74be26eff4db42b763b18d851b364d55da7afb888331b66413"
+    },
+    "alternate": {
+      "path": "models/pruning-shears/previews/alternate.jpg",
+      "sha256": "3522bcd415c471d3efa719b4333659fea77956db77e63fbd4d5a9011ee4deb67"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sneaker",
+  "name": "Sneaker",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "cream_blue",
+  "native": "models/sneaker/sneaker.blend",
+  "native_sha256": "253bc28afed9c4ba71d7364a800fe2a995605ce3918d32eeee84a792f9c5fe2b",
+  "source_native_sha256": "253bc28afed9c4ba71d7364a800fe2a995605ce3918d32eeee84a792f9c5fe2b",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/sneaker/previews/preview.jpg",
+      "sha256": "dc1581445c7b52911ec3e908d60ff9b07fbcd5525b51c5ab7b9a96b2b5ae2079"
+    },
+    "alternate": {
+      "path": "models/sneaker/previews/alternate.jpg",
+      "sha256": "effc6f53f665beae569caedb8fc4d444154b4c4649bfda0d48f897d2c23bb813"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Complete_Ink_Circles.png",
+      "path": "models/sneaker/textures/Complete_Ink_Circles.png__0__Complete_Ink_Circles.png",
+      "sha256": "7f87e2555484bc9ccc5ce5208f62fe784ae0b07e0ee94c7e3b44e6c122c1acf9",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

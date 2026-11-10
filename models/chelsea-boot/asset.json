@@ -1,0 +1,69 @@
+{
+  "id": "chelsea-boot",
+  "name": "Leather Chelsea boot",
+  "category": "Boots",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "models/chelsea-boot/chelsea-boot.blend",
+  "native_sha256": "77afe3745e564ceae3aa9f71bb9762a7f78ce2332668f224d20f417d90d53250",
+  "source_native_sha256": "77afe3745e564ceae3aa9f71bb9762a7f78ce2332668f224d20f417d90d53250",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/chelsea-boot/previews/preview.jpg",
+      "sha256": "83c3336f95e3215e523705b2b35c2bd20c0044a5e46632d30e4de44ba09443b0"
+    },
+    "alternate": {
+      "path": "models/chelsea-boot/previews/alternate.jpg",
+      "sha256": "27fe0c8b4c405785d15bb4b5e3d02fd09e5069ef758c94d7bb3a09b071a46341"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "chelsea-boot | cleaned classification mask",
+      "path": "models/chelsea-boot/textures/chelsea-boot___cleaned_classification_mask__0__chelsea-boot___cleaned_classification_mask.png",
+      "sha256": "5cee6e2d48603db1db08cd859b9bf1de07f2761e076fd5f384e232bf37da1c72",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "chelsea-boot | R03 clean paired semantic mask",
+      "path": "models/chelsea-boot/textures/chelsea-boot___R03_clean_paired_semantic_mask__0__chelsea-boot___R03_clean_paired_semantic_mask.png",
+      "sha256": "cbae13509248ab70f3a82ca89878a792ba0a97535d4bc854773e138adea6e0cd",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Color_62341661-90bc-4ff2-8bfc-607c0b5522f8",
+      "path": "models/chelsea-boot/textures/Color_62341661-90bc-4ff2-8bfc-607c0b5522f8__0__Color_62341661-90bc-4ff2-8bfc-607c0b5522f8.png",
+      "sha256": "ad10ce2ea3e178838bb701ec949aba07286a31a35a882ee6d76322254941b268",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_62341661-90bc-4ff2-8bfc-607c0b5522f8",
+      "path": "models/chelsea-boot/textures/NormalGL_62341661-90bc-4ff2-8bfc-607c0b5522f8__0__NormalGL_62341661-90bc-4ff2-8bfc-607c0b5522f8.png",
+      "sha256": "bab90068d46b00267a22155ac09956434f599cdf78f153081e741a06f23917c7",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_62341661-90bc-4ff2-8bfc-607c0b5522f8",
+      "path": "models/chelsea-boot/textures/ORM_62341661-90bc-4ff2-8bfc-607c0b5522f8__0__ORM_62341661-90bc-4ff2-8bfc-607c0b5522f8.png",
+      "sha256": "0e5715a415cfb773fbf17ea14ea9bafdab2c2d889f2cf0a9500f009fe0445d01",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

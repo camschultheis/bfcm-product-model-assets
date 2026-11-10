@@ -1,0 +1,28 @@
+{
+  "id": "swim-goggles",
+  "name": "Swim Goggles",
+  "category": "Swim Goggles",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/swim-goggles/swim-goggles.blend",
+  "native_sha256": "35f971f18849263fbc2af0360c19d20eb1dd3e52861d36487f570e4824062fbf",
+  "source_native_sha256": "35f971f18849263fbc2af0360c19d20eb1dd3e52861d36487f570e4824062fbf",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/swim-goggles/previews/preview.jpg",
+      "sha256": "ef71671ecb1b56e512120691129ae414c0f881977d30c1e98a7898dd0f678dd2"
+    },
+    "alternate": {
+      "path": "models/swim-goggles/previews/alternate.jpg",
+      "sha256": "41c90ee89a570161a1919595e35c7238c37cebffd6a90646686184c983fc5134"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

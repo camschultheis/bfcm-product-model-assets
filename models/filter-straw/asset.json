@@ -1,0 +1,28 @@
+{
+  "id": "filter-straw",
+  "name": "Filter Straw",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/filter-straw/filter-straw.blend",
+  "native_sha256": "a10859815cb425ce2cb483aa235dce5f4f0e539721ab63d1f9247a2133bd0eaa",
+  "source_native_sha256": "a10859815cb425ce2cb483aa235dce5f4f0e539721ab63d1f9247a2133bd0eaa",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/filter-straw/previews/preview.jpg",
+      "sha256": "9303918fb4f25d7f8ad4a6609350596fba528f825086f4cd2dc83c14038457f3"
+    },
+    "alternate": {
+      "path": "models/filter-straw/previews/alternate.jpg",
+      "sha256": "1cc3882aca59c9f8167c839b5d3981ee7a0c96a4712d5d7526b03885060c02cc"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

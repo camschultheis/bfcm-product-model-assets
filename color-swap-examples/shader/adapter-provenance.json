@@ -1,0 +1,16 @@
+{
+  "adapter_version": "bfcm-pigment-v4",
+  "manifest_schema": "bfcm-pigment-manifest/v4",
+  "source": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/src/explores/645-products-color-swap/pigment-adapter.ts",
+  "sha256": "beba6ba8ea00a783d2358277d4ee959d4876e5c496167d70adaa0c5e5997b673",
+  "prior": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/adapter-v3-preserved/pigment-adapter.ts",
+  "authored_by": "Pi Opus 5.5 (v3); Codex root (v4 stock delta correction)",
+  "director": "Codex root",
+  "stock_encoding": "default-palette",
+  "source_defaults": "explicit immutable per-material linear A/B before tone",
+  "validation": {
+    "shader_fixture": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/adapter-v4-gpu-qa/report.json",
+    "stock_delta_fixture": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/adapter-v4-delta-qa/report.json",
+    "actual_product_fidelity": "pending exports"
+  }
+}

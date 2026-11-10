@@ -1,0 +1,53 @@
+{
+  "id": "toaster",
+  "name": "Toaster",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/toaster/toaster.blend",
+  "native_sha256": "370719c76bf468a5a23c70c7df97c15846ddefc5c8bf1eef62f790fabf1ed13d",
+  "source_native_sha256": "370719c76bf468a5a23c70c7df97c15846ddefc5c8bf1eef62f790fabf1ed13d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/toaster/previews/preview.jpg",
+      "sha256": "333232274a9c9435fa041ac45816716b85bd384032a4ce9d06e0565a0f599d36"
+    },
+    "alternate": {
+      "path": "models/toaster/previews/alternate.jpg",
+      "sha256": "2d92d39a08d53742c5942a0c960cd6fb22c8f2cf0d4c7fba8c39da1cbd498522"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "toaster_MoldedPlastic_Normal.png",
+      "path": "models/toaster/textures/toaster_MoldedPlastic_Normal.png__0__toaster_MoldedPlastic_Normal.png",
+      "sha256": "1eef662facf22e56f490b19291d7a9c7c613b9d4fec5fd0c8073935577a0d402",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "toaster_SlotInterior_Occlusion.png",
+      "path": "models/toaster/textures/toaster_SlotInterior_Occlusion.png__0__toaster_SlotInterior_Occlusion.png",
+      "sha256": "ce42810b6005f7b1136dd07a53ddfafc67ea49c5eedd651c63e40e111eab046e",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "toaster_waves_BaseColor.png",
+      "path": "models/toaster/textures/toaster_waves_BaseColor.png__0__toaster_waves_BaseColor.png",
+      "sha256": "99d9172c5eddacf5442dba439e6d016643567a0023045975c2b4e942762c3b98",
+      "packed": true,
+      "color_space": "sRGB"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

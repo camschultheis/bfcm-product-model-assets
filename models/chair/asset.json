@@ -1,0 +1,45 @@
+{
+  "id": "chair",
+  "name": "Chair",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/chair/chair.blend",
+  "native_sha256": "280c19e987c62b6074991fc4b335231440825ba554fd5d8a6dd847ba25240f29",
+  "source_native_sha256": "280c19e987c62b6074991fc4b335231440825ba554fd5d8a6dd847ba25240f29",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/chair/previews/preview.jpg",
+      "sha256": "56c1b2c33232cefd424fcb51bdf644aa5064da17b3eb3690d04c9728e29e2002"
+    },
+    "alternate": {
+      "path": "models/chair/previews/alternate.jpg",
+      "sha256": "8a4018336dead6be911779729b4d3624901a9aebd36c1ef2885be193ebe5e922"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pass 02 traced motif / chair-lobes",
+      "path": "models/chair/textures/Pass_02_traced_motif___chair-lobes__0___chair-lobes.png",
+      "sha256": "c90aba7ff990e0d367b68b9a0dcf15bcb3259310038e6429949ee47bc42ee99d",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Pattern tile / waves",
+      "path": "models/chair/textures/Pattern_tile___waves__0___waves.png",
+      "sha256": "90e8bd79a3b6f625b208b06c3791043ff47f908fff986b5fcbe0f8e06856dc62",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

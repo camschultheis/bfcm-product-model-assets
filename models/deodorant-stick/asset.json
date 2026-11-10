@@ -1,0 +1,28 @@
+{
+  "id": "deodorant-stick",
+  "name": "Twist-up deodorant stick",
+  "category": "Deodorants",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/deodorant-stick/deodorant-stick.blend",
+  "native_sha256": "5a843cdf4d8e21bdda38c6ba847b8587ee7cbf12876c11398d8fd8db6540d1e0",
+  "source_native_sha256": "5a843cdf4d8e21bdda38c6ba847b8587ee7cbf12876c11398d8fd8db6540d1e0",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/deodorant-stick/previews/preview.jpg",
+      "sha256": "77655a75f3439ddfe9d0f2b79bf71f16b5e28b36ab1054a5bae06674c79e6fc7"
+    },
+    "alternate": {
+      "path": "models/deodorant-stick/previews/alternate.jpg",
+      "sha256": "5c7195d25d39762c6c55685c2d88aa912dc591bd48631be6645a7450ad1a0e26"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

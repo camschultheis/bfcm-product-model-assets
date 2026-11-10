@@ -1,0 +1,29 @@
+{
+  "product": "bowling-ball",
+  "generation": "bowling-ball-tangents05-lossless",
+  "source_native": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/groups/originals-soft-accents/bowling-only-02/work/jobs/r05-build/bowling-ball__p19_bb02_r05.blend",
+  "source_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+  "native_delta": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/bowling-ball-full02/artifacts/native_delta.blend",
+    "sha256": "2bdc9459e57478a3edd295d682044a3449581d34814898e0a9caf772af190af6",
+    "palette_state_saved": "source-default",
+    "samples_saved": 96
+  },
+  "stock_glb": {
+    "url": "bowling-ball__stock.tangent_repair05.glb",
+    "sha256": "3d3580e7968546628acefcd1eb06de3034d8d62674e44b4b1e80af23dde57826",
+    "bytes": 17388220
+  },
+  "pigment_maps": {
+    "bowling_mix": {
+      "authored_sha256": "fa306efc7cd7a19761dab04df63a28af1760a172a3260a4c45af77424d7cc622",
+      "authored_bytes": 22370084,
+      "delivery_sha256": "7f4f429ebcecbcf23126332b3c3dad0fa3ec47eed5d318c8ca62506e1316e240",
+      "delivery_bytes": 1957561,
+      "preserved_mips": 12
+    }
+  },
+  "artifact_root": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/bowling-ball-tangents05-package01/artifacts",
+  "state": "accepted-pilot-product",
+  "root_acceptance_record": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_BOWLING_PILOT_ACCEPTANCE04.json"
+}

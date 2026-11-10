@@ -1,0 +1,28 @@
+{
+  "id": "fresh-cut-flowers",
+  "name": "Fresh Cut Flowers",
+  "category": "Fresh Cut Flowers",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/fresh-cut-flowers/fresh-cut-flowers.blend",
+  "native_sha256": "b2fe4179d7aada8a6f2e6a85290a5f708601ccd705e8fb9341d32d0472b51e3a",
+  "source_native_sha256": "b2fe4179d7aada8a6f2e6a85290a5f708601ccd705e8fb9341d32d0472b51e3a",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/fresh-cut-flowers/previews/preview.jpg",
+      "sha256": "b7afb4532ad4f2827863073f077a2c139f22598f1258ad7d7ec9d65bb5552e9c"
+    },
+    "alternate": {
+      "path": "models/fresh-cut-flowers/previews/alternate.jpg",
+      "sha256": "121f10ae36ec05114c4d75bcfbf2694775404662b0076bd16e72711af8913c05"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

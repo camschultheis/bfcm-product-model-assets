@@ -1,0 +1,258 @@
+{
+  "schema": "bfcm-pigment-manifest/v4",
+  "product_id": "field-jacket",
+  "model_id": "field-jacket:derivative-v2:dd9648f74a5e",
+  "source_native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+  "default_pair": "lilac_orange",
+  "stock_base_color": "default-palette",
+  "glb": {
+    "url": "field-jacket__stock.glb",
+    "sha256": "757222c38e76a7071234a8fe0b583c3f9907bb767324fe24adb65dcfdd2b57d7",
+    "bytes": 35263036
+  },
+  "native_hero": {
+    "url": "/models/combined107-progress/previews/field-jacket-hero.jpg",
+    "sha256": "7e1280dba4d1c0c9a895123e82faa61a803325b54ebd04c2a54a3fe289ce8e00"
+  },
+  "package_metrics": {
+    "glb_bytes": 35263036,
+    "pigment_bytes": 431458,
+    "total_bytes": 35694494
+  },
+  "pigment_maps": {
+    "field_mix": {
+      "url": "field-jacket__field_mix-zstd.ktx2",
+      "sha256": "0b36d43784001c9849150495e1227e8e644c430f8d696075878da9b3a18f76e3",
+      "format": "ktx2",
+      "width": 2048,
+      "height": 2048,
+      "mip_count": 12,
+      "wrap": "clamp"
+    }
+  },
+  "materials": [
+    {
+      "material_id": "field-jacket.shell-pair-regrade",
+      "gltf_material_index": 0,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.715693473815918,
+          0.5972017645835876,
+          0.9130986332893372
+        ],
+        "default_b_linear": [
+          0.9130986332893372,
+          0.09530746936798096,
+          0.0018211619462817907
+        ],
+        "vertex_color": "none",
+        "map": "field_mix",
+        "texCoord": 0,
+        "uv_matrix": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "tone_scale": 1.0,
+        "tone_bias": 1.0,
+        "channel_constants": {
+          "coverage": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "field-jacket.stitch-secondary-finish",
+      "gltf_material_index": 1,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.715693473815918,
+          0.5972017645835876,
+          0.9130986332893372
+        ],
+        "default_b_linear": [
+          0.9130986332893372,
+          0.09530746936798096,
+          0.0018211619462817907
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "field-jacket.snap-caps-bare-steel",
+      "gltf_material_index": 2,
+      "material_name": null,
+      "role": "fixed",
+      "pigment": null
+    }
+  ],
+  "camera": {
+    "status": "measured",
+    "coordinates": "glTF Y-up (Blender [x,y,z] -> [x,z,-y])",
+    "position": [
+      27.79893684387207,
+      24.314510345458984,
+      48.259483337402344
+    ],
+    "target": [
+      -0.0122817855969366,
+      1.8415873831779095,
+      0.08904796877173027
+    ],
+    "target_source": "evaluated product bbox centre projected onto forward line",
+    "up": [
+      -0.1873033195734024,
+      0.9271838665008545,
+      -0.3244188725948334
+    ],
+    "projection": "orthographic",
+    "orthographic_scale": 4.989212989807129,
+    "orthographic_scale_definition": "Blender ortho_scale = full extent of the larger image dimension",
+    "xmag": 2.4946064949035645,
+    "ymag": 2.4946064949035645,
+    "near": 0.10000000149011612,
+    "far": 500.0,
+    "native_source_pose": {
+      "position": [
+        27.79893684387207,
+        -48.259483337402344,
+        24.314510345458984
+      ],
+      "forward": [
+        -0.463591992855072,
+        0.8029647469520569,
+        -0.3746066391468048
+      ],
+      "up": [
+        -0.1873033195734024,
+        0.3244188725948334,
+        0.9271838665008545
+      ],
+      "type": "ORTHO",
+      "ortho_scale": 4.989212989807129,
+      "angle": 0.691111147403717,
+      "sensor_fit": "AUTO",
+      "clip": [
+        0.10000000149011612,
+        500.0
+      ],
+      "track_target": null,
+      "resolution": [
+        900,
+        900
+      ],
+      "pixel_aspect": [
+        1.0,
+        1.0
+      ],
+      "unit_scale_length": 0.10000000149011612
+    },
+    "glb_readback": {
+      "node": 0,
+      "position": [
+        27.79893684387207,
+        24.314510345458984,
+        48.259483337402344
+      ],
+      "forward": [
+        -0.4635919760576301,
+        -0.3746066081684944,
+        -0.8029647369912815
+      ],
+      "up": [
+        -0.18730329751939848,
+        0.9271838486063566,
+        -0.3244188428896578
+      ],
+      "camera": {
+        "name": "Studio | ortho camera",
+        "orthographic": {
+          "xmag": 2.4946064949035645,
+          "ymag": 2.4946064949035645,
+          "zfar": 500,
+          "znear": 0.10000000149011612
+        },
+        "type": "orthographic"
+      },
+      "max_abs_delta": {
+        "position": 0.0,
+        "forward": 3.097831041687371e-08,
+        "up": 2.970517559708341e-08
+      }
+    }
+  },
+  "status": "ready",
+  "bfcm_candidate": {
+    "review": "root actual runtime review pending",
+    "compression": "lossless Zstd for authored pigment mips; stock GLB unchanged"
+  },
+  "standard_material_overrides": {
+    "schema": "bfcm-standard-sheen-override/v1",
+    "source_glb": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/field-jacket-full02/artifacts/field-jacket__stock.glb",
+    "source_sha256": "4bd2b0545905d9eb6ea75b6275105464c242b587daf81f84e0e7c893d290503d",
+    "output_glb": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/field-jacket-sheen03/artifacts/field-jacket__stock.glb",
+    "output_sha256": "757222c38e76a7071234a8fe0b583c3f9907bb767324fe24adb65dcfdd2b57d7",
+    "declared_changes": [
+      {
+        "material_index": 0,
+        "material_name": "field-jacket | exact pair regrade preserving ORM and normal | BFCM stock",
+        "native_weight": 0.10000000149011612,
+        "native_tint": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "before": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "after": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ]
+      },
+      {
+        "material_index": 1,
+        "material_name": "field-jacket | native secondary finish | BFCM stock",
+        "native_weight": 0.10000000149011612,
+        "native_tint": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "before": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "after": [
+          0.10000000149011612,
+          0.10000000149011612,
+          0.10000000149011612
+        ]
+      }
+    ],
+    "bin_chunks_exact": true,
+    "all_undeclared_json_exact": true,
+    "native_files_unchanged": true,
+    "native_readback_sha256": "f556394895f49d4c7dfe6731b30d0e53e63ea5fed9bd2bfc26f651e8e4d060c9",
+    "state": "candidate-runtime-comparison"
+  }
+}

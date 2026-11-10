@@ -1,0 +1,28 @@
+{
+  "id": "crystals",
+  "name": "Crystals",
+  "category": "Crystals",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/crystals/crystals.blend",
+  "native_sha256": "4bca2674f17e66e70559c5b79347ec4d079d2167025b5bb56b61f18c7bcfc361",
+  "source_native_sha256": "4bca2674f17e66e70559c5b79347ec4d079d2167025b5bb56b61f18c7bcfc361",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/crystals/previews/preview.jpg",
+      "sha256": "de3c855634eb8bd7232b2f5868ff271c3ff8f361f0515785c8a7e91cda32245e"
+    },
+    "alternate": {
+      "path": "models/crystals/previews/alternate.jpg",
+      "sha256": "fd735d18562ff35b19fd9a8be66149232382d1c24f25226998a8e8fac02d6393"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

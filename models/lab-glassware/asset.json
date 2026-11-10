@@ -1,0 +1,28 @@
+{
+  "id": "lab-glassware",
+  "name": "Maple syrup flask",
+  "category": "Syrups",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "models/lab-glassware/lab-glassware.blend",
+  "native_sha256": "93cd13d1b7292aeb60180f862494997ca7b042ff587d370de9f32f8aaf52698a",
+  "source_native_sha256": "93cd13d1b7292aeb60180f862494997ca7b042ff587d370de9f32f8aaf52698a",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/lab-glassware/previews/preview.jpg",
+      "sha256": "e6125fe4e5f34d86b046431c01524b2599f259da86d38fcd520e3fef04b797e4"
+    },
+    "alternate": {
+      "path": "models/lab-glassware/previews/alternate.jpg",
+      "sha256": "726f7a3b056f09b59d82a0270484a5721ff266ffc1b2af8c884b01cda77be25a"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

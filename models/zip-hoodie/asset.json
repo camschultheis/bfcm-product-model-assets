@@ -1,0 +1,69 @@
+{
+  "id": "zip-hoodie",
+  "name": "Zip-front hooded sweatshirt",
+  "category": "Hoodies",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/zip-hoodie/zip-hoodie.blend",
+  "native_sha256": "f30d400495180cd83fa901a23937d39ffb957dfbe62861a56667149d08ac55f8",
+  "source_native_sha256": "f30d400495180cd83fa901a23937d39ffb957dfbe62861a56667149d08ac55f8",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/zip-hoodie/previews/preview.jpg",
+      "sha256": "235402e67eeec8b58271b5091fee52a75dc710d37143b4fbdd5a927940fb3ad4"
+    },
+    "alternate": {
+      "path": "models/zip-hoodie/previews/alternate.jpg",
+      "sha256": "322a87ca4050558947177650b93642a0e2337095416f7a4c8337cf4d6099894f"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_91c433d5-0bdc-42d8-8968-287db66cac82",
+      "path": "models/zip-hoodie/textures/Color_91c433d5-0bdc-42d8-8968-287db66cac82__0__Color_91c433d5-0bdc-42d8-8968-287db66cac82.png",
+      "sha256": "520eb77aa7f5e6e0956e3d0f7dd3b1cf7e1b852f37e3b194e9040e8db41bb1a0",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_91c433d5-0bdc-42d8-8968-287db66cac82",
+      "path": "models/zip-hoodie/textures/NormalGL_91c433d5-0bdc-42d8-8968-287db66cac82__0__NormalGL_91c433d5-0bdc-42d8-8968-287db66cac82.png",
+      "sha256": "cc75cdc5916387f6c949cab5dc9c18ee3505161306b74b393f7d1f630cb64a6f",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_91c433d5-0bdc-42d8-8968-287db66cac82",
+      "path": "models/zip-hoodie/textures/ORM_91c433d5-0bdc-42d8-8968-287db66cac82__0__ORM_91c433d5-0bdc-42d8-8968-287db66cac82.png",
+      "sha256": "68a369e15ce58c477d42e1e5d02e0b0ce797c8f6dcf93ba089bbdc9f56ea62c4",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "zip-hoodie | R04 directed paired semantic mask",
+      "path": "models/zip-hoodie/textures/zip-hoodie___R04_directed_paired_semantic_mask__0__zip-hoodie___R04_directed_paired_semantic_mask.png",
+      "sha256": "0b81ad140aeb6e05bc62074e932999105957ec31390b1b762238a85f591435c0",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "zip-hoodie | R04 printed-ghost normal keep mask",
+      "path": "models/zip-hoodie/textures/zip-hoodie___R04_printed-ghost_normal_keep_mask__0__zip-hoodie___R04_printed-ghost_normal_keep_mask.png",
+      "sha256": "e77d58534ab9048cb70a06743c9148b532e09a19a574c2ece26b713e51755d24",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

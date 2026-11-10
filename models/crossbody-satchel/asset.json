@@ -1,0 +1,28 @@
+{
+  "id": "crossbody-satchel",
+  "name": "Structured crossbody satchel",
+  "category": "Cross Body Bags",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/crossbody-satchel/crossbody-satchel.blend",
+  "native_sha256": "721b3b355414e5060331026583357ff51a03880ad92b0f7c4389a10f29e619f4",
+  "source_native_sha256": "721b3b355414e5060331026583357ff51a03880ad92b0f7c4389a10f29e619f4",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/crossbody-satchel/previews/preview.jpg",
+      "sha256": "8956408c8ce448f8917a2aa1607eb383c7a211d5be692f70177fa457d424ab04"
+    },
+    "alternate": {
+      "path": "models/crossbody-satchel/previews/alternate.jpg",
+      "sha256": "9048532c8cb80e6ad840a2f9905ee23aa2a41e7effc57e05bc3376265017ebb1"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

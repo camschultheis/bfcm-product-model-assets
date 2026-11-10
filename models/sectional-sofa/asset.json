@@ -1,0 +1,28 @@
+{
+  "id": "sectional-sofa",
+  "name": "Sectional Sofa",
+  "category": "Sectional Sofas",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": null,
+  "native": "models/sectional-sofa/sectional-sofa.blend",
+  "native_sha256": "78ab2e4037a8070439ad07ce1a7dd4ddf4dfb5ef68864a7259697e7685971ebb",
+  "source_native_sha256": "78ab2e4037a8070439ad07ce1a7dd4ddf4dfb5ef68864a7259697e7685971ebb",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/sectional-sofa/previews/preview.jpg",
+      "sha256": "49f11e2e4c37d2c266931e2dde3943f23040f858555aa03b32488cfde681707d"
+    },
+    "alternate": {
+      "path": "models/sectional-sofa/previews/alternate.jpg",
+      "sha256": "aa5f0597eb3679487fe8a7596071352dc972101b4ef85dea1691623f51979d42"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

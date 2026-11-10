@@ -1,0 +1,45 @@
+{
+  "id": "keypad",
+  "name": "Calculator",
+  "category": "Cameras & Optics / Electronics",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_green",
+  "native": "models/keypad/keypad.blend",
+  "native_sha256": "5e60631edfff7aaff03713dec400e4a5cb76d93501c1467450b004fd37fb0462",
+  "source_native_sha256": "5e60631edfff7aaff03713dec400e4a5cb76d93501c1467450b004fd37fb0462",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/keypad/previews/preview.jpg",
+      "sha256": "b87c36d78d6c166bae163ab5a278e4cb48f2b106c0aa505781f860e0ef0b18b0"
+    },
+    "alternate": {
+      "path": "models/keypad/previews/alternate.jpg",
+      "sha256": "6818016c543cc184bba9658c4ea5f06d91a03004b5b46f825587aedde9db5e07"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Keypad / continuous mint cyan stripes / repeat mask",
+      "path": "models/keypad/textures/Keypad___continuous_mint_cyan_stripes___repeat_mask__0___repeat_mask.png",
+      "sha256": "f4445819a02fb3717390c60086ab264318ed461652fb2be79f1fa18d7b21d9c2",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Pattern tile / stripes",
+      "path": "models/keypad/textures/Pattern_tile___stripes__0___stripes.png",
+      "sha256": "8e36c916b3d4f75d0d6d470816c1ab02e48f8b410fc770669803e339963919ba",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

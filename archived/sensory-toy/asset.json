@@ -1,0 +1,28 @@
+{
+  "id": "sensory-toy",
+  "name": "Sensory Toy",
+  "category": "Custom products",
+  "collection_status": "archived",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "archived/sensory-toy/sensory-toy.blend",
+  "native_sha256": "c2872150cf2a8ffa54c7c6d83c47c9ab9d2589f6d38cea00b50ec605b628e943",
+  "source_native_sha256": "c2872150cf2a8ffa54c7c6d83c47c9ab9d2589f6d38cea00b50ec605b628e943",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "archived/sensory-toy/previews/preview.jpg",
+      "sha256": "cb23c2c405010a69c49d93b7b089ade09c40761c9865c671c7fe19c94162efb0"
+    },
+    "alternate": {
+      "path": "archived/sensory-toy/previews/alternate.jpg",
+      "sha256": "fecf4bf0db47ae394d31b601485140ea439efee6886ad3acbe3cd8f55afe047e"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

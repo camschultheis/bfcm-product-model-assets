@@ -1,0 +1,26 @@
+{
+  "schema": "bfcm-root-pilot-product-acceptance/v1",
+  "product": "headphones",
+  "generation": "headphones-slice02-lossless",
+  "state": "accepted-pilot-product",
+  "recorded_at": "2026-11-09T14:50:58.233557+00:00",
+  "source_native_sha256": "e63b19f8d0438ca34bd8b91c39267606cf1459e0dec5200293e7d14540dcd71c",
+  "native_default_and_mint_reversal_viewed": true,
+  "native_stock_viewed": true,
+  "default_stock_framebuffer_identity": true,
+  "palette_states": 10,
+  "uniforms_and_resources_stable": true,
+  "semantic_mips_reviewed": true,
+  "lossless_delivery_mips_verified": true,
+  "exported_tangent_basis": {
+    "state": "resolved-correct-BakeUV1",
+    "report": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/SUPERVISOR_HEADPHONES_TANGENT_SCREEN01.json",
+    "sha256": "f3e5c5bba406f9676197d784798d064e1b5583a279b6779ab024e273bafe0a19"
+  },
+  "qualification": [
+    "Native shared group math fixture count metadata was shadowed by a loop variable; independent audit derives297cases. Numeric evaluation passed all states; original report preserved.",
+    "Three stock studio differs from native lighting. Exported PBR/native matched-camera difference is small, with largest error localized.",
+    "Chrome desktop/mobile viewport checks; no physical mobile device measurement."
+  ],
+  "delivery_bytes": 4453785
+}

@@ -1,0 +1,28 @@
+{
+  "id": "chocolate",
+  "name": "Chocolate",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/chocolate/chocolate.blend",
+  "native_sha256": "170eed3a0d76d154d22793230bbd0d748dce4bf67f5ab5ff5e97f5114a732ed8",
+  "source_native_sha256": "170eed3a0d76d154d22793230bbd0d748dce4bf67f5ab5ff5e97f5114a732ed8",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/chocolate/previews/preview.jpg",
+      "sha256": "2dde3173879814dd2184594fb34bc2cded3e3f5bf6c1e1a2916ca31cb698a879"
+    },
+    "alternate": {
+      "path": "models/chocolate/previews/alternate.jpg",
+      "sha256": "c6263876ba7ba7040fed7db3a863bdb3f4231421ba8c83ddeafb7710d2c33205"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

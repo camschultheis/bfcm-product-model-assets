@@ -1,0 +1,28 @@
+{
+  "id": "watering-can",
+  "name": "Watering can",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/watering-can/watering-can.blend",
+  "native_sha256": "86ec0de8f475fcf5bd4c9714705f5284fa85d62a4a5d5394e8bff24690bf90e6",
+  "source_native_sha256": "86ec0de8f475fcf5bd4c9714705f5284fa85d62a4a5d5394e8bff24690bf90e6",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/watering-can/previews/preview.jpg",
+      "sha256": "fa0ebeffd0effc2fb32b224f13bfdf32eb08932295ddcb40401cc93f198a0ccc"
+    },
+    "alternate": {
+      "path": "models/watering-can/previews/alternate.jpg",
+      "sha256": "375499f88bbc447d05150041f1129ad998dff868de7d1af79314600495a5dc69"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

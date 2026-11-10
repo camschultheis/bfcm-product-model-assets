@@ -1,0 +1,31 @@
+{
+  "id": "scarf",
+  "name": "Scarf",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/scarf/scarf.blend",
+  "native_sha256": "063ed44f890c75b2ca72f8b33f96b521be3338ac4b0ff43730c87351c30f35f6",
+  "source_native_sha256": "063ed44f890c75b2ca72f8b33f96b521be3338ac4b0ff43730c87351c30f35f6",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/scarf/previews/preview.jpg",
+      "sha256": "30dc35f1304dd2606f8d91a241504c422858f3e1082f7a54e5906c6677f9d5e9"
+    },
+    "alternate": {
+      "path": "models/scarf/previews/alternate.jpg",
+      "sha256": "86183408d9f6401a664e58ea31a179e2fc214884119068c08293f792dbaf6c29"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/scarf/scarf.glb",
+    "sha256": "326b6263b50e07dd3b1185fc7c07a57ae36c1535085f99cac7352699f0563888"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

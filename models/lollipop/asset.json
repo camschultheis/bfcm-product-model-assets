@@ -1,0 +1,61 @@
+{
+  "id": "lollipop",
+  "name": "Lollipop",
+  "category": "Lollipops",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/lollipop/lollipop.blend",
+  "native_sha256": "b671f0d3faf5b2a3c450b2465e9b970cd62204f146334376e92c3f9a3c06371f",
+  "source_native_sha256": "b671f0d3faf5b2a3c450b2465e9b970cd62204f146334376e92c3f9a3c06371f",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/lollipop/previews/preview.jpg",
+      "sha256": "53af1cc08d7f1b3d94428e426a11651ee5e524b50bf5fe015fcd0a95f9571533"
+    },
+    "alternate": {
+      "path": "models/lollipop/previews/alternate.jpg",
+      "sha256": "ff87b195f7736517df0cdf2e1da57ccf6fec113a7f6129035bebf65ee7ee402b"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "cycles_round_lollipop_normal.png.001",
+      "path": "models/lollipop/textures/cycles_round_lollipop_normal.png.001__0__cycles_round_lollipop_normal.png",
+      "sha256": "106f127554c85218d4c0d9689c57c3b76ba119107a3065e3d149482b42cab177",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Lollipop_BroadSpiral_Mask.png",
+      "path": "models/lollipop/textures/Lollipop_BroadSpiral_Mask.png__0__Lollipop_BroadSpiral_Mask.png",
+      "sha256": "b06c0299318c723cd968afb13b46529ce4be36cb4a74cab5521e950dd9271e88",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "PBR-MetalRough_round_lollipop_BaseColor.png",
+      "path": "models/lollipop/textures/PBR-MetalRough_round_lollipop_BaseColor.png__0__PBR-MetalRough_round_lollipop_BaseColor.png",
+      "sha256": "fe00bb27500da6d4b24a3513149d990198f14350dec52d1e3c91dafefef35852",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "PBR-MetalRough_round_lollipop_Roughness.png",
+      "path": "models/lollipop/textures/PBR-MetalRough_round_lollipop_Roughness.png__0__PBR-MetalRough_round_lollipop_Roughness.png",
+      "sha256": "b822272aaec9bd80490f9d1caf705c49d7085f4e13fd92cfcc01ba7ad7a83eb5",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

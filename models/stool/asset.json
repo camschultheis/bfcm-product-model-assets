@@ -1,0 +1,45 @@
+{
+  "id": "stool",
+  "name": "Stool",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/stool/stool.blend",
+  "native_sha256": "5fabcab37ffbc5d2581059468696ad4facc8bb5dcae658177839178739e42cb8",
+  "source_native_sha256": "5fabcab37ffbc5d2581059468696ad4facc8bb5dcae658177839178739e42cb8",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/stool/previews/preview.jpg",
+      "sha256": "51252d760ccf48f352ff5965ed947466be1fa49e9b69486f0270122658313a3b"
+    },
+    "alternate": {
+      "path": "models/stool/previews/alternate.jpg",
+      "sha256": "32aa95bd323eae74701d3ae91f194b503bcd2e08b05874b4f2667c9bffd9fd23"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pass 02 traced motif / stool-lobes",
+      "path": "models/stool/textures/Pass_02_traced_motif___stool-lobes__0___stool-lobes.png",
+      "sha256": "a7944766e35e1492a57aa4ecf7047c1dd06804c6f42bd2d4163a18eafde667ae",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Pattern tile / waves",
+      "path": "models/stool/textures/Pattern_tile___waves__0___waves.png",
+      "sha256": "90e8bd79a3b6f625b208b06c3791043ff47f908fff986b5fcbe0f8e06856dc62",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

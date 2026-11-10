@@ -1,0 +1,70 @@
+{
+  "schema": "bfcm-root-pilot-current-checkpoint/v1",
+  "recorded_at": "2026-11-09T17:18:05.943456+00:00",
+  "state": "all-six-pilot-ready-with-two-optical-qualifications",
+  "products": [
+    {
+      "id": "headphones",
+      "state": "accepted-pilot-product",
+      "runtime_manifest": "/models/color-swap-pilot/generations/headphones-slice02-lossless/headphones__manifest_v4.json",
+      "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_HEADPHONES_PILOT_ACCEPTANCE03.json"
+    },
+    {
+      "id": "field-jacket",
+      "state": "accepted-pilot-product",
+      "runtime_manifest": "/models/color-swap-pilot/generations/field-jacket-sheen03-lossless/field-jacket__manifest_v4.json",
+      "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_FIELD_PILOT_ACCEPTANCE03.json"
+    },
+    {
+      "id": "bread",
+      "state": "accepted-pilot-product-with-optical-qualification",
+      "runtime_manifest": "/models/color-swap-pilot/generations/bread-native-stock04-lossless/bread__manifest_v4.json",
+      "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_BREAD_PILOT_ACCEPTANCE01.json"
+    },
+    {
+      "id": "apple-cider-bottle",
+      "state": "accepted-pilot-product-with-optical-qualification",
+      "runtime_manifest": "/models/color-swap-pilot/generations/apple-cider-bottle-cork02-layered03-lossless/apple-cider-bottle__manifest_v4.json",
+      "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_CIDER_PILOT_ACCEPTANCE08.json"
+    },
+    {
+      "id": "bowling-ball",
+      "state": "accepted-pilot-product",
+      "runtime_manifest": "/models/color-swap-pilot/generations/bowling-ball-tangents05-lossless/bowling-ball__manifest_v4.json",
+      "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_BOWLING_PILOT_ACCEPTANCE04.json"
+    },
+    {
+      "id": "air-freshener",
+      "state": "accepted-pilot-product",
+      "runtime_manifest": "/models/color-swap-pilot/generations/air-freshener-tangents03c-lossless/air-freshener__manifest_v4.json",
+      "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_AIR_PILOT_ACCEPTANCE03.json"
+    }
+  ],
+  "desktop_deliverables": [
+    "/Users/cameronschultheis/Desktop/BFCM-Product-Library-105-Assets.png",
+    "/Users/cameronschultheis/Desktop/BFCM-Texture-Channel-Sample"
+  ],
+  "material_recommendation": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/UPDATED_MATERIAL_TEXTURE_RECOMMENDATION01.md",
+  "new_packing_implemented": false,
+  "library_rollout_started": false,
+  "bread_actual_full04": {
+    "report": {
+      "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/bread-food-full04/artifacts/derivative_job_report.json",
+      "sha256": "67743fb7b3200c6c1fab3b6519b46c38ac64a1621823a3b309962bbd10e4d10b"
+    },
+    "completion": {
+      "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bread-stock04-runtime-qa/FOOD_BREAD_FULL04_COMPLETION01.json",
+      "sha256": "0ade135693bb61550071c9ff5265ab0b137df2aa901b0035e8925485d3e349a6"
+    },
+    "accepted_for_color_method_pilot": true,
+    "user_optical_review_required": true
+  },
+  "pilot_review_url": "http://127.0.0.1:5398/src/explores/645-products-color-swap/review.html",
+  "separate_sphere_session_handoff": {
+    "catalog": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/combined107-progress/catalog.json",
+    "catalog_scope": "105 active accepted native models/previews, 2 archived; current catalogue nine GLBs plus six separately accepted color-pilot exports. Not all latest native revisions are GLB exports.",
+    "user_creates_session": true
+  },
+  "full_library_compression_complete": false,
+  "next": "User review of six-product pilot and choice of material-slots + texture/ORM+A method before batch rollout."
+}

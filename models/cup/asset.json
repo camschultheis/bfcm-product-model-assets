@@ -1,0 +1,37 @@
+{
+  "id": "cup",
+  "name": "Ceramic cup",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_green",
+  "native": "models/cup/cup.blend",
+  "native_sha256": "a01f0ea1f6a45c7a9ba61cd93838c1b993ae9bfedb2207790b5bca49ecf2daa2",
+  "source_native_sha256": "a01f0ea1f6a45c7a9ba61cd93838c1b993ae9bfedb2207790b5bca49ecf2daa2",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cup/previews/preview.jpg",
+      "sha256": "c1623a5588d228eee99acfdda9dbf1e3a193053d2e59ae65c6be85321300de06"
+    },
+    "alternate": {
+      "path": "models/cup/previews/alternate.jpg",
+      "sha256": "11c94d9ae8c00338dd30e2e1a16f14c3a31b7f2fdf2cf3010f8c6ebb727e58c0"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Staggered teal stoneware dots / exact repeat",
+      "path": "models/cup/textures/Staggered_teal_stoneware_dots___exact_repeat__0___exact_repeat.png",
+      "sha256": "2df40bd7b0a6c69a946102d90981f66fb234fb9ae8e03bebf8c677305a04ea4e",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

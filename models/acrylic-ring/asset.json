@@ -1,0 +1,28 @@
+{
+  "id": "acrylic-ring",
+  "name": "Acrylic ring",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_blue",
+  "native": "models/acrylic-ring/acrylic-ring.blend",
+  "native_sha256": "7e82e73c066c54f30fa7a1ba0a9dbe736d5840b0c1a8741024bd4453f4468451",
+  "source_native_sha256": "7e82e73c066c54f30fa7a1ba0a9dbe736d5840b0c1a8741024bd4453f4468451",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/acrylic-ring/previews/preview.jpg",
+      "sha256": "9edcc0fcda1a1d269805eb37bb5c4895d56521fca1ee727a456b1cd929392c21"
+    },
+    "alternate": {
+      "path": "models/acrylic-ring/previews/alternate.jpg",
+      "sha256": "ea242d9a2781f517df838091bb92a72e4e421502d1ec9a8c35d717405882ea50"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cable-knit-sweater",
+  "name": "Cable-knit sweater",
+  "category": "Sweaters",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/cable-knit-sweater/cable-knit-sweater.blend",
+  "native_sha256": "fb9799819abccb478bbedc8e2c2bf7293fc89f4717b5310a9f4596ef4d7a4de1",
+  "source_native_sha256": "fb9799819abccb478bbedc8e2c2bf7293fc89f4717b5310a9f4596ef4d7a4de1",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cable-knit-sweater/previews/preview.jpg",
+      "sha256": "c8d3ddafb3f9d3b3abf37f714e709ee7e24a24152050c649018970ed3d3657a5"
+    },
+    "alternate": {
+      "path": "models/cable-knit-sweater/previews/alternate.jpg",
+      "sha256": "74582eddc81eb364affc1621e3ed1b3980605f95388afe130f8a35ded3067212"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_e9908e6c-7e61-418c-a166-9b66cdf2cc5b",
+      "path": "models/cable-knit-sweater/textures/Color_e9908e6c-7e61-418c-a166-9b66cdf2cc5b__0__Color_e9908e6c-7e61-418c-a166-9b66cdf2cc5b.png",
+      "sha256": "b6315698297b2bf42bbe47c130cf34e26acd0b30656a2d4ab6ea0c2ec180d66b",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_e9908e6c-7e61-418c-a166-9b66cdf2cc5b",
+      "path": "models/cable-knit-sweater/textures/NormalGL_e9908e6c-7e61-418c-a166-9b66cdf2cc5b__0__NormalGL_e9908e6c-7e61-418c-a166-9b66cdf2cc5b.png",
+      "sha256": "17aa3e42d89cda7386bdf95fe161d4b88889b18fcc5c50abac880b62ecc5971d",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_e9908e6c-7e61-418c-a166-9b66cdf2cc5b",
+      "path": "models/cable-knit-sweater/textures/ORM_e9908e6c-7e61-418c-a166-9b66cdf2cc5b__0__ORM_e9908e6c-7e61-418c-a166-9b66cdf2cc5b.png",
+      "sha256": "f7c8045e510b5e411b9dde622f428b927dde52fe8535d147a5a30395e7bf4179",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

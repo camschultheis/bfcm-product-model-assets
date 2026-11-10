@@ -1,0 +1,28 @@
+{
+  "id": "gaming-cards",
+  "name": "Gaming Cards",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple_deep_purple",
+  "native": "models/gaming-cards/gaming-cards.blend",
+  "native_sha256": "aacf1508f6eec53f71db2520e87f9f95a148faf992dadf61db19e24d5a7b0868",
+  "source_native_sha256": "aacf1508f6eec53f71db2520e87f9f95a148faf992dadf61db19e24d5a7b0868",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/gaming-cards/previews/preview.jpg",
+      "sha256": "94e275ffaca442e464d34f750c541861d539b1f7e3e6c0cd8920c596473742cd"
+    },
+    "alternate": {
+      "path": "models/gaming-cards/previews/alternate.jpg",
+      "sha256": "cae47f04b3d96f4b2e10c3303abaff77f497206dd9895bf2c3e9649071f4b45f"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

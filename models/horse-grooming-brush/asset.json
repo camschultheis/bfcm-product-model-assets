@@ -1,0 +1,28 @@
+{
+  "id": "horse-grooming-brush",
+  "name": "Horse Grooming Brush",
+  "category": "Horse Grooming Brushes",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": null,
+  "native": "models/horse-grooming-brush/horse-grooming-brush.blend",
+  "native_sha256": "fbf37bdb9c0937342fade9c5720d6510a17b7902f34d459d9f2140efdc7b8648",
+  "source_native_sha256": "fbf37bdb9c0937342fade9c5720d6510a17b7902f34d459d9f2140efdc7b8648",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/horse-grooming-brush/previews/preview.jpg",
+      "sha256": "9420bd7cb8c09dd7ab2a8fed70f27afd32c4f94fb091673bdcdaf2352460e0f2"
+    },
+    "alternate": {
+      "path": "models/horse-grooming-brush/previews/alternate.jpg",
+      "sha256": "327d9889c96214d6ae3a4fa43e95538a15f7e8739193cc27b99c32b98d0f7c05"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

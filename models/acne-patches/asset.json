@@ -1,0 +1,28 @@
+{
+  "id": "acne-patches",
+  "name": "Acne Patches",
+  "category": "Acne Patches",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/acne-patches/acne-patches.blend",
+  "native_sha256": "275dab02e191bd758cc2b31750f0dd0f4e03fce419f6a346c6812c34ba3e5f91",
+  "source_native_sha256": "275dab02e191bd758cc2b31750f0dd0f4e03fce419f6a346c6812c34ba3e5f91",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/acne-patches/previews/preview.jpg",
+      "sha256": "f6b47027d0df5f327effececb72ec5b23679fbceb97a7d94f36ed84f102b4f59"
+    },
+    "alternate": {
+      "path": "models/acne-patches/previews/alternate.jpg",
+      "sha256": "d18fe803df19e7bbfb94853fa9c697e45c929d3d5222a99c87231fdc4adf5f8d"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "peeled-sticker-roll",
+  "name": "Die-cut sticker roll",
+  "category": "Decorative Stickers",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "models/peeled-sticker-roll/peeled-sticker-roll.blend",
+  "native_sha256": "73eb527b1f8365b87a6ad9212ebe2ca5a70d4a8b12a10651a61a3dad049eb204",
+  "source_native_sha256": "73eb527b1f8365b87a6ad9212ebe2ca5a70d4a8b12a10651a61a3dad049eb204",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/peeled-sticker-roll/previews/preview.jpg",
+      "sha256": "526ee81dbb32fb89d66776c9e99c6d8795ad6ed5b3153961422953d9f7df3988"
+    },
+    "alternate": {
+      "path": "models/peeled-sticker-roll/previews/alternate.jpg",
+      "sha256": "09ab86661f5fcb56317bcd8ebd7947fd560757255f2f9a1767da27fb63072061"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

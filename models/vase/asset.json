@@ -1,0 +1,40 @@
+{
+  "id": "vase",
+  "name": "Vase",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/vase/vase.blend",
+  "native_sha256": "5d2480aaa809e4daf30b6e6cec774e714305c850fb94853a979bf0ec6a6ced67",
+  "source_native_sha256": "5d2480aaa809e4daf30b6e6cec774e714305c850fb94853a979bf0ec6a6ced67",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/vase/previews/preview.jpg",
+      "sha256": "e458ce5d7bd75c418891aa715e1f2d5b1a8b53d4a6cd3cd9fa0e74902b2ca943"
+    },
+    "alternate": {
+      "path": "models/vase/previews/alternate.jpg",
+      "sha256": "6100e219f7b6a013cf5ea57a01834cbb29a7421f5dbe5d145b5f976c0d185fa1"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Glazed stepped horizontal brick rows / painted repeat",
+      "path": "models/vase/textures/Glazed_stepped_horizontal_brick_rows___painted_repeat__0___painted_repeat.png",
+      "sha256": "99180bb13613c337533b1510070b26402a58b59a0449887ea818acc45be3072f",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": {
+    "path": "models/vase/vase.glb",
+    "sha256": "0e3ec5108ceb00e393d65b482a1ac26dc87b21f1d4da75196ff72df3b5893685"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

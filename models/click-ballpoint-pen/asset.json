@@ -1,0 +1,28 @@
+{
+  "id": "click-ballpoint-pen",
+  "name": "Retractable ballpoint pen",
+  "category": "Ballpoint Pens",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/click-ballpoint-pen/click-ballpoint-pen.blend",
+  "native_sha256": "019888b41033fbaf068dcaddf86fc83a5bcb40c27b86501f78009c53e5013d79",
+  "source_native_sha256": "019888b41033fbaf068dcaddf86fc83a5bcb40c27b86501f78009c53e5013d79",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/click-ballpoint-pen/previews/preview.jpg",
+      "sha256": "4f040bcafc9596c43674f6e1dbd16aa9e4ece18397a9a74170610b3a1903625e"
+    },
+    "alternate": {
+      "path": "models/click-ballpoint-pen/previews/alternate.jpg",
+      "sha256": "ce04f1a4699cd4c8f762d1c6e19de27652e48a74f2fdd403ecc30e435d77a405"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

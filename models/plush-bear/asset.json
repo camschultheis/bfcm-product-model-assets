@@ -1,0 +1,53 @@
+{
+  "id": "plush-bear",
+  "name": "Plush Bear",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple_deep_purple",
+  "native": "models/plush-bear/plush-bear.blend",
+  "native_sha256": "596b3a6989466453cd4f9509f2e1b91b6ca8728e6aa9e2ce6633b025d06a34c9",
+  "source_native_sha256": "596b3a6989466453cd4f9509f2e1b91b6ca8728e6aa9e2ce6633b025d06a34c9",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/plush-bear/previews/preview.jpg",
+      "sha256": "3fc619ce6f2ef7ab949455851580358efd6470408798e6692d95602230d58969"
+    },
+    "alternate": {
+      "path": "models/plush-bear/previews/alternate.jpg",
+      "sha256": "c45eb66109c0fe402dcf2a76a4061dcdedbcfb5884b7ecdad9c34c80349a14e0"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_bfe59524-675c-49b6-b0ab-889226459833",
+      "path": "models/plush-bear/textures/Color_bfe59524-675c-49b6-b0ab-889226459833__0__Color_bfe59524-675c-49b6-b0ab-889226459833.png",
+      "sha256": "eef7cbd2fb112f1b82478e76880dcd1fce781738794fad2ff279e53e56abf2b5",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_bfe59524-675c-49b6-b0ab-889226459833",
+      "path": "models/plush-bear/textures/NormalGL_bfe59524-675c-49b6-b0ab-889226459833__0__NormalGL_bfe59524-675c-49b6-b0ab-889226459833.png",
+      "sha256": "2a816090f3cd6da46b654c513b03f65c181b87e31ab32863da2574ef022cd3a5",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_bfe59524-675c-49b6-b0ab-889226459833",
+      "path": "models/plush-bear/textures/ORM_bfe59524-675c-49b6-b0ab-889226459833__0__ORM_bfe59524-675c-49b6-b0ab-889226459833.png",
+      "sha256": "bfdfbda23a5c8eef96b449d47276ed8941a12cd7fd506c2d5ea8a682efb9774f",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

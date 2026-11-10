@@ -1,0 +1,53 @@
+{
+  "id": "yarn",
+  "name": "Yarn",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "coral_green",
+  "native": "models/yarn/yarn.blend",
+  "native_sha256": "c38c0c9e561ce8359311e342872005a32334987eae4dc0fdf3a591a712332f79",
+  "source_native_sha256": "c38c0c9e561ce8359311e342872005a32334987eae4dc0fdf3a591a712332f79",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/yarn/previews/preview.jpg",
+      "sha256": "ff211d464a0b9d2a26b12936242057cf47053a1a130883e6555a2b0739e197d0"
+    },
+    "alternate": {
+      "path": "models/yarn/previews/alternate.jpg",
+      "sha256": "d3382a613b05d94ed1a16188274846a2239e611082edf16aee1e1e7d35838247"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_a2c70961-c62b-48c8-93ec-61fd1f880244",
+      "path": "models/yarn/textures/Color_a2c70961-c62b-48c8-93ec-61fd1f880244__0__Color_a2c70961-c62b-48c8-93ec-61fd1f880244.png",
+      "sha256": "d26ff5cb331d4786088b39ce63dafe0b8c6451dc60d6e03a95f6190754bf707a",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_a2c70961-c62b-48c8-93ec-61fd1f880244",
+      "path": "models/yarn/textures/NormalGL_a2c70961-c62b-48c8-93ec-61fd1f880244__0__NormalGL_a2c70961-c62b-48c8-93ec-61fd1f880244.png",
+      "sha256": "881210fc9e40a581e4ef4db54ef0115e218308992115fe9896030a53d2e40079",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_a2c70961-c62b-48c8-93ec-61fd1f880244",
+      "path": "models/yarn/textures/ORM_a2c70961-c62b-48c8-93ec-61fd1f880244__0__ORM_a2c70961-c62b-48c8-93ec-61fd1f880244.png",
+      "sha256": "b55460aedae53095e9d19daa37f604850c82509a564c5b55b498f46054fa0920",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "cookies",
+  "name": "Cookies",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/cookies/cookies.blend",
+  "native_sha256": "da8f5e4def11ba0a6e051a365948e29ec063a5018fbf1fa6ea213ab2e4b54f05",
+  "source_native_sha256": "da8f5e4def11ba0a6e051a365948e29ec063a5018fbf1fa6ea213ab2e4b54f05",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cookies/previews/preview.jpg",
+      "sha256": "9b2b201b6c66e65471002f25b1b8d0baa8fa3d706390b0d0b6fceae58cc913e8"
+    },
+    "alternate": {
+      "path": "models/cookies/previews/alternate.jpg",
+      "sha256": "66683cf554e01576cbb64a04e05bb5fa413ca314a6449d2c0722c18d6ba5c14a"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_f12d5219-ee2c-4907-a0df-4734b9af55e9",
+      "path": "models/cookies/textures/Color_f12d5219-ee2c-4907-a0df-4734b9af55e9__0__Color_f12d5219-ee2c-4907-a0df-4734b9af55e9.png",
+      "sha256": "c77a90c0d5e086d04d67a78c48fe6914bfc392cb0c2df280af489ae51de02e81",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_f12d5219-ee2c-4907-a0df-4734b9af55e9",
+      "path": "models/cookies/textures/NormalGL_f12d5219-ee2c-4907-a0df-4734b9af55e9__0__NormalGL_f12d5219-ee2c-4907-a0df-4734b9af55e9.png",
+      "sha256": "200f83c4128a068a0f0228c5ea4e2bf05ad4c307d4d5e4b72a4e58837e2b9c44",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_f12d5219-ee2c-4907-a0df-4734b9af55e9",
+      "path": "models/cookies/textures/ORM_f12d5219-ee2c-4907-a0df-4734b9af55e9__0__ORM_f12d5219-ee2c-4907-a0df-4734b9af55e9.png",
+      "sha256": "a1401152d86b0335a77040b58e3dc0fbcaedd4cf60fe4d6770791d7ec06b254e",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

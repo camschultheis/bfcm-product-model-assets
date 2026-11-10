@@ -1,0 +1,31 @@
+{
+  "id": "sunscreen",
+  "name": "Sunscreen bottle",
+  "category": "Health & Beauty",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/sunscreen/sunscreen.blend",
+  "native_sha256": "e3009027cfc533cffc7e919893e0792df159beac7a14a7497f135d85fe70b556",
+  "source_native_sha256": "e3009027cfc533cffc7e919893e0792df159beac7a14a7497f135d85fe70b556",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/sunscreen/previews/preview.jpg",
+      "sha256": "f16b2833c1f78a586c9ce1c97c24c48819fb699c0ae314b65dd38234391ef8d3"
+    },
+    "alternate": {
+      "path": "models/sunscreen/previews/alternate.jpg",
+      "sha256": "0086db32fb027f9907d916b06a14be169c094e9c2bec690816ffc6e0d6718835"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/sunscreen/sunscreen.glb",
+    "sha256": "7634dfc7155e58c1642703056d6c91c0cc6df57b52006ae85b522197778b60bd"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

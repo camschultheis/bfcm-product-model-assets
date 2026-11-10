@@ -1,0 +1,28 @@
+{
+  "id": "cheese",
+  "name": "Cheese",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/cheese/cheese.blend",
+  "native_sha256": "bf9706c5b7e197e6a2083b20e0519db29444b7f61646e1fc593a59b5653087af",
+  "source_native_sha256": "bf9706c5b7e197e6a2083b20e0519db29444b7f61646e1fc593a59b5653087af",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cheese/previews/preview.jpg",
+      "sha256": "fb3b39f93d2e90d89902678161e3d4fd0f929f86a6ad8e5c437c3dcee4445356"
+    },
+    "alternate": {
+      "path": "models/cheese/previews/alternate.jpg",
+      "sha256": "9a3ff8d1977ce241d9fffc23e6fe871b2e471520b5f6cc57408b117c158553ea"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

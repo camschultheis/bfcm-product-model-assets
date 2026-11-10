@@ -1,0 +1,45 @@
+{
+  "id": "radio",
+  "name": "Radio",
+  "category": "Cameras & Optics / Electronics",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/radio/radio.blend",
+  "native_sha256": "ff262c607cd943a35b2f2b9ecd625a266d8d44640b87bdb9729d5e810e744cd3",
+  "source_native_sha256": "ff262c607cd943a35b2f2b9ecd625a266d8d44640b87bdb9729d5e810e744cd3",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/radio/previews/preview.jpg",
+      "sha256": "d4e01aa49f2c5b721c1ad4bfbae9e3e694c3c31bb0cd7351501618438683fda5"
+    },
+    "alternate": {
+      "path": "models/radio/previews/alternate.jpg",
+      "sha256": "472462096864893ddf18bd2b85c94add084dbf05778446394e7095067085bd49"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pattern tile / bricks",
+      "path": "models/radio/textures/Pattern_tile___bricks__0___bricks.png",
+      "sha256": "b0c013e80af5a3584323c4c2e9e3193f87c9b6492aff532b6a0b3658431c69f0",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Radio / warm coral cross repeat / repeat mask",
+      "path": "models/radio/textures/Radio___warm_coral_cross_repeat___repeat_mask__0___repeat_mask.png",
+      "sha256": "fb4d37e8d8ef1c987a369164657e32155649291ab8e51a124dbe64a82f94d6c3",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

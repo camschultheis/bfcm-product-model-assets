@@ -1,0 +1,28 @@
+{
+  "id": "board-game",
+  "name": "Board Game",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/board-game/board-game.blend",
+  "native_sha256": "1950a90408b7c5f50e31bcde4d0d33f487b5c554fc22b25d6ae6142725054b39",
+  "source_native_sha256": "1950a90408b7c5f50e31bcde4d0d33f487b5c554fc22b25d6ae6142725054b39",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/board-game/previews/preview.jpg",
+      "sha256": "e31437b0951dcbfe7becab04e6208e68d6bdacd7234485bc12362623cef4edac"
+    },
+    "alternate": {
+      "path": "models/board-game/previews/alternate.jpg",
+      "sha256": "1fda9760031dcf5aebec7d525e7b2dba41c700231b673597a7fb4598bbcdd4a8"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

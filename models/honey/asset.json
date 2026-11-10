@@ -1,0 +1,28 @@
+{
+  "id": "honey",
+  "name": "Honey",
+  "category": "Honey",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/honey/honey.blend",
+  "native_sha256": "fbdb1289241444fb6c637621cd7461edc2e4742c3d372e29057837d00826b0c3",
+  "source_native_sha256": "fbdb1289241444fb6c637621cd7461edc2e4742c3d372e29057837d00826b0c3",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/honey/previews/preview.jpg",
+      "sha256": "5c2efaf9003b01e1fefbd580f161b0c35e88223e086dc7e290004a6fdaaaa8c0"
+    },
+    "alternate": {
+      "path": "models/honey/previews/alternate.jpg",
+      "sha256": "45f2faf0b24100bea4dfaecfa69a2c4853affd35c16e6d77807db6529714a8cd"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

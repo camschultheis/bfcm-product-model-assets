@@ -1,0 +1,28 @@
+{
+  "id": "trumpet",
+  "name": "Trumpet",
+  "category": "Trumpets",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": null,
+  "native": "models/trumpet/trumpet.blend",
+  "native_sha256": "cc44024c4a2131832d9dead05f9cb47c704391560cf79bea58b3661cf86a48c0",
+  "source_native_sha256": "cc44024c4a2131832d9dead05f9cb47c704391560cf79bea58b3661cf86a48c0",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/trumpet/previews/preview.jpg",
+      "sha256": "9b0bc58b6a9acd837393901feca3ac772246183b46a1f223d0502ba753e809ca"
+    },
+    "alternate": {
+      "path": "models/trumpet/previews/alternate.jpg",
+      "sha256": "8679834a0869bf8f1c38932538520866e90958c5872b4174a4a477f97987b8ae"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "ribbon-gift-box",
+  "name": "Ribbon-wrapped gift box",
+  "category": "Gift Boxes & Tins",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/ribbon-gift-box/ribbon-gift-box.blend",
+  "native_sha256": "2e1602430bcf396bbe4d58a8b7ef6cdbeb5ddbb5a90935aa1302c272f3c80b57",
+  "source_native_sha256": "2e1602430bcf396bbe4d58a8b7ef6cdbeb5ddbb5a90935aa1302c272f3c80b57",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/ribbon-gift-box/previews/preview.jpg",
+      "sha256": "35c61d73968b9999466ac5bd851f525bac75233271ae01e26c97a56b6af4dd81"
+    },
+    "alternate": {
+      "path": "models/ribbon-gift-box/previews/alternate.jpg",
+      "sha256": "741dbf33eb8397c7c4bcdb4bc40da440bc7012e25efecf86a0180d69ec96f73d"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

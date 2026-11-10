@@ -1,0 +1,45 @@
+{
+  "id": "controller",
+  "name": "Game controller",
+  "category": "Cameras & Optics / Electronics",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/controller/controller.blend",
+  "native_sha256": "9f0fd05a5a3af892ca1df382cf216a12d4002b7d800a3d882f405e64950db85d",
+  "source_native_sha256": "9f0fd05a5a3af892ca1df382cf216a12d4002b7d800a3d882f405e64950db85d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/controller/previews/preview.jpg",
+      "sha256": "d7bf7bf19b6c225d6481fd055cf7afa47e8bf9bc35216172018dff3b1864bd03"
+    },
+    "alternate": {
+      "path": "models/controller/previews/alternate.jpg",
+      "sha256": "5083afd8fa8152f1ee4bd233d3ed25d904ab2fcdbe077dcba0afdb5fbedd2c7c"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Controller_Hero_Mask_4K.png",
+      "path": "models/controller/textures/Controller_Hero_Mask_4K.png__0__Controller_Hero_Mask_4K.png",
+      "sha256": "cd56026bba8873d3617b09523e165cd233b2a6c5386567868941bc93d75d1a8e",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Controller_Hidden_Repeat_Mask_2K.png",
+      "path": "models/controller/textures/Controller_Hidden_Repeat_Mask_2K.png__0__Controller_Hidden_Repeat_Mask_2K.png",
+      "sha256": "837637be2f4da64b851e610d0d99c95809a5f7546d15226fe1792cd88475ee9b",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

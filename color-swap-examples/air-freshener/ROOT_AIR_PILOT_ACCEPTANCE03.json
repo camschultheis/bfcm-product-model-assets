@@ -1,0 +1,36 @@
+{
+  "schema": "bfcm-root-pilot-product-acceptance/v1",
+  "product": "air-freshener",
+  "generation": "air-freshener-tangents03c-lossless",
+  "state": "accepted-pilot-product",
+  "recorded_at": "2026-11-09T15:44:37.193438+00:00",
+  "source_native_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+  "native_default_and_mint_reversal_viewed": true,
+  "native_stock_viewed": true,
+  "default_stock_framebuffer_identity": true,
+  "palette_states": 10,
+  "uniforms_and_resources_stable": true,
+  "physical_materials_immutable": true,
+  "lossless_delivery_mips_verified": true,
+  "all_normal_mapped_primitives_explicit_tangents": 15,
+  "validator": {
+    "report": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/gltf-validation/air-freshener-96b1c3abaafa.json",
+    "sha256": "cd1cbdab7081f75871120868646bccc20c3e14b4e2578ab9b01ef65e28e4c5d7",
+    "errors": 0,
+    "warnings": 0,
+    "infos": 1
+  },
+  "runtime_qa": {
+    "report": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/air-tangents03c-runtime-qa/report.json",
+    "sha256": "8361cb902d9697c79f8c74b49995a10782ad3d332ca5fb2fbebc67aadde73666"
+  },
+  "comparison_board_viewed": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/air-tangents03c-runtime-qa/comparison-board.jpg",
+  "finding": "Export-only cap triangulation preserves runtime shape, normal response and palette roles against preserved slice02 baseline. Housing, window and clip swaps remain distinct; fixed steel anisotropy is unchanged.",
+  "delivery_bytes": 2662877,
+  "qualification": [
+    "Native PBR is preserved; soft web review lighting differs from native studio.",
+    "Backing corner normal delta at most0.005504 degrees; positions and UVs exact.",
+    "Rotated and rear stills assessed; continuous turntable playback not yet assessed.",
+    "Chrome on this Mac with mobile viewport checks, no physical mobile device measurement."
+  ]
+}

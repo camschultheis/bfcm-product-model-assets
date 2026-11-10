@@ -1,0 +1,28 @@
+{
+  "id": "cat-food-tin",
+  "name": "Opened cat food tin",
+  "category": "Non-Prescription Cat Food",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/cat-food-tin/cat-food-tin.blend",
+  "native_sha256": "f24ba8075c0f3a0edf9b0b866fee3b17ad5ef3bd27b37a587841be27122c009d",
+  "source_native_sha256": "f24ba8075c0f3a0edf9b0b866fee3b17ad5ef3bd27b37a587841be27122c009d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cat-food-tin/previews/preview.jpg",
+      "sha256": "1b1317c6c1484dc454b403a634b2aeb2c5283eaf5009853c6c8ce96bfeca6706"
+    },
+    "alternate": {
+      "path": "models/cat-food-tin/previews/alternate.jpg",
+      "sha256": "c468fa167ed815144b04ffe803678dbfc86de1faaec47de91fd5b2850a8f08f4"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

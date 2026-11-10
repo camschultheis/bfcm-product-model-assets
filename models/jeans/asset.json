@@ -1,0 +1,37 @@
+{
+  "id": "jeans",
+  "name": "Denim jeans, folded",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/jeans/jeans.blend",
+  "native_sha256": "8e9594ac563b8716c2e6b7653162da104ee83e842f1ccc491e7468664ac4c196",
+  "source_native_sha256": "8e9594ac563b8716c2e6b7653162da104ee83e842f1ccc491e7468664ac4c196",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/jeans/previews/preview.jpg",
+      "sha256": "fc0483e1ddf99f90d05fafc529a8174099d594d8d16e12200bbf7f919ba6b292"
+    },
+    "alternate": {
+      "path": "models/jeans/previews/alternate.jpg",
+      "sha256": "128f196d9fb7dd60edba539e8388285154be5a9e73ad7dd865092d510ee2619e"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Warm pink dots on pale denim / exact graphic",
+      "path": "models/jeans/textures/Warm_pink_dots_on_pale_denim___exact_graphic__0___exact_graphic.png",
+      "sha256": "1b335ff5bf6eb914dd65a1c822021cb77d3e58ed11d048f0be9eb8baffcd7818",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "perfume-atomizer",
+  "name": "Faceted perfume atomizer",
+  "category": "Perfumes & Colognes",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "models/perfume-atomizer/perfume-atomizer.blend",
+  "native_sha256": "3816935d38989e1a805fefd872b3c1d8511cc52308389224d78efaac91d50856",
+  "source_native_sha256": "3816935d38989e1a805fefd872b3c1d8511cc52308389224d78efaac91d50856",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/perfume-atomizer/previews/preview.jpg",
+      "sha256": "11b5fa1cfc8a99a643ebea88f65447f2872bd08552c9fb5299250d6aa01e3ea7"
+    },
+    "alternate": {
+      "path": "models/perfume-atomizer/previews/alternate.jpg",
+      "sha256": "d30a67f504ba9fe1b443815d33afa4c5e63550e49c6037141e0a47c125a01a47"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

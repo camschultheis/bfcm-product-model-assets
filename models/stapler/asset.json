@@ -1,0 +1,37 @@
+{
+  "id": "stapler",
+  "name": "Stapler",
+  "category": "Office Supplies",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/stapler/stapler.blend",
+  "native_sha256": "da60be425373a270a22cb9166e3483415f405cc72b0a41d8f7ca240e9b456815",
+  "source_native_sha256": "da60be425373a270a22cb9166e3483415f405cc72b0a41d8f7ca240e9b456815",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/stapler/previews/preview.jpg",
+      "sha256": "80ead02f4169c8305fc9227a7543f14de4716337ec820ced1d495eb721aa79ce"
+    },
+    "alternate": {
+      "path": "models/stapler/previews/alternate.jpg",
+      "sha256": "7d28042833ee2adccf258791b5d96a768f57167d01e6ece063b5c1b506dcb843"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "stapler_RibbonAlbedo_4x2K.png",
+      "path": "models/stapler/textures/stapler_RibbonAlbedo_4x2K.png__0__stapler_RibbonAlbedo_4x2K.png",
+      "sha256": "8b97b9f89fa0fdfa8876ea7247ebe814205f9428798e4c0cf5a455b7073a7ead",
+      "packed": true,
+      "color_space": "sRGB"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

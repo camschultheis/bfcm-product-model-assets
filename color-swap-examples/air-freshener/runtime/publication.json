@@ -1,0 +1,33 @@
+{
+  "product": "air-freshener",
+  "generation": "air-freshener-tangents03c-lossless",
+  "source_native": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_16_Palette_Pairing/Models/air-freshener/air-freshener.blend",
+  "source_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+  "native_delta": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/air-freshener-tangents03c-package01/artifacts/native_delta.blend",
+    "sha256": "37fd6507a5629fd4dcfd9c944dd9109aea3edaaa0afc82c263fb892e1c9ff741",
+    "palette_state_saved": "source-default",
+    "reused_from": {
+      "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/air-freshener-slice02/artifacts/native_delta.blend",
+      "sha256": "37fd6507a5629fd4dcfd9c944dd9109aea3edaaa0afc82c263fb892e1c9ff741",
+      "run": "air-freshener-slice02"
+    }
+  },
+  "stock_glb": {
+    "url": "air-freshener__stock.glb",
+    "sha256": "96b1c3abaafa15906781e1da20549767603e02e869bac512ccf0ca9cb7252aef",
+    "bytes": 2630764
+  },
+  "pigment_maps": {
+    "air-housing": {
+      "authored_sha256": "c13b9d2e58f3c3e88b6ae13f2a3638186be5f3a36ab7e4a65ada08ad4d861ca8",
+      "authored_bytes": 22370084,
+      "delivery_sha256": "bf8d7fd35995d9bf7b83b1766f00f256b00ad9952c7418900bc93e09aa078d72",
+      "delivery_bytes": 32113,
+      "preserved_mips": 12
+    }
+  },
+  "artifact_root": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/air-freshener-tangents03c-package01/artifacts",
+  "state": "accepted-pilot-product",
+  "root_acceptance_record": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_AIR_PILOT_ACCEPTANCE03.json"
+}

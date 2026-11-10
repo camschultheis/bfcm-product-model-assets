@@ -1,0 +1,69 @@
+{
+  "id": "field-jacket",
+  "name": "Utility field jacket",
+  "category": "Coats & Jackets",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/field-jacket/field-jacket.blend",
+  "native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+  "source_native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/field-jacket/previews/preview.jpg",
+      "sha256": "7e1280dba4d1c0c9a895123e82faa61a803325b54ebd04c2a54a3fe289ce8e00"
+    },
+    "alternate": {
+      "path": "models/field-jacket/previews/alternate.jpg",
+      "sha256": "573bfc26f39198051db8eeccf927614efdfa83bbfaff41eb17b04d10a4e7bb50"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_04222ced-2a1c-4f45-95ec-da8ec0219725",
+      "path": "models/field-jacket/textures/Color_04222ced-2a1c-4f45-95ec-da8ec0219725__0__Color_04222ced-2a1c-4f45-95ec-da8ec0219725.png",
+      "sha256": "a9b0af7aaaae8c9b0b7bca3d9de59a2745c74a6dcd725c8a74f627bb04e656dc",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "field-jacket | R04 directed paired semantic mask",
+      "path": "models/field-jacket/textures/field-jacket___R04_directed_paired_semantic_mask__0__field-jacket___R04_directed_paired_semantic_mask.png",
+      "sha256": "3c50fa396bc21c3015b2cfb10eecad8597c709a14187de8050d4e80d377c433a",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "field-jacket | R04 printed-ghost normal keep mask",
+      "path": "models/field-jacket/textures/field-jacket___R04_printed-ghost_normal_keep_mask__0__field-jacket___R04_printed-ghost_normal_keep_mask.png",
+      "sha256": "f376c10b7c75d01ae952de30378dd5c8cd4609e99d948395d75dd4824e2ac4b5",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_04222ced-2a1c-4f45-95ec-da8ec0219725",
+      "path": "models/field-jacket/textures/NormalGL_04222ced-2a1c-4f45-95ec-da8ec0219725__0__NormalGL_04222ced-2a1c-4f45-95ec-da8ec0219725.png",
+      "sha256": "54434d3d2409bae2432910105fcbf942966b93fcb830ffb38bc64e187a10fc05",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_04222ced-2a1c-4f45-95ec-da8ec0219725",
+      "path": "models/field-jacket/textures/ORM_04222ced-2a1c-4f45-95ec-da8ec0219725__0__ORM_04222ced-2a1c-4f45-95ec-da8ec0219725.png",
+      "sha256": "e92e838042be6e352b4fcd2ca7ed8ec014d75776874bec2032f5e69e7f0938dd",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

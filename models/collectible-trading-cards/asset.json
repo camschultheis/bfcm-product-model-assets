@@ -1,0 +1,28 @@
+{
+  "id": "collectible-trading-cards",
+  "name": "Collectible Trading Cards",
+  "category": "Collectible Trading Cards",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/collectible-trading-cards/collectible-trading-cards.blend",
+  "native_sha256": "59e6816eccbe69b6519c6a229e751d023d7e0b9c2eb4a0903bfe0fd9d5c9e6e2",
+  "source_native_sha256": "59e6816eccbe69b6519c6a229e751d023d7e0b9c2eb4a0903bfe0fd9d5c9e6e2",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/collectible-trading-cards/previews/preview.jpg",
+      "sha256": "f76e0ed51d3eab38cb7bfcae30a8b6264be4cd8a299ee2fc5630868f0ae2bca4"
+    },
+    "alternate": {
+      "path": "models/collectible-trading-cards/previews/alternate.jpg",
+      "sha256": "ba49ed58538e0e6eb52e19ca4c6c6b09948ce0ba269722797121048b8091b772"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,319 @@
+{
+  "schema": "bfcm-pigment-manifest/v4",
+  "product_id": "apple-cider-bottle",
+  "model_id": "apple-cider-bottle:derivative-v2:02b5b084957a",
+  "source_native_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+  "default_pair": "coral_green",
+  "stock_base_color": "default-palette",
+  "glb": {
+    "url": "apple-cider-bottle__stock.cork_repair01.glb",
+    "sha256": "11d75d3de471af805298c0aba3e8f930370ffb17152eb0679fea4751e7ed4a0e",
+    "bytes": 5726160
+  },
+  "native_hero": {
+    "url": "/models/combined107-progress/generations/pass19-native-review12/previews/apple-cider-bottle-v03-hero.jpg",
+    "sha256": "ee1110530bfe8af6e2af160ade59b732b81f67915b885feec7bff3cfed2aec87"
+  },
+  "package_metrics": {
+    "glb_bytes": 5726160,
+    "pigment_bytes": 63994,
+    "total_bytes": 5790154
+  },
+  "pigment_maps": {
+    "cider_orchard_band_mix": {
+      "url": "apple-cider-bottle__cider_orchard_band_mix-zstd.ktx2",
+      "sha256": "4d46edfbe12c8a9202016c2a668b25d2dd29f95b8120b01f3277b80758561845",
+      "format": "ktx2",
+      "width": 2048,
+      "height": 2048,
+      "mip_count": 12,
+      "wrap": "clamp"
+    },
+    "cider_neck_seal_mix": {
+      "url": "apple-cider-bottle__cider_neck_seal_mix-zstd.ktx2",
+      "sha256": "ee0a0d92e166bea01925e1a5abbf6fceb9925455088561e3fdd18e6dbb2348b5",
+      "format": "ktx2",
+      "width": 2048,
+      "height": 2048,
+      "mip_count": 12,
+      "wrap": "clamp"
+    }
+  },
+  "materials": [
+    {
+      "material_id": "cider.label_paper",
+      "gltf_material_index": 5,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9646862745285034,
+          0.14702726900577545,
+          0.09758734703063965
+        ],
+        "default_b_linear": [
+          0.002124688820913434,
+          0.14995978772640228,
+          0.0003035269910469651
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 0.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "cider.green_ink",
+      "gltf_material_index": 6,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9646862745285034,
+          0.14702726900577545,
+          0.09758734703063965
+        ],
+        "default_b_linear": [
+          0.002124688820913434,
+          0.14995978772640228,
+          0.0003035269910469651
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "cider.orchard_band",
+      "gltf_material_index": 7,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9646862745285034,
+          0.14702726900577545,
+          0.09758734703063965
+        ],
+        "default_b_linear": [
+          0.002124688820913434,
+          0.14995978772640228,
+          0.0003035269910469651
+        ],
+        "vertex_color": "none",
+        "map": "cider_orchard_band_mix",
+        "texCoord": 1,
+        "uv_matrix": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "tone_scale": 1.0,
+        "tone_bias": 1.0,
+        "channel_constants": {
+          "coverage": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "cider.neck_seal",
+      "gltf_material_index": 8,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9646862745285034,
+          0.14702726900577545,
+          0.09758734703063965
+        ],
+        "default_b_linear": [
+          0.002124688820913434,
+          0.14995978772640228,
+          0.0003035269910469651
+        ],
+        "vertex_color": "none",
+        "map": "cider_neck_seal_mix",
+        "texCoord": 0,
+        "uv_matrix": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "tone_scale": 1.0,
+        "tone_bias": 1.0,
+        "channel_constants": {
+          "coverage": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "cider.cork",
+      "gltf_material_index": 2,
+      "material_name": null,
+      "role": "fixed",
+      "pigment": null
+    },
+    {
+      "material_id": "cider.cork_pore",
+      "gltf_material_index": 1,
+      "material_name": null,
+      "role": "fixed",
+      "pigment": null
+    },
+    {
+      "material_id": "cider.glass",
+      "gltf_material_index": 0,
+      "material_name": null,
+      "role": "physical-separate",
+      "pigment": null
+    },
+    {
+      "material_id": "cider.fill",
+      "gltf_material_index": 4,
+      "material_name": null,
+      "role": "physical-separate",
+      "pigment": null
+    },
+    {
+      "material_id": "cider.glass_emboss",
+      "gltf_material_index": 3,
+      "material_name": null,
+      "role": "physical-separate",
+      "pigment": null
+    }
+  ],
+  "camera": {
+    "status": "measured",
+    "coordinates": "glTF Y-up (Blender [x,y,z] -> [x,z,-y])",
+    "position": [
+      23.576196670532227,
+      16.3601016998291,
+      52.95802688598633
+    ],
+    "target": [
+      0.003517846094510446,
+      0.8309498319469952,
+      0.012920554900375691
+    ],
+    "target_source": "evaluated product bbox centre projected onto forward line",
+    "up": [
+      -0.1052711233496666,
+      0.9659258723258972,
+      -0.23644275963306427
+    ],
+    "projection": "orthographic",
+    "orthographic_scale": 2.216156005859375,
+    "orthographic_scale_definition": "Blender ortho_scale = full extent of the larger image dimension",
+    "xmag": 1.1080780029296875,
+    "ymag": 1.1080780029296875,
+    "near": 0.10000000149011612,
+    "far": 500.0,
+    "native_source_pose": {
+      "position": [
+        23.576196670532227,
+        -52.95802688598633,
+        16.3601016998291
+      ],
+      "forward": [
+        -0.3928774297237396,
+        0.8824172019958496,
+        -0.2588188350200653
+      ],
+      "up": [
+        -0.1052711233496666,
+        0.23644275963306427,
+        0.9659258723258972
+      ],
+      "type": "ORTHO",
+      "ortho_scale": 2.216156005859375,
+      "angle": 0.691111147403717,
+      "sensor_fit": "AUTO",
+      "clip": [
+        0.10000000149011612,
+        500.0
+      ],
+      "track_target": null,
+      "resolution": [
+        900,
+        900
+      ],
+      "pixel_aspect": [
+        1.0,
+        1.0
+      ],
+      "unit_scale_length": 0.10000000149011612
+    },
+    "glb_readback": {
+      "node": 0,
+      "position": [
+        23.576196670532227,
+        16.3601016998291,
+        52.95802688598633
+      ],
+      "forward": [
+        -0.39287742722853236,
+        -0.25881880514385397,
+        -0.8824172217710832
+      ],
+      "up": [
+        -0.10527110728114253,
+        0.965925890585767,
+        -0.23644273697429363
+      ],
+      "camera": {
+        "name": "Studio | ortho camera",
+        "orthographic": {
+          "xmag": 1.1080780029296875,
+          "ymag": 1.1080780029296875,
+          "zfar": 500,
+          "znear": 0.10000000149011612
+        },
+        "type": "orthographic"
+      },
+      "max_abs_delta": {
+        "position": 0.0,
+        "forward": 2.987621133820895e-08,
+        "up": 2.2658770637562498e-08
+      }
+    }
+  },
+  "status": "ready",
+  "bfcm_candidate": {
+    "review": "root actual runtime review pending",
+    "compression": "lossless Zstd for authored pigment mips; stock GLB unchanged"
+  },
+  "volume_layers": {
+    "inner_material_indices": [
+      4
+    ],
+    "outer_material_indices": [
+      0,
+      3
+    ]
+  },
+  "runtime_volume_contract": {
+    "method": "shared-standard-pbr-inner-volume-linear-prepass",
+    "material_values": "unchanged",
+    "opaque_depth": "preserved",
+    "source_packet_sha256": "2baf33665c1117feb078a4da6ff56439ed21aa3a7913efab2b0ce4f1e6820691",
+    "qualification": "Screen-space composition of two nested volumes; not ray-traced transport."
+  }
+}

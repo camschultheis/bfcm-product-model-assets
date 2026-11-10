@@ -1,0 +1,31 @@
+{
+  "id": "headlamp",
+  "name": "Headlamp",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/headlamp/headlamp.blend",
+  "native_sha256": "51961930e8c02e31421f84bae298005a3081f779b487c6de962a661efaef5e41",
+  "source_native_sha256": "51961930e8c02e31421f84bae298005a3081f779b487c6de962a661efaef5e41",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/headlamp/previews/preview.jpg",
+      "sha256": "68a557e5d9e2b90a1e67b7a067628260d9bb64f60aa4e5484f72753f4f222222"
+    },
+    "alternate": {
+      "path": "models/headlamp/previews/alternate.jpg",
+      "sha256": "f041d357cd7b941fb941cf352512f8d02659954a7ae89dd89df68d48f5abd126"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/headlamp/headlamp.glb",
+    "sha256": "9571476fccbf992c6da072c34e72fc963dbe9b3e47dc6dae607d32ddb0326db2"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

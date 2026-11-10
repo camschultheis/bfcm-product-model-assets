@@ -1,0 +1,69 @@
+{
+  "id": "hose-nozzle",
+  "name": "Hose nozzle",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_green",
+  "native": "models/hose-nozzle/hose-nozzle.blend",
+  "native_sha256": "ca77a4c3b41a01dbe4d582d818948f3ac9cbb3ca5867afbf804d89d12664318a",
+  "source_native_sha256": "ca77a4c3b41a01dbe4d582d818948f3ac9cbb3ca5867afbf804d89d12664318a",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/hose-nozzle/previews/preview.jpg",
+      "sha256": "7ae616d262fa5f73babc4e2d4bd32043e2f744a7ef7b3ed576c9dc28217c4316"
+    },
+    "alternate": {
+      "path": "models/hose-nozzle/previews/alternate.jpg",
+      "sha256": "c2d31583fb6cabc689155625105e56f6d6f88eaaea806225191c478562c83f1e"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "26-hose-nozzle.png",
+      "path": "models/hose-nozzle/textures/26-hose-nozzle.png__0__26-hose-nozzle.png",
+      "sha256": "fff0266b20c625b8c0b8f9ce0be1e2ebb8185b7dd63b93a981e9e7ef6a4d2552",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "Chartreuse molded plastic dots / exact repeat",
+      "path": "models/hose-nozzle/textures/Chartreuse_molded_plastic_dots___exact_repeat__0___exact_repeat.png",
+      "sha256": "c51e64033bcfa390ac9cad0ff5edfefe78c10f6d4b32416f395efb329b502808",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Glazed stepped horizontal brick rows / painted repeat",
+      "path": "models/hose-nozzle/textures/Glazed_stepped_horizontal_brick_rows___painted_repeat__0___painted_repeat.png",
+      "sha256": "5696d17b4ff84771e1870c7064365a5d413b0342f9240675f6f40d4bf1000593",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Pattern tile / diagonal",
+      "path": "models/hose-nozzle/textures/Pattern_tile___diagonal__0___diagonal.png",
+      "sha256": "8c5613e8b16f4906a532079ba9b267da16c8764a7003f40d375a3849c2edb6d7",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Staggered teal stoneware dots / exact repeat",
+      "path": "models/hose-nozzle/textures/Staggered_teal_stoneware_dots___exact_repeat__0___exact_repeat.png",
+      "sha256": "2df40bd7b0a6c69a946102d90981f66fb234fb9ae8e03bebf8c677305a04ea4e",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

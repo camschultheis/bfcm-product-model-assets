@@ -1,0 +1,37 @@
+{
+  "id": "soccer-ball",
+  "name": "Soccer ball",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_green",
+  "native": "models/soccer-ball/soccer-ball.blend",
+  "native_sha256": "1140085cfc7347e327c8c6218c035fbf3b6477f00c160789a9a688d5dc8c8f41",
+  "source_native_sha256": "1140085cfc7347e327c8c6218c035fbf3b6477f00c160789a9a688d5dc8c8f41",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/soccer-ball/previews/preview.jpg",
+      "sha256": "11edcab985f2ea7e7839199d0d668ff5ee0244fac6d4100af81c3ebb12fb2319"
+    },
+    "alternate": {
+      "path": "models/soccer-ball/previews/alternate.jpg",
+      "sha256": "41381c93af6896da82a3bc8a7fd7a19574d54551132b8a416abaf4229cee325b"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pass19 | earlier633 soccer pigment mask (R strip / G ground)",
+      "path": "models/soccer-ball/textures/Pass19___earlier633_soccer_pigment_mask__R_strip___G_ground___0__soccer-ball-pigment-mask.png",
+      "sha256": "8ac578aba4b30252c52e34caaa2d082546da78c13d8a11f282a104882e6e77e2",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "pomegranate",
+  "name": "Pomegranate",
+  "category": "Pomegranates",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/pomegranate/pomegranate.blend",
+  "native_sha256": "7fe091b2d849187e8cde57b4cbaa8091c75aef99b18dfba9f9b8e5b18364f790",
+  "source_native_sha256": "7fe091b2d849187e8cde57b4cbaa8091c75aef99b18dfba9f9b8e5b18364f790",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/pomegranate/previews/preview.jpg",
+      "sha256": "8ef8669e24946edd13d296df17be77f58f8bf37b5dc79d31837f6cb51b8e7615"
+    },
+    "alternate": {
+      "path": "models/pomegranate/previews/alternate.jpg",
+      "sha256": "af6595541323bb411a22da41630d6d354de761a10907f9a02e2fac17842516ad"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "food_pomegranate_01_diff",
+      "path": "models/pomegranate/textures/food_pomegranate_01_diff__0__food_pomegranate_01_diff_2k.jpg",
+      "sha256": "5c840aa6a4c0b6d5d3bb65ebc328d0e79738df2caadf84cdb3921690da88a5e1",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "food_pomegranate_01_nor_gl",
+      "path": "models/pomegranate/textures/food_pomegranate_01_nor_gl__0__food_pomegranate_01_nor_gl_2k.jpg",
+      "sha256": "a12c46a477bce0790fecac6192fe65f5251dbb244aa0c308aed4114c9dc25b09",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "food_pomegranate_01_rough",
+      "path": "models/pomegranate/textures/food_pomegranate_01_rough__0__food_pomegranate_01_rough_2k.jpg",
+      "sha256": "d123e7d2f79a96bd46674abd7a65db927ee28d222211d3f6d27aedb3ca44702d",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

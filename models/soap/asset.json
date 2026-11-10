@@ -1,0 +1,28 @@
+{
+  "id": "soap",
+  "name": "Soap",
+  "category": "Health & Beauty",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/soap/soap.blend",
+  "native_sha256": "8c68de8ecae0b513f9d6959e10ae7a7d49ba344f6910789b9b967ff25352241d",
+  "source_native_sha256": "8c68de8ecae0b513f9d6959e10ae7a7d49ba344f6910789b9b967ff25352241d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/soap/previews/preview.jpg",
+      "sha256": "bbc27d8f30a0d054b8573fd2d7db48c15541597fcdf0f8b3e1b13a6c546681ca"
+    },
+    "alternate": {
+      "path": "models/soap/previews/alternate.jpg",
+      "sha256": "32fee9fc960ee81dc0ce71f0281cd4cd54fd06e9d741e08edd87dc85b08d66ea"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

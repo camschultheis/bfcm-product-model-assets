@@ -1,0 +1,92 @@
+{
+  "schema": "bfcm-lossless-ktx2-zstd/v1",
+  "input": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/bread-food-full04/artifacts/bread__bread_film_band_cm.ktx2",
+    "sha256": "0e4e287f579557b049919c2b0e7daeb3217634d2f6b3e14865e5e860077e61ce",
+    "bytes": 22370084
+  },
+  "output": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/color-swap-pilot/generations/bread-native-stock04-lossless/bread__bread_film_band_cm-zstd.ktx2",
+    "sha256": "9ba7d915152ed27a0a56ffd03df4123229b0666c88ee917b8bf0b228a5dec4e5",
+    "bytes": 28946
+  },
+  "preserved_authored_mips": true,
+  "regenerated_mips": false,
+  "lossless": true,
+  "mip_count": 12,
+  "ratio": 0.0012939602730146207,
+  "levels": [
+    {
+      "level": 0,
+      "raw_bytes": 16777216,
+      "compressed_bytes": 13113,
+      "decoded_sha256": "ea82b7aa2c47bcdd9e09081cffc85d9e736b514248c53e8d06df30497d485f01"
+    },
+    {
+      "level": 1,
+      "raw_bytes": 4194304,
+      "compressed_bytes": 6427,
+      "decoded_sha256": "8f020ee2f7f6a3ecfc4c727baa414ea0c6c96e1413c030ff715835442eb06306"
+    },
+    {
+      "level": 2,
+      "raw_bytes": 1048576,
+      "compressed_bytes": 3936,
+      "decoded_sha256": "12e0226e9802e3d276c500c7b938d256cb38ebcfda56dd113846401568458b6c"
+    },
+    {
+      "level": 3,
+      "raw_bytes": 262144,
+      "compressed_bytes": 2574,
+      "decoded_sha256": "e9d4f1d00b9bcb56b1357c3ce77db88f0f07c22f2a33c7187350cd3982deece0"
+    },
+    {
+      "level": 4,
+      "raw_bytes": 65536,
+      "compressed_bytes": 1283,
+      "decoded_sha256": "63b8a9c302bb36f6c194c6cafe8b86b71da8fbd277acd1d51805e0eaba789889"
+    },
+    {
+      "level": 5,
+      "raw_bytes": 16384,
+      "compressed_bytes": 529,
+      "decoded_sha256": "ac0a453859cd2f3b7fc52598080495c6979e6bcd3818b1c28a5260c613dac754"
+    },
+    {
+      "level": 6,
+      "raw_bytes": 4096,
+      "compressed_bytes": 216,
+      "decoded_sha256": "b503641b5e6a92f5da06f44a32fde3c1ee1aea49c2148b6246fa31623ebc744f"
+    },
+    {
+      "level": 7,
+      "raw_bytes": 1024,
+      "compressed_bytes": 161,
+      "decoded_sha256": "d5a05cf8c5407e34c4420c56df1faca054347c73763e54dee879b4c447817bfc"
+    },
+    {
+      "level": 8,
+      "raw_bytes": 256,
+      "compressed_bytes": 112,
+      "decoded_sha256": "6c53305945ec2ac186ab4017a42c7ed641af6491268485a1d8ecd9ad8cf6a588"
+    },
+    {
+      "level": 9,
+      "raw_bytes": 64,
+      "compressed_bytes": 65,
+      "decoded_sha256": "b98122a426a999c91fcc25fc238253ecc4c690fb1aa1b6269feb92d21b66dd36"
+    },
+    {
+      "level": 10,
+      "raw_bytes": 16,
+      "compressed_bytes": 25,
+      "decoded_sha256": "6ec7858902df477b38da93dda6381ce9caf78897212b44dde89007a52b7ffe7e"
+    },
+    {
+      "level": 11,
+      "raw_bytes": 4,
+      "compressed_bytes": 13,
+      "decoded_sha256": "386d814334290464087fdbac287253d26842839192d4c1e8586c24cf9a1641a1"
+    }
+  ]
+}

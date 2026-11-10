@@ -1,0 +1,28 @@
+{
+  "id": "sheet-mask-pack",
+  "name": "Face moisturizer jar",
+  "category": "Moisturizers",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/sheet-mask-pack/sheet-mask-pack.blend",
+  "native_sha256": "f5f19d8191515e25a5e7e1400b7a2261d9089db2ac3794c7b63382cfd1720bef",
+  "source_native_sha256": "f5f19d8191515e25a5e7e1400b7a2261d9089db2ac3794c7b63382cfd1720bef",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/sheet-mask-pack/previews/preview.jpg",
+      "sha256": "c24b2c97e45332464de7f73efb393860d673f5bda7e555c6a40cfbd261884af3"
+    },
+    "alternate": {
+      "path": "models/sheet-mask-pack/previews/alternate.jpg",
+      "sha256": "5fca5f2c1d3bd85c4a11b953c3db8e1abc825db6d210bad3673c717bea8571f9"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

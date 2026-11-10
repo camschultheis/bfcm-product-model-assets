@@ -1,0 +1,45 @@
+{
+  "id": "leaf-blower",
+  "name": "Leaf blower",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/leaf-blower/leaf-blower.blend",
+  "native_sha256": "7a2e9dbc478f2e6cc57d008352063f764b87ee533aa4b0c2f0106bd0c5386f84",
+  "source_native_sha256": "7a2e9dbc478f2e6cc57d008352063f764b87ee533aa4b0c2f0106bd0c5386f84",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/leaf-blower/previews/preview.jpg",
+      "sha256": "f90167931c986dec202e8cf632c73de77792579184cf5fa1133af8d1639f589e"
+    },
+    "alternate": {
+      "path": "models/leaf-blower/previews/alternate.jpg",
+      "sha256": "4dad3e027108f8cc41d93215244a70a3bca1edf6098418625986a65480934d2b"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Chartreuse satin with full cream polka dots / exact repeat",
+      "path": "models/leaf-blower/textures/Chartreuse_satin_with_full_cream_polka_dots___exact_repeat__0___exact_repeat.png",
+      "sha256": "14d74b1cf51d0e2cf4652f08d3a0b2a02c14a0dc2607ed35e31d41224f1d7291",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Pattern tile / dots",
+      "path": "models/leaf-blower/textures/Pattern_tile___dots__0___dots.png",
+      "sha256": "134d05404e3f241b31a5d862ce5471b01cc988b6436d0b96ffbd8c68f4d4b7a7",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

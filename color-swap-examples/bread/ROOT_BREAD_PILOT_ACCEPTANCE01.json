@@ -1,0 +1,68 @@
+{
+  "schema": "bfcm-root-pilot-product-acceptance/v1",
+  "product": "bread",
+  "generation": "bread-native-stock04-lossless",
+  "state": "accepted-pilot-product-with-optical-qualification",
+  "recorded_at": "2026-11-09T17:18:05.943456+00:00",
+  "source_native_sha256": "c7f85487fab665bc9e42bbfc6068ab90ae6119d3c0c5442c124c27d651e5e240",
+  "glb": {
+    "url": "bread__stock.glb",
+    "sha256": "d5837461eed5aca04d82472af71826f106b447bb19c49831a3507ca307783cf9",
+    "bytes": 137203004
+  },
+  "delivery_bytes": 137231950,
+  "actual_derivative_report": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/bread-food-full04/artifacts/derivative_job_report.json",
+    "sha256": "67743fb7b3200c6c1fab3b6519b46c38ac64a1621823a3b309962bbd10e4d10b"
+  },
+  "source_and_accepted_4k_food_maps_preserved": true,
+  "stock_base_color": "native default-palette RGB from existing in-run nat_at cache, sRGB8; diagnostic underlay unbound",
+  "joint_factorization_max": 4.470348358154297e-08,
+  "joint_underlay_clips": 0,
+  "default_adapter_float_states": 11,
+  "default_stock_framebuffer_identity": true,
+  "palette_states": 10,
+  "physical_materials_immutable": true,
+  "source_defaults_immutable": true,
+  "uniforms_and_resources_stable": true,
+  "lossless_delivery_mips_verified": 12,
+  "native_original_and_actual_stock_hero_viewed": true,
+  "stock_true_three_views_viewed": [
+    "hero",
+    "rear",
+    "high_grazing"
+  ],
+  "stock_three_views": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/SUPERVISOR_BREAD_REVIEW06_STOCK/artifacts/review_render.json",
+    "sha256": "3085c91b98a2eeaa1d82f0a2417aaf14a1ca95675e4bec12b6cf17fb05062555"
+  },
+  "runtime_qa": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bread-stock04-runtime-qa/report.json",
+    "sha256": "568c8a149ef2f82f16c3a4bf6ef2a70841e397af24407452fc0a9a4b2b217085"
+  },
+  "runtime_boards_viewed": [
+    "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bread-stock04-runtime-qa/palette-board.jpg",
+    "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bread-stock04-runtime-qa/views-board.jpg"
+  ],
+  "validator": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/gltf-validation/bread-d5837461eed5.json",
+    "sha256": "9485e4e37be7c58ffdfd1a72d966d308437bbb16189be6953e19e2fb54851660",
+    "errors": 0,
+    "warnings": 0,
+    "infos": 1
+  },
+  "independent_audit": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bread-stock04-runtime-qa/independent-audit/BREAD_FULL04_INDEPENDENT_AUDIT.json",
+    "sha256": "9c5997f60ea5c5ae41f3c077982daae8f5452b3302a5644c00f21821607fedca"
+  },
+  "finding": "Color-method pilot passed. Ten allowed pairs/reversals preserve fixed food and PBR resources. Native-stock print and film remain continuous in the three actual stock renders. Root visually reviewed native and web captures.",
+  "qualifications": [
+    "Web transmission is softer/cloudier and less specular than native Cycles film; accepted for color-method pilot review only. User optical review is required before rollout; native and stock beauty renders are distinct bytes.",
+    "Stock 137203004-byte GLB preserves the 1896166-triangle natural-food mesh and accepted4K maps. Whole-library compression and sphere scene performance remain pending.",
+    "Reported sRGB8 native-color quantization max0.0034120779018543823 linear; joint float identity4.470348e-8 is a separate metric.",
+    "Natural-food tangent comparison p99 0.0042296deg, max40.8763195deg,9571unmatched sampled vertices,stride28; matching ambiguity prevents a whole-basis exactness claim. Actual format validator is clean and no obvious source-normal discontinuity was found in the viewed stills.",
+    "Desktop Chrome and responsive emulated mobile viewport checks; no physical mobile GPU or continuous turntable playback acceptance.",
+    "The quarter-turn still was overwritten by the review RAF in the scripted sequence; it is not used as rotation evidence. Actual rear capture and rigid stock3views are used.",
+    "Inherited mip qualification prose describes the former underlay composition. Actual runtime is native stock + coverage-weighted target-minus-source pigment delta. All12 delivered mip texels were independently decoded and matched exactly."
+  ]
+}

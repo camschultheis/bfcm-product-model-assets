@@ -1,0 +1,28 @@
+{
+  "id": "dart",
+  "name": "Dart",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/dart/dart.blend",
+  "native_sha256": "d741c6461636003699649c49f66fa585fa3d01447fe42867b77a262647279832",
+  "source_native_sha256": "d741c6461636003699649c49f66fa585fa3d01447fe42867b77a262647279832",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/dart/previews/preview.jpg",
+      "sha256": "3ea488dfc6f5c1b1cb976ce2aa00f3ffd188c77a658b1f6db11a732c0bf87775"
+    },
+    "alternate": {
+      "path": "models/dart/previews/alternate.jpg",
+      "sha256": "c1752dd11f0de9707ec02498259174c6021c464a99589a30f1bb37aefa15e413"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "beverage-mix",
+  "name": "Beverage Mix",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/beverage-mix/beverage-mix.blend",
+  "native_sha256": "7e101a22a86a9e4fada8c89e600a61b7699849730166087f88f8b4f77847a568",
+  "source_native_sha256": "7e101a22a86a9e4fada8c89e600a61b7699849730166087f88f8b4f77847a568",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/beverage-mix/previews/preview.jpg",
+      "sha256": "feef7dd6c1edda54cee5758b9805cd63ed2f7a445d333859ae60624c4189bd35"
+    },
+    "alternate": {
+      "path": "models/beverage-mix/previews/alternate.jpg",
+      "sha256": "a4d1042d83922893a17111e0f2b2aa2cbbe3c1d825b0f02976b2ea595dce1e55"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

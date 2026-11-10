@@ -1,0 +1,28 @@
+{
+  "id": "mittens",
+  "name": "Mittens",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/mittens/mittens.blend",
+  "native_sha256": "2219dac59b4a61c8a4c21ad0f4c46eb7505647c6b3ffaa1039e48d385ec7058f",
+  "source_native_sha256": "2219dac59b4a61c8a4c21ad0f4c46eb7505647c6b3ffaa1039e48d385ec7058f",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/mittens/previews/preview.jpg",
+      "sha256": "c699650c5595c33915af9fbcebd626fe760806b3a87931cefb69bbc26bfadea8"
+    },
+    "alternate": {
+      "path": "models/mittens/previews/alternate.jpg",
+      "sha256": "e6f15e3773db5049a82ba6bad15811fc16a32ba7cbb1c5ceeabbefcb3df87c29"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

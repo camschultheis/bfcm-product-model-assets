@@ -1,0 +1,62 @@
+{
+  "schema": "bfcm-root-pilot-product-acceptance/v1",
+  "product": "bowling-ball",
+  "generation": "bowling-ball-tangents05-lossless",
+  "state": "accepted-pilot-product",
+  "recorded_at": "2026-11-09T16:27:23.056340+00:00",
+  "source_native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+  "glb": {
+    "url": "bowling-ball__stock.tangent_repair05.glb",
+    "sha256": "3d3580e7968546628acefcd1eb06de3034d8d62674e44b4b1e80af23dde57826",
+    "bytes": 17388220
+  },
+  "delivery_bytes": 19345781,
+  "native_default_and_mint_reversal_viewed": true,
+  "native_stock_true_three_views_viewed": true,
+  "repaired_stock_true_three_views_viewed": true,
+  "repaired_stock_comparison": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bowling-tangents05-runtime-qa/SUPERVISOR_BOWLING_REPAIRED_STOCK_DIFF04.json",
+    "sha256": "0e681d8d9b255955b5ea961813a0c0d89b5c1964051825280f96cc8a2300a902"
+  },
+  "default_stock_framebuffer_identity": true,
+  "palette_states": 10,
+  "uniforms_and_resources_stable": true,
+  "physical_materials_immutable": true,
+  "lossless_delivery_mips_verified": 12,
+  "all_normal_mapped_primitives_explicit_uv3_tangents": 2,
+  "validator": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/gltf-validation/bowling-ball-3d3580e79685.json",
+    "sha256": "482e7831d48bd04d75baedca7f904f59ec3701670a07a5e1731ac4a5bbf5b0b0",
+    "errors": 0,
+    "warnings": 0,
+    "infos": 6
+  },
+  "runtime_qa": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bowling-tangents05-runtime-qa/report.json",
+    "sha256": "7efd1b379fee6a2eed7836f3dbf6f35ca8e75395702a10b218eaad5034535797"
+  },
+  "independent_audit": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bowling-tangents05-runtime-qa/independent-audit/independent-audit.json",
+    "sha256": "dd3da8342eb96eee8926b649573234188099f6d3eb44552a553dffbd2e629254"
+  },
+  "runtime_board_viewed": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bowling-tangents05-runtime-qa/board.jpg",
+  "repaired_native_board_viewed": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bowling-tangents05-runtime-qa/SUPERVISOR_BOWLING_REPAIRED_STOCK_ROTATIONS04.png",
+  "turntable_capture": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/bowling-tangents05-turntable-qa/report.json",
+    "sha256": "65c5376e2bedb01ab7230c96cc4c7b62a22b2d4b9cb41689437ae49d728a5085",
+    "full_turn": true,
+    "frames": 2940,
+    "median_frame_interval_ms": 16.7,
+    "p95_frame_interval_ms": 17.5,
+    "stop_restart_keyboard_home": true,
+    "continuous_playback_viewed": false,
+    "decoded_frames_viewed": false
+  },
+  "finding": "Repaired export preserves bores, gloss and fine marbling. Source positions, all four UVs, material/winding and embedded PBR image bytes are exact. Default appearance is framebuffer identical to stock; ten authorized palette states keep colors within each pair. Repair renders differ from original stock at most one8-bit byte in three true views.",
+  "qualification": [
+    "Static portable pigment M changes some vein/edge brightness compared with native source-facing/Fresnel mixing; accepted for pilot comparison and native masters remain unchanged.",
+    "Stored corner normal maximum angular change0.03296073756 degrees;226411 of227688 corners bit exact.",
+    "Actual Chrome49s rotation and timing recorded, but continuous playback and decoded consecutive frames were not visually reviewed.",
+    "Desktop Chrome and emulated mobile viewport checks; no physical mobile GPU or all105models performance claim."
+  ]
+}

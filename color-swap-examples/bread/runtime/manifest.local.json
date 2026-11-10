@@ -1,0 +1,203 @@
+{
+  "schema": "bfcm-pigment-manifest/v4",
+  "product_id": "bread",
+  "model_id": "bread:derivative-v2:c7f85487fab6",
+  "source_native_sha256": "c7f85487fab665bc9e42bbfc6068ab90ae6119d3c0c5442c124c27d651e5e240",
+  "default_pair": "cream_blue",
+  "stock_base_color": "default-palette",
+  "glb": {
+    "url": "bread__stock.glb",
+    "sha256": "d5837461eed5aca04d82472af71826f106b447bb19c49831a3507ca307783cf9",
+    "bytes": 137203004
+  },
+  "native_hero": {
+    "url": "../native-preview.jpg",
+    "sha256": "ffde234fe00df2d9c11f72a625a08087508d27d7fdf37bbfab11390e9b05373e"
+  },
+  "package_metrics": {
+    "glb_bytes": 137203004,
+    "pigment_bytes": 28946,
+    "total_bytes": 137231950
+  },
+  "pigment_maps": {
+    "bread_film_band_cm": {
+      "url": "bread__bread_film_band_cm-zstd.ktx2",
+      "sha256": "9ba7d915152ed27a0a56ffd03df4123229b0666c88ee917b8bf0b228a5dec4e5",
+      "format": "ktx2",
+      "width": 2048,
+      "height": 2048,
+      "mip_count": 12,
+      "wrap": "clamp"
+    }
+  },
+  "materials": [
+    {
+      "material_id": "bread.tie",
+      "gltf_material_index": 1,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "bread.film_band_proxy",
+      "gltf_material_index": 0,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "map": "bread_film_band_cm",
+        "texCoord": 1,
+        "uv_matrix": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "tone_scale": 1.0,
+        "tone_bias": 1.0,
+        "channel_constants": {
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "bread.natural_food",
+      "gltf_material_index": 2,
+      "material_name": null,
+      "role": "fixed",
+      "pigment": null
+    }
+  ],
+  "camera": {
+    "status": "measured",
+    "coordinates": "glTF Y-up (Blender [x,y,z] -> [x,z,-y])",
+    "position": [
+      24.780712127685547,
+      34.145687103271484,
+      -43.250953674316406
+    ],
+    "target": [
+      -0.12534909201307798,
+      0.5469881158866627,
+      -0.1123937271376505
+    ],
+    "target_source": "evaluated product bbox centre projected onto forward line",
+    "up": [
+      -0.2795965075492859,
+      0.8290376663208008,
+      0.48427528142929077
+    ],
+    "projection": "orthographic",
+    "orthographic_scale": 3.966982841491699,
+    "orthographic_scale_definition": "Blender ortho_scale = full extent of the larger image dimension",
+    "xmag": 1.9834914207458496,
+    "ymag": 1.9834914207458496,
+    "near": 0.10000000149011612,
+    "far": 500.0,
+    "native_source_pose": {
+      "position": [
+        24.780712127685547,
+        43.250953674316406,
+        34.145687103271484
+      ],
+      "forward": [
+        -0.414518803358078,
+        -0.7179675698280334,
+        -0.5591928958892822
+      ],
+      "up": [
+        -0.2795965075492859,
+        -0.48427528142929077,
+        0.8290376663208008
+      ],
+      "type": "ORTHO",
+      "ortho_scale": 3.966982841491699,
+      "angle": 0.691111147403717,
+      "sensor_fit": "AUTO",
+      "clip": [
+        0.10000000149011612,
+        500.0
+      ],
+      "track_target": null,
+      "resolution": [
+        1000,
+        1000
+      ],
+      "pixel_aspect": [
+        1.0,
+        1.0
+      ],
+      "unit_scale_length": 0.10000000149011612
+    },
+    "glb_readback": {
+      "node": 0,
+      "position": [
+        24.780712127685547,
+        34.145687103271484,
+        -43.250953674316406
+      ],
+      "forward": [
+        -0.41451882913714605,
+        -0.5591928857584146,
+        0.7179675875747777
+      ],
+      "up": [
+        -0.27959647547541433,
+        0.8290375845021603,
+        0.4842752258628863
+      ],
+      "camera": {
+        "name": "Studio | ortho camera",
+        "orthographic": {
+          "xmag": 1.9834914207458496,
+          "ymag": 1.9834914207458496,
+          "zfar": 500,
+          "znear": 0.10000000149011612
+        },
+        "type": "orthographic"
+      },
+      "max_abs_delta": {
+        "position": 0.0,
+        "forward": 2.5779068046904996e-08,
+        "up": 8.181864052936305e-08
+      }
+    }
+  },
+  "status": "ready",
+  "bfcm_candidate": {
+    "review": "root actual runtime review pending",
+    "compression": "lossless Zstd for authored pigment mips; stock GLB unchanged"
+  }
+}

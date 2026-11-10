@@ -1,0 +1,45 @@
+{
+  "id": "socks",
+  "name": "Socks",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "mint_green",
+  "native": "models/socks/socks.blend",
+  "native_sha256": "804c0c2ec1a6d8ede46f6eb0ff63292d2f4a14803b68275fa68d2e58e7c10965",
+  "source_native_sha256": "804c0c2ec1a6d8ede46f6eb0ff63292d2f4a14803b68275fa68d2e58e7c10965",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/socks/previews/preview.jpg",
+      "sha256": "5ac3ded6fd3ddc3fd0a4ba9befef8eb7d40bd582f2e42bba0013de4d4ed43f2a"
+    },
+    "alternate": {
+      "path": "models/socks/previews/alternate.jpg",
+      "sha256": "ba1c1b545f0b40ad34d218ad34b7aa6e0e8028c586098655fa9df52d7781d279"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "socks_Albedo_2x4K.png",
+      "path": "models/socks/textures/socks_Albedo_2x4K.png__0__socks_Albedo_2x4K.png",
+      "sha256": "2f1ab32fc384af6865ae60df1d72ba20417b2b0325dd317033d7df4c63f1348c",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "socks_KnitNormal_2x4K.png",
+      "path": "models/socks/textures/socks_KnitNormal_2x4K.png__0__socks_KnitNormal_2x4K.png",
+      "sha256": "333ad7aa0881cb95c0dc0385e22db1e77627720e971ce91ef01f8849a4c9f638",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

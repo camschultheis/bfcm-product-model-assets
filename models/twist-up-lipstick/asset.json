@@ -1,0 +1,28 @@
+{
+  "id": "twist-up-lipstick",
+  "name": "Twist-up lipstick",
+  "category": "Lipsticks",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/twist-up-lipstick/twist-up-lipstick.blend",
+  "native_sha256": "eff8b9bf9a7aaa787d99ad3b64f0ff5de0387508baa8c5c6bddc7787bf480e84",
+  "source_native_sha256": "eff8b9bf9a7aaa787d99ad3b64f0ff5de0387508baa8c5c6bddc7787bf480e84",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/twist-up-lipstick/previews/preview.jpg",
+      "sha256": "74f4a6cb35c310e85d7b736658525a39f59dd782dca2e522c4bad32b33a04ead"
+    },
+    "alternate": {
+      "path": "models/twist-up-lipstick/previews/alternate.jpg",
+      "sha256": "a5f398bdb85b8a77d5a1eaea7b30cfe96680654d8f7db74b4d16902315518bca"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

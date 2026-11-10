@@ -1,0 +1,37 @@
+{
+  "id": "lamp",
+  "name": "Table lamp",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/lamp/lamp.blend",
+  "native_sha256": "0f112e687dddf2b6b7a4747c51a07b619bd370ea5e946442d2812ca079dc94d7",
+  "source_native_sha256": "0f112e687dddf2b6b7a4747c51a07b619bd370ea5e946442d2812ca079dc94d7",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/lamp/previews/preview.jpg",
+      "sha256": "6289bde9b8830e0e3fcf25bcfc0aa8c5bbb7b4d42b4743d9f6deba56063a9dbd"
+    },
+    "alternate": {
+      "path": "models/lamp/previews/alternate.jpg",
+      "sha256": "29c61c6b35935b41e95f7a21945337548dc3e96e35a646283456902978b25ecb"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Lamp_AO_4K",
+      "path": "models/lamp/textures/Lamp_AO_4K__0__Lamp_AO_4K.png",
+      "sha256": "1e2355bf6116906b911bc8198e11deaaa90a92554957ba15f7467e5c64aa1a2c",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "cushion",
+  "name": "Cushion",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/cushion/cushion.blend",
+  "native_sha256": "e1e6482a92591abac35f04a2aa146a92034b26ad7e7578394edd101b5e8e2187",
+  "source_native_sha256": "e1e6482a92591abac35f04a2aa146a92034b26ad7e7578394edd101b5e8e2187",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cushion/previews/preview.jpg",
+      "sha256": "77126ec15e8024d14b436dcd3dbe3c5bbe946c7888514acb864c2c0c82e309ab"
+    },
+    "alternate": {
+      "path": "models/cushion/previews/alternate.jpg",
+      "sha256": "83862decb373fe14c347d5240010c2145aa1cbbc5ac14c29440f770f66bf53f2"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "20-cushion.png",
+      "path": "models/cushion/textures/20-cushion.png__0__20-cushion.png",
+      "sha256": "f3c609330da090c90d1e6e2f0e32069c951a0f9111659441d3ab0f2fa0e6725b",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "Coral triangles / five repeats, four independent rows",
+      "path": "models/cushion/textures/Coral_triangles___five_repeats__four_independent_rows__0___five_repeats__four_independent_rows.png",
+      "sha256": "6a69899170f6e250c5ed433db08447305b60b59604e8658f9e7c40849669a40d",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Coral triangular quilt patchwork / exact repeat",
+      "path": "models/cushion/textures/Coral_triangular_quilt_patchwork___exact_repeat__0___exact_repeat.png",
+      "sha256": "5afce1ace0fcdda887603e6802b54bfba0a0b33fd57638631f63700468f87b2a",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Quilt thread dashes / shared cloth chart",
+      "path": "models/cushion/textures/Quilt_thread_dashes___shared_cloth_chart__0___shared_cloth_chart.png",
+      "sha256": "5beb7f8d3033bb7e9a1c888cf5c2e914fe1cc67736b3f37d144c72f84cc6d4ce",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

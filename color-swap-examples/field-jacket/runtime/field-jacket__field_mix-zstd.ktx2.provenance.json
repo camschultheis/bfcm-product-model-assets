@@ -1,0 +1,92 @@
+{
+  "schema": "bfcm-lossless-ktx2-zstd/v1",
+  "input": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/field-jacket-sheen03/artifacts/field-jacket__field_mix.ktx2",
+    "sha256": "4be5546423f5b99df9d5b575df4d724e9bf923e9b3043fb5b6217e0102b3afb7",
+    "bytes": 22370084
+  },
+  "output": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/color-swap-pilot/generations/field-jacket-sheen03-lossless/field-jacket__field_mix-zstd.ktx2",
+    "sha256": "0b36d43784001c9849150495e1227e8e644c430f8d696075878da9b3a18f76e3",
+    "bytes": 431458
+  },
+  "preserved_authored_mips": true,
+  "regenerated_mips": false,
+  "lossless": true,
+  "mip_count": 12,
+  "ratio": 0.019287276704012375,
+  "levels": [
+    {
+      "level": 0,
+      "raw_bytes": 16777216,
+      "compressed_bytes": 234353,
+      "decoded_sha256": "3665850258af6072845522e52c2566a5067e133d898d99a4d89b560e5b44b932"
+    },
+    {
+      "level": 1,
+      "raw_bytes": 4194304,
+      "compressed_bytes": 106744,
+      "decoded_sha256": "7fbefca785bac6f9d9df37027970898b7f9db1e8defb911781c45deaa8e85a7f"
+    },
+    {
+      "level": 2,
+      "raw_bytes": 1048576,
+      "compressed_bytes": 51089,
+      "decoded_sha256": "340a44b4fe03b49edb67cd7582fa2c523f68ddd4bdf2a2667c6defa904cc1944"
+    },
+    {
+      "level": 3,
+      "raw_bytes": 262144,
+      "compressed_bytes": 22996,
+      "decoded_sha256": "6dca9f4e808699e24b7fe9034e9e795f4722e25f53d83b5ff3a5e85a68e2528b"
+    },
+    {
+      "level": 4,
+      "raw_bytes": 65536,
+      "compressed_bytes": 10025,
+      "decoded_sha256": "4a02f8e070416f7464f1149b3d57d142ad48c2cfcb6322fd70c328aed4b67d46"
+    },
+    {
+      "level": 5,
+      "raw_bytes": 16384,
+      "compressed_bytes": 4159,
+      "decoded_sha256": "11e411ccd0ab62ae96f9b49ef91591009cdde739510af26d115d9478307523d2"
+    },
+    {
+      "level": 6,
+      "raw_bytes": 4096,
+      "compressed_bytes": 1054,
+      "decoded_sha256": "bfd1d95a67f5954b30b987f6063d68452f595e9e08271bb41f32f1bcfe34eec7"
+    },
+    {
+      "level": 7,
+      "raw_bytes": 1024,
+      "compressed_bytes": 301,
+      "decoded_sha256": "6876206bcbd46ff0d8ab40a51ff61443a0836d51d391310a3bc575cb9d516af1"
+    },
+    {
+      "level": 8,
+      "raw_bytes": 256,
+      "compressed_bytes": 151,
+      "decoded_sha256": "1c11eb0ba2aae61edc98f66b9a815bb2166f7b8ac7fc11e0ab402925611adadb"
+    },
+    {
+      "level": 9,
+      "raw_bytes": 64,
+      "compressed_bytes": 56,
+      "decoded_sha256": "5a5f941b3283de96503822c13e160a4da38998906d59a5f7017db870afd19539"
+    },
+    {
+      "level": 10,
+      "raw_bytes": 16,
+      "compressed_bytes": 25,
+      "decoded_sha256": "fb1cbae00713b37dfa33d87b70a86d997ddfbd435ea0eea0b48d86f8108b93ad"
+    },
+    {
+      "level": 11,
+      "raw_bytes": 4,
+      "compressed_bytes": 13,
+      "decoded_sha256": "40398d8fbab403e9af5c36b68a43c244014ea8ace3b03d4bea57eb85d550309e"
+    }
+  ]
+}

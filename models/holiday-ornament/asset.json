@@ -1,0 +1,28 @@
+{
+  "id": "holiday-ornament",
+  "name": "Holiday Ornament",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/holiday-ornament/holiday-ornament.blend",
+  "native_sha256": "5fd5ebec688cc31feb41d0fe1793df65de956102704376e3b871e592c0914ac3",
+  "source_native_sha256": "5fd5ebec688cc31feb41d0fe1793df65de956102704376e3b871e592c0914ac3",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/holiday-ornament/previews/preview.jpg",
+      "sha256": "7f6efcbcc3ab8bdc7cfdb8a07a539b2b1ee5b59c2d5f0449790780affcaba637"
+    },
+    "alternate": {
+      "path": "models/holiday-ornament/previews/alternate.jpg",
+      "sha256": "06f9f033b567ccf25a78d4fb37978331264d7d037d63a056daafdb64d9a2f358"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

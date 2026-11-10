@@ -1,0 +1,28 @@
+{
+  "id": "binoculars",
+  "name": "Binoculars",
+  "category": "Binoculars",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/binoculars/binoculars.blend",
+  "native_sha256": "9ef64bd2835135141e86da2531774e24192582e75ad54fa9cabc2442008f1529",
+  "source_native_sha256": "9ef64bd2835135141e86da2531774e24192582e75ad54fa9cabc2442008f1529",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/binoculars/previews/preview.jpg",
+      "sha256": "1c3c7756d71b6b0257e19c9f44b907c5e8640e4fe1c6277c304eedd7102201a8"
+    },
+    "alternate": {
+      "path": "models/binoculars/previews/alternate.jpg",
+      "sha256": "8ba6d9fae1f3888a30ae3332cae832fb60919f8c01d0b8b1061c33cfa069f471"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

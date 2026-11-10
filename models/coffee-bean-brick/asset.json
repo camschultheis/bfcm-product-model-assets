@@ -1,0 +1,28 @@
+{
+  "id": "coffee-bean-brick",
+  "name": "Valve-sealed coffee bean brick",
+  "category": "Coffee Beans & Ground Coffee",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/coffee-bean-brick/coffee-bean-brick.blend",
+  "native_sha256": "a1e95f940071a945fd2e44fea23ec48f2c8313f61856728f45578d57ab068398",
+  "source_native_sha256": "a1e95f940071a945fd2e44fea23ec48f2c8313f61856728f45578d57ab068398",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/coffee-bean-brick/previews/preview.jpg",
+      "sha256": "eeee602d4edc22dc7b90f9089d0634559094f099e8d8bc1673d58418d47f128e"
+    },
+    "alternate": {
+      "path": "models/coffee-bean-brick/previews/alternate.jpg",
+      "sha256": "e664e04e7b8edca57027d996d28a5f3046cb2b1b9e7d32406e40913191076797"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

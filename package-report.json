@@ -1,0 +1,48 @@
+{
+  "status": "passed-with-unused-source-reference-qualification",
+  "count": 134,
+  "qualifications": {
+    "skateboard": [
+      {
+        "kind": "missing_image",
+        "name": "Skateboard_M_Skateboard1_BaseColor.png",
+        "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_BaseColor.png",
+        "source_type": "FILE",
+        "used_by_material": false,
+        "qualification": "Unused legacy source image reference; accepted material does not use this image."
+      },
+      {
+        "kind": "missing_image",
+        "name": "Skateboard_M_Skateboard1_Height.png",
+        "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Height.png",
+        "source_type": "FILE",
+        "used_by_material": false,
+        "qualification": "Unused legacy source image reference; accepted material does not use this image."
+      },
+      {
+        "kind": "missing_image",
+        "name": "Skateboard_M_Skateboard1_Metallic.png",
+        "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Metallic.png",
+        "source_type": "FILE",
+        "used_by_material": false,
+        "qualification": "Unused legacy source image reference; accepted material does not use this image."
+      },
+      {
+        "kind": "missing_image",
+        "name": "Skateboard_M_Skateboard1_Normal.png",
+        "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Normal.png",
+        "source_type": "FILE",
+        "used_by_material": false,
+        "qualification": "Unused legacy source image reference; accepted material does not use this image."
+      },
+      {
+        "kind": "missing_image",
+        "name": "Skateboard_M_Skateboard1_Roughness.png",
+        "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Roughness.png",
+        "source_type": "FILE",
+        "used_by_material": false,
+        "qualification": "Unused legacy source image reference; accepted material does not use this image."
+      }
+    ]
+  }
+}

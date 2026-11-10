@@ -1,0 +1,28 @@
+{
+  "id": "supplement-blister-pack",
+  "name": "Vitamin slide container",
+  "category": "Vitamins & Supplements",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/supplement-blister-pack/supplement-blister-pack.blend",
+  "native_sha256": "0444cc2dc6d6e0d2cf5f648ccd03601e0a7671e15c3aefbf932ad3265af998a5",
+  "source_native_sha256": "0444cc2dc6d6e0d2cf5f648ccd03601e0a7671e15c3aefbf932ad3265af998a5",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/supplement-blister-pack/previews/preview.jpg",
+      "sha256": "a0ad1505f9349a93911e71e95762be7246b734dce144dbf98ced2bec39d9b78d"
+    },
+    "alternate": {
+      "path": "models/supplement-blister-pack/previews/alternate.jpg",
+      "sha256": "4747fc43582fbd5ddfb59f84a16d6581cb907c9c49a034e4c6a37d1070d27fd3"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

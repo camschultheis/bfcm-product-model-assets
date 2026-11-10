@@ -1,0 +1,28 @@
+{
+  "id": "bowling-pin",
+  "name": "Bowling Pin",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/bowling-pin/bowling-pin.blend",
+  "native_sha256": "caf7a0e986100c63183abbd9e262836b9a9955a31948237b7917f8008bc2b4c7",
+  "source_native_sha256": "caf7a0e986100c63183abbd9e262836b9a9955a31948237b7917f8008bc2b4c7",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/bowling-pin/previews/preview.jpg",
+      "sha256": "2b0e01ea3129c57ad343d32d0fe56d32249c4157a3923ae54f7d02a7d5785f7d"
+    },
+    "alternate": {
+      "path": "models/bowling-pin/previews/alternate.jpg",
+      "sha256": "df89dc8cacb731048e918038b6907ecdd013ec3b403d14c3d5e0a2b8898cd224"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

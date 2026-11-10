@@ -1,0 +1,31 @@
+{
+  "id": "hinged-link-bracelet",
+  "name": "Hinged enamel-link bracelet",
+  "category": "Bracelets",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/hinged-link-bracelet/hinged-link-bracelet.blend",
+  "native_sha256": "7f2bf1885ed3fd6abb5f0b5e1511c531dbce37c0c098d3345ae73332c04a1f2d",
+  "source_native_sha256": "7f2bf1885ed3fd6abb5f0b5e1511c531dbce37c0c098d3345ae73332c04a1f2d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/hinged-link-bracelet/previews/preview.jpg",
+      "sha256": "71fddd60ebceb6c364061e996cfa9636d24fc73f38fe60e1640895432ce69015"
+    },
+    "alternate": {
+      "path": "models/hinged-link-bracelet/previews/alternate.jpg",
+      "sha256": "3da95c053e88819415bb581150a8cb182a50eb64c51210f13a1e865e21915925"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/hinged-link-bracelet/hinged-link-bracelet.glb",
+    "sha256": "46ff0dcdab77aea8b483181b2c539ecc272dbd8c8ec1fe77445872f65b22de20"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

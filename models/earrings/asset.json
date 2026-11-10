@@ -1,0 +1,28 @@
+{
+  "id": "earrings",
+  "name": "Earrings",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/earrings/earrings.blend",
+  "native_sha256": "01a71483125037e2be07e3134fd58f6c430f91bde2af419a50067922ed5cf700",
+  "source_native_sha256": "01a71483125037e2be07e3134fd58f6c430f91bde2af419a50067922ed5cf700",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/earrings/previews/preview.jpg",
+      "sha256": "3b2b8095b47f9ea738853cbc31e5acc269868dbbe8c6c2b34c9612a270bb34db"
+    },
+    "alternate": {
+      "path": "models/earrings/previews/alternate.jpg",
+      "sha256": "e9d34bcd4a9c8ad5f98d62835a04ac6de2acc97d4d2528ea76eacc7e6b07c6bd"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

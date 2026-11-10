@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "blender_version": "5.2.2 LTS",
+  "native_hashes_verified": 134,
+  "texture_hashes_verified": 111,
+  "representative_reopen": [
+    {
+      "id": "sneaker",
+      "opened": true,
+      "used_missing_images": [],
+      "unused_stale_image_references": [],
+      "mesh_count": 37
+    },
+    {
+      "id": "aquarium",
+      "opened": true,
+      "used_missing_images": [],
+      "unused_stale_image_references": [],
+      "mesh_count": 45
+    },
+    {
+      "id": "lollipop",
+      "opened": true,
+      "used_missing_images": [],
+      "unused_stale_image_references": [],
+      "mesh_count": 2
+    },
+    {
+      "id": "skateboard",
+      "opened": true,
+      "used_missing_images": [],
+      "unused_stale_image_references": [
+        "Skateboard_M_Skateboard1_BaseColor.png",
+        "Skateboard_M_Skateboard1_Height.png",
+        "Skateboard_M_Skateboard1_Metallic.png",
+        "Skateboard_M_Skateboard1_Normal.png",
+        "Skateboard_M_Skateboard1_Roughness.png"
+      ],
+      "mesh_count": 105
+    },
+    {
+      "id": "air-freshener",
+      "scope": "pilot-source",
+      "opened": true,
+      "used_missing_images": []
+    },
+    {
+      "id": "field-jacket",
+      "scope": "pilot-source",
+      "opened": true,
+      "used_missing_images": []
+    },
+    {
+      "id": "bowling-ball",
+      "scope": "pilot-source",
+      "opened": true,
+      "used_missing_images": []
+    },
+    {
+      "id": "headphones",
+      "scope": "pilot-source",
+      "opened": true,
+      "used_missing_images": []
+    },
+    {
+      "id": "apple-cider-bottle",
+      "scope": "pilot-source",
+      "opened": true,
+      "used_missing_images": []
+    },
+    {
+      "id": "bread",
+      "scope": "pilot-source",
+      "opened": true,
+      "used_missing_images": []
+    }
+  ]
+}

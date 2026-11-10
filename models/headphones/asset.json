@@ -1,0 +1,45 @@
+{
+  "id": "headphones",
+  "name": "Headphones",
+  "category": "Cameras & Optics / Electronics",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "cream_blue",
+  "native": "models/headphones/headphones.blend",
+  "native_sha256": "38c6603cc79c834bb9b904bebb2280ee1d9d93fd76d1e69aa737e973f664a572",
+  "source_native_sha256": "38c6603cc79c834bb9b904bebb2280ee1d9d93fd76d1e69aa737e973f664a572",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/headphones/previews/preview.jpg",
+      "sha256": "6f7c13dde6225d6d502866cb358eb081220b7fbfb56f2658b49c18b7c6ad6891"
+    },
+    "alternate": {
+      "path": "models/headphones/previews/alternate.jpg",
+      "sha256": "af6fb08c0cfd34701233c1aa49b69fb3d300fd59c207b726f3d50d3cc012e9e2"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pattern tile / dots",
+      "path": "models/headphones/textures/Pattern_tile___dots__0___dots.png",
+      "sha256": "134d05404e3f241b31a5d862ce5471b01cc988b6436d0b96ffbd8c68f4d4b7a7",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Warm cream glossy moulding / full rose dots / repeat mask",
+      "path": "models/headphones/textures/Warm_cream_glossy_moulding___full_rose_dots___repeat_mask__0___repeat_mask.png",
+      "sha256": "61c1d54d13ee320a8816f47a1959a6def2ce8057e9f2125ec8a807c5151c735f",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

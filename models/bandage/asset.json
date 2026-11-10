@@ -1,0 +1,37 @@
+{
+  "id": "bandage",
+  "name": "Adhesive bandage",
+  "category": "Health & Beauty",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/bandage/bandage.blend",
+  "native_sha256": "21c39ef9f5babc418a29b3125a6cf5c9561a98001808b3f2923a66899aa0c113",
+  "source_native_sha256": "21c39ef9f5babc418a29b3125a6cf5c9561a98001808b3f2923a66899aa0c113",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/bandage/previews/preview.jpg",
+      "sha256": "58c9d452e0e19584487c55b55f277eacd245a6ab2328eb982fa12dd21b29a6a4"
+    },
+    "alternate": {
+      "path": "models/bandage/previews/alternate.jpg",
+      "sha256": "15927f59089776235faf1beff6b420fc277330562264ae23dc48d7e63a9054b7"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pass 02 traced motif / bandage-split",
+      "path": "models/bandage/textures/Pass_02_traced_motif___bandage-split__0___bandage-split.png",
+      "sha256": "9a517a9af83c4862238f5490863f5cfd183cfe9c088bbeffa92bd38269420eac",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

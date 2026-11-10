@@ -1,0 +1,28 @@
+{
+  "id": "keychain",
+  "name": "Keychain",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple_deep_purple",
+  "native": "models/keychain/keychain.blend",
+  "native_sha256": "9c072aab6e644d5e0699a77632ab86a2c54ee4000ccf86de45ee8b3ec803e310",
+  "source_native_sha256": "9c072aab6e644d5e0699a77632ab86a2c54ee4000ccf86de45ee8b3ec803e310",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/keychain/previews/preview.jpg",
+      "sha256": "11bdd008af37a0a445ec92ab3df3113f7cfdc1c34407f7fab4293b65539b0af4"
+    },
+    "alternate": {
+      "path": "models/keychain/previews/alternate.jpg",
+      "sha256": "d5430c8a217a57d26bd96c7b32c3df09fb66148f6b7e559a542de4041f38749f"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

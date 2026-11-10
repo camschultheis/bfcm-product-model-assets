@@ -1,0 +1,28 @@
+{
+  "id": "nail-polish",
+  "name": "Nail Polish",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/nail-polish/nail-polish.blend",
+  "native_sha256": "6c3df2675b5dda4c45303afe0bd92a18f23bd1c2e96f5d64d32adbcb964effc4",
+  "source_native_sha256": "6c3df2675b5dda4c45303afe0bd92a18f23bd1c2e96f5d64d32adbcb964effc4",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/nail-polish/previews/preview.jpg",
+      "sha256": "d5cf0508840840d0973dbb86a0473fa3d3d01cddc6ce2b9ddb2c6d7598c2cd33"
+    },
+    "alternate": {
+      "path": "models/nail-polish/previews/alternate.jpg",
+      "sha256": "259e9e688695c47f37b3673c6a6d7bc45e5ed3da9e97a37178311a4f9a8cdd46"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "artisan-keycap",
+  "name": "Artisan Keycap",
+  "category": "Keyboard Keycap Sets",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/artisan-keycap/artisan-keycap.blend",
+  "native_sha256": "def97d5625ad7e04a6a3aaed9f5cff39a0e4937a900f93a0cbefb2a95685e128",
+  "source_native_sha256": "def97d5625ad7e04a6a3aaed9f5cff39a0e4937a900f93a0cbefb2a95685e128",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/artisan-keycap/previews/preview.jpg",
+      "sha256": "f7665407852d006206613ae0b44b2cfb1f6a28e7a350bd1c15814acf4a0d020e"
+    },
+    "alternate": {
+      "path": "models/artisan-keycap/previews/alternate.jpg",
+      "sha256": "89f08f99297383767c22468d9f3ed0261b5791b089e8ab5f2ef6181e70042ba8"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "BFCM-basecolor-atlas.png",
+      "path": "models/artisan-keycap/textures/BFCM-basecolor-atlas.png__0__BFCM-basecolor-atlas.png",
+      "sha256": "20fac167eccaf31257dce3c37faddaebdedf4bd2c73f6d93e71108d0a6ed8d3a",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "BFCM-basecolor-atlas.png.001",
+      "path": "models/artisan-keycap/textures/BFCM-basecolor-atlas.png.001__0__BFCM-basecolor-atlas.png",
+      "sha256": "3a644bdf57e30be853a346e8b612f1129f562c6cd3f30af233c3c3ff2613924f",
+      "packed": true,
+      "color_space": "sRGB"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cassette-player",
+  "name": "Cassette player",
+  "category": "Cameras & Optics / Electronics",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_blue",
+  "native": "models/cassette-player/cassette-player.blend",
+  "native_sha256": "4a4078f4186671bf054c63e2681e99910c961dd3618d92e0506413c4e30c2e0a",
+  "source_native_sha256": "4a4078f4186671bf054c63e2681e99910c961dd3618d92e0506413c4e30c2e0a",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cassette-player/previews/preview.jpg",
+      "sha256": "2b70bb9dc6a54fcac46553ae53e4c345bd825ce3abefbbe77a5a106c38894030"
+    },
+    "alternate": {
+      "path": "models/cassette-player/previews/alternate.jpg",
+      "sha256": "8a6d45b574e676fd6ff6c3a9587c29243fa0939ab95d2f085ac0ce5014ee7aa5"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "cassette-player_checker_BaseColor.png",
+      "path": "models/cassette-player/textures/cassette-player_checker_BaseColor.png__0__cassette-player_checker_BaseColor.png",
+      "sha256": "eb58a4719284e263c022bc9abb6504eacd4dd39ca844c727cbef78f8f2607b30",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "cassette-player_MoldedPlastic_Normal.png",
+      "path": "models/cassette-player/textures/cassette-player_MoldedPlastic_Normal.png__0__cassette-player_MoldedPlastic_Normal.png",
+      "sha256": "1eef662facf22e56f490b19291d7a9c7c613b9d4fec5fd0c8073935577a0d402",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

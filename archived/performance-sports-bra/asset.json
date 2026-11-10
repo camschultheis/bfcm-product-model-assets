@@ -1,0 +1,61 @@
+{
+  "id": "performance-sports-bra",
+  "name": "Structured sports bra",
+  "category": "Bras",
+  "collection_status": "archived",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "archived/performance-sports-bra/performance-sports-bra.blend",
+  "native_sha256": "f91907ff79324ed831cf4e5ae168b8d713c9016f2ca63aa47e516c1028bfcdfb",
+  "source_native_sha256": "f91907ff79324ed831cf4e5ae168b8d713c9016f2ca63aa47e516c1028bfcdfb",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "archived/performance-sports-bra/previews/preview.jpg",
+      "sha256": "1bde560109ddf0bcd8d99adecad07a093bc11268110d1efaae79bccbbb6d7423"
+    },
+    "alternate": {
+      "path": "archived/performance-sports-bra/previews/alternate.jpg",
+      "sha256": "9855b8844be63e397309a18c01e300f4b28b7e3434b5d3660dcc2b3c990411bd"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_90f6066c-263f-41d1-a454-c6fc45311a4c",
+      "path": "archived/performance-sports-bra/textures/Color_90f6066c-263f-41d1-a454-c6fc45311a4c__0__Color_90f6066c-263f-41d1-a454-c6fc45311a4c.png",
+      "sha256": "363c82efbc14d8186acf35ac6f415ee5a05b2a81f7dd12ab97fb8b370fcae75d",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_90f6066c-263f-41d1-a454-c6fc45311a4c",
+      "path": "archived/performance-sports-bra/textures/NormalGL_90f6066c-263f-41d1-a454-c6fc45311a4c__0__NormalGL_90f6066c-263f-41d1-a454-c6fc45311a4c.png",
+      "sha256": "e49a6a789174fe2e760f09d05444f9481f83357b410b659e191adcd6cc20d595",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_90f6066c-263f-41d1-a454-c6fc45311a4c",
+      "path": "archived/performance-sports-bra/textures/ORM_90f6066c-263f-41d1-a454-c6fc45311a4c__0__ORM_90f6066c-263f-41d1-a454-c6fc45311a4c.png",
+      "sha256": "bb354dbaffbc693386a91d3c9882b90f5d47b300b67c47980af31d69180c0c4b",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "performance-sports-bra | R03 clean paired semantic mask",
+      "path": "archived/performance-sports-bra/textures/performance-sports-bra___R03_clean_paired_semantic_mask__0__performance-sports-bra___R03_clean_paired_semantic_mask.png",
+      "sha256": "bb25a50e53645ff4513850a81c371380eedec7b8c5d8e09d5e8f22cd7d8f5369",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

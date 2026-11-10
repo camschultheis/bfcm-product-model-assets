@@ -1,0 +1,48 @@
+{
+  "id": "beanie",
+  "name": "Beanie",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/beanie/beanie.blend",
+  "native_sha256": "f9a59483684b03fcb7fbabd39668e12b0fd7a37988182fd47395fc5cab311b0a",
+  "source_native_sha256": "f9a59483684b03fcb7fbabd39668e12b0fd7a37988182fd47395fc5cab311b0a",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/beanie/previews/preview.jpg",
+      "sha256": "99a48eff2212363fdad30bb4b25eea5d887df73903eae3189ecac4feb9b33438"
+    },
+    "alternate": {
+      "path": "models/beanie/previews/alternate.jpg",
+      "sha256": "39ef35bd79159da1054235d790144c3b8faf27da47ebcf7aac1752756ffe06d4"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pass14 | cuff rib loop tile 16x24 (knit V + purl courses)",
+      "path": "models/beanie/textures/Pass14___cuff_rib_loop_tile_16x24__knit_V___purl_courses___0__pass14_cuff_rib_loop_tile_16x24.png",
+      "sha256": "0f6f165a9c6076a6d4678eb18dd0c4719b29eedc4827f8870991e52940c3ba68",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "Pass14 | knit stitch tile v2 16x24 (R height, G stitch tone)",
+      "path": "models/beanie/textures/Pass14___knit_stitch_tile_v2_16x24__R_height__G_stitch_tone___0__pass14_knit_stitch_tile_v2_16x24.png",
+      "sha256": "c54236b7bdc292704f51274ceb0cafba13d0a0c1dc9e47ffe603ed692104f59c",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": {
+    "path": "models/beanie/beanie.glb",
+    "sha256": "063ed3a495524856f0efd8fe241515d7fdf7a1f0f4e32d92d317897574793777"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

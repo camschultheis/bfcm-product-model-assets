@@ -1,0 +1,53 @@
+{
+  "id": "dog-treat",
+  "name": "Dog Treat",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/dog-treat/dog-treat.blend",
+  "native_sha256": "ebdccfacab7cd1e8ec60bcb6fe7feebdc6d4a43d26b2bd6ec904371418d4aebb",
+  "source_native_sha256": "ebdccfacab7cd1e8ec60bcb6fe7feebdc6d4a43d26b2bd6ec904371418d4aebb",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/dog-treat/previews/preview.jpg",
+      "sha256": "99bfbcd684e4842b226fd6e0232bc05c0034da0d0d70e00ff5b96edc7472a77a"
+    },
+    "alternate": {
+      "path": "models/dog-treat/previews/alternate.jpg",
+      "sha256": "e08ad3afedccbd4aba63c6699145cc99e26b90e93ea5d38778f257d5280b5ab4"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_6c025bf0-4f37-4810-812c-5f247020d96d",
+      "path": "models/dog-treat/textures/Color_6c025bf0-4f37-4810-812c-5f247020d96d__0__Color_6c025bf0-4f37-4810-812c-5f247020d96d.png",
+      "sha256": "bac1c781331b28c11074e40dd6dd7d2289a585a4c1cd994d5ccd47ab556e60dd",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_6c025bf0-4f37-4810-812c-5f247020d96d",
+      "path": "models/dog-treat/textures/NormalGL_6c025bf0-4f37-4810-812c-5f247020d96d__0__NormalGL_6c025bf0-4f37-4810-812c-5f247020d96d.png",
+      "sha256": "30d52949403cfedd668031f8fa48cd1236ce7bcb02451452ba9b373d0d474f69",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_6c025bf0-4f37-4810-812c-5f247020d96d",
+      "path": "models/dog-treat/textures/ORM_6c025bf0-4f37-4810-812c-5f247020d96d__0__ORM_6c025bf0-4f37-4810-812c-5f247020d96d.png",
+      "sha256": "fff9c3348b90353bea773ddd1575ef34e7c51a8e6638bc2fb2adbda13ee582b6",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

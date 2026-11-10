@@ -1,0 +1,28 @@
+{
+  "id": "music-cd-jewel-case",
+  "name": "Music CD in a jewel case",
+  "category": "Music CDs",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint-deepgreen",
+  "native": "models/music-cd-jewel-case/music-cd-jewel-case.blend",
+  "native_sha256": "4720cb1fe1ac1f14001db533f836d383857bf4f27d5c450a3cd8dbfa7fc62fd5",
+  "source_native_sha256": "4720cb1fe1ac1f14001db533f836d383857bf4f27d5c450a3cd8dbfa7fc62fd5",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/music-cd-jewel-case/previews/preview.jpg",
+      "sha256": "703b03d0d6282571f6b2e864ee65c4f4a1dea8e6c8a651429ed36c3cf61753fd"
+    },
+    "alternate": {
+      "path": "models/music-cd-jewel-case/previews/alternate.jpg",
+      "sha256": "d04187b874ededac451e2e1a5922a675995977bfc19ec9039604e98042574ddc"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

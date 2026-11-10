@@ -1,0 +1,53 @@
+{
+  "id": "mango",
+  "name": "Mango",
+  "category": "Mangoes",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/mango/mango.blend",
+  "native_sha256": "017f0699968d98c295e88e828ccc4712c371162b4496947edbb0c0e43e941df8",
+  "source_native_sha256": "017f0699968d98c295e88e828ccc4712c371162b4496947edbb0c0e43e941df8",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/mango/previews/preview.jpg",
+      "sha256": "7490cd6b8ed17f069b0cde37f79437394372cad21f6fff61dfd2197f3f96ce66"
+    },
+    "alternate": {
+      "path": "models/mango/previews/alternate.jpg",
+      "sha256": "aaab93ded3f2794781d0c8c6cecded30c37675823cfab0869678e05763ff9824"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "mango_body_basecolor",
+      "path": "models/mango/textures/mango_body_basecolor__0__mango_body_basecolor.png",
+      "sha256": "904573be6b617e28ee32bda4f9dc491dbfa46db51b8ef4ec1940b48dc1cf2862",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "mango_body_metallic-mango_body_roughness",
+      "path": "models/mango/textures/mango_body_metallic-mango_body_roughness__0__mango_body_metallic-mango_body_roughness.png",
+      "sha256": "bb97358bb0a899003680c4562bc67a44e69693095cdea6d22fa7d17c5c249d74",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "mango_body_normal",
+      "path": "models/mango/textures/mango_body_normal__0__mango_body_normal.png",
+      "sha256": "5004ced5c90044198483f8cf91285cc84172fac2ed2f69d52bc167a7058d9373",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

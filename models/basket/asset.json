@@ -1,0 +1,28 @@
+{
+  "id": "basket",
+  "name": "Basket",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/basket/basket.blend",
+  "native_sha256": "1e25e0af4a4481970745e8d68e66ca9b0abd12cfa5e714571af0cb5adb6c5e9d",
+  "source_native_sha256": "1e25e0af4a4481970745e8d68e66ca9b0abd12cfa5e714571af0cb5adb6c5e9d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/basket/previews/preview.jpg",
+      "sha256": "145c52107559e4304b4171ed3e7212ae18ffb95871d41f61da706a0c15b25cea"
+    },
+    "alternate": {
+      "path": "models/basket/previews/alternate.jpg",
+      "sha256": "5c1aad463d0bcfb6bef83e10c572121724064a161d0f5aecdbd8d4e13f4e3588"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

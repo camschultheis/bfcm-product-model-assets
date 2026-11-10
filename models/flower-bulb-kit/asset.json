@@ -1,0 +1,53 @@
+{
+  "id": "flower-bulb-kit",
+  "name": "Flower bulbs in a planting sleeve",
+  "category": "Plant & Flower Bulbs",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/flower-bulb-kit/flower-bulb-kit.blend",
+  "native_sha256": "d3b8fb806d35f667857bacc0cecd70654e580eb6cbef5023ba97f5cdccb257d0",
+  "source_native_sha256": "d3b8fb806d35f667857bacc0cecd70654e580eb6cbef5023ba97f5cdccb257d0",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/flower-bulb-kit/previews/preview.jpg",
+      "sha256": "841de111761815f3c90e6cc38f68ce8d19b01897e6ee737015b78f5a887c93eb"
+    },
+    "alternate": {
+      "path": "models/flower-bulb-kit/previews/alternate.jpg",
+      "sha256": "c4d3cc6933f6ab6d0226e4a036bad1e40a1406caf5ad580fce5077478c454cdc"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_eb8e5276-161f-47b2-b8bd-6b1b178057bc",
+      "path": "models/flower-bulb-kit/textures/Color_eb8e5276-161f-47b2-b8bd-6b1b178057bc__0__Color_eb8e5276-161f-47b2-b8bd-6b1b178057bc.png",
+      "sha256": "87c4204443a3e45cd3c3ceb5cdc9c2baeda49af79e7537bb640b0fff4dc7c14e",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_eb8e5276-161f-47b2-b8bd-6b1b178057bc",
+      "path": "models/flower-bulb-kit/textures/NormalGL_eb8e5276-161f-47b2-b8bd-6b1b178057bc__0__NormalGL_eb8e5276-161f-47b2-b8bd-6b1b178057bc.png",
+      "sha256": "df784d2e4e5e9685b29f448c2bbc39dd6f8dd9eda450f8e60c16a11336a60092",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_eb8e5276-161f-47b2-b8bd-6b1b178057bc",
+      "path": "models/flower-bulb-kit/textures/ORM_eb8e5276-161f-47b2-b8bd-6b1b178057bc__0__ORM_eb8e5276-161f-47b2-b8bd-6b1b178057bc.png",
+      "sha256": "ab5a6fb983de0587c46eaabcbe69eb19724ebc937f4938d4bc9b4eada59b6e79",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

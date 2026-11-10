@@ -1,0 +1,28 @@
+{
+  "id": "t-shirt",
+  "name": "T-shirt, folded",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_blue",
+  "native": "models/t-shirt/t-shirt.blend",
+  "native_sha256": "52dc975ada1c24436c328eadfaa60a7d280b4959b4ad5ee55221a312ff3362f3",
+  "source_native_sha256": "52dc975ada1c24436c328eadfaa60a7d280b4959b4ad5ee55221a312ff3362f3",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/t-shirt/previews/preview.jpg",
+      "sha256": "e258dc58194db751b0075d158a26326a0a9712b8aecb011572a6a18815cae69c"
+    },
+    "alternate": {
+      "path": "models/t-shirt/previews/alternate.jpg",
+      "sha256": "5d2bf574df7a67f04e46d8f41265a57f512eea5e5f4643374dc0e57e7811a617"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

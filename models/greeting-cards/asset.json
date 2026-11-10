@@ -1,0 +1,28 @@
+{
+  "id": "greeting-cards",
+  "name": "Greeting Cards",
+  "category": "Greeting Cards",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/greeting-cards/greeting-cards.blend",
+  "native_sha256": "92073f3dd0cf0f080ef0d366eafbfdfc759e34256d1ac0356b761b7212e94676",
+  "source_native_sha256": "92073f3dd0cf0f080ef0d366eafbfdfc759e34256d1ac0356b761b7212e94676",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/greeting-cards/previews/preview.jpg",
+      "sha256": "e3109a4d60a0a15dde85ac2177211071446169fd66f93c82ab1cb5f8c3d2d9f9"
+    },
+    "alternate": {
+      "path": "models/greeting-cards/previews/alternate.jpg",
+      "sha256": "d318e9f6fbe44a52d78e0e81f447fb6d5c1c9563f12bc6e646aa996f6a08edea"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

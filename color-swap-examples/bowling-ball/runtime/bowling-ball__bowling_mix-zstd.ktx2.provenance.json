@@ -1,0 +1,92 @@
+{
+  "schema": "bfcm-lossless-ktx2-zstd/v1",
+  "input": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/bowling-ball-tangents05-package01/artifacts/bowling-ball__bowling_mix.ktx2",
+    "sha256": "fa306efc7cd7a19761dab04df63a28af1760a172a3260a4c45af77424d7cc622",
+    "bytes": 22370084
+  },
+  "output": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/color-swap-pilot/generations/bowling-ball-tangents05-lossless/bowling-ball__bowling_mix-zstd.ktx2",
+    "sha256": "7f4f429ebcecbcf23126332b3c3dad0fa3ec47eed5d318c8ca62506e1316e240",
+    "bytes": 1957561
+  },
+  "preserved_authored_mips": true,
+  "regenerated_mips": false,
+  "lossless": true,
+  "mip_count": 12,
+  "ratio": 0.08750798611216659,
+  "levels": [
+    {
+      "level": 0,
+      "raw_bytes": 16777216,
+      "compressed_bytes": 1378599,
+      "decoded_sha256": "f7773c0850a7c5e61e45fbec763e9eebd856b7cdc2555420b5ee3a880acc49be"
+    },
+    {
+      "level": 1,
+      "raw_bytes": 4194304,
+      "compressed_bytes": 410394,
+      "decoded_sha256": "30d6b1e7cfcc9320cdeccb2eafd3576f6fe40fdca5a971b7cc1be7ffa53ec61c"
+    },
+    {
+      "level": 2,
+      "raw_bytes": 1048576,
+      "compressed_bytes": 120085,
+      "decoded_sha256": "b12b8be18e41cc5abf644f92b924a9a9756ce617c4a2781a98423d519e1e0e78"
+    },
+    {
+      "level": 3,
+      "raw_bytes": 262144,
+      "compressed_bytes": 33715,
+      "decoded_sha256": "1c1ec2ee4a6c458f42148be1162aed62fe06f2338a343aaa639180558251b653"
+    },
+    {
+      "level": 4,
+      "raw_bytes": 65536,
+      "compressed_bytes": 9919,
+      "decoded_sha256": "183179e443d7f97cb587a72edad33e6725ebdcbef7d5a9b370fd364c03f12ef5"
+    },
+    {
+      "level": 5,
+      "raw_bytes": 16384,
+      "compressed_bytes": 3001,
+      "decoded_sha256": "b12671f9d71d3fb986fdafa72797bf355cbaac6fc83889d2c865c484355ed70d"
+    },
+    {
+      "level": 6,
+      "raw_bytes": 4096,
+      "compressed_bytes": 858,
+      "decoded_sha256": "90952d4b61e5bf032a6dbee9d44cb51b31d4a8040719141c874495b2367d89a0"
+    },
+    {
+      "level": 7,
+      "raw_bytes": 1024,
+      "compressed_bytes": 282,
+      "decoded_sha256": "b8b2ff1462d5c22da8000729261ea6573873b47f245abd1dc164592fa3d68867"
+    },
+    {
+      "level": 8,
+      "raw_bytes": 256,
+      "compressed_bytes": 126,
+      "decoded_sha256": "47a54eb6368eba354682826c539734524d212a9526fdc05d10193a3415aa888b"
+    },
+    {
+      "level": 9,
+      "raw_bytes": 64,
+      "compressed_bytes": 52,
+      "decoded_sha256": "ad9332fa5016b228d9565b4c2edcafa286e914d9dc2d48ac3857db80724f5e46"
+    },
+    {
+      "level": 10,
+      "raw_bytes": 16,
+      "compressed_bytes": 25,
+      "decoded_sha256": "14e32cb8a3c1bd70897c69816c20a66817ef637d1414b1cb172bd8b263ed11e1"
+    },
+    {
+      "level": 11,
+      "raw_bytes": 4,
+      "compressed_bytes": 13,
+      "decoded_sha256": "783865cb5e0bace0859f1b56e35a4d2e154f3bf150d3d010025072a74a9f9652"
+    }
+  ]
+}

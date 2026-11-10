@@ -1,0 +1,28 @@
+{
+  "id": "bobblehead-figure",
+  "name": "Bobblehead Figure",
+  "category": "Bobblehead Figures",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": null,
+  "native": "models/bobblehead-figure/bobblehead-figure.blend",
+  "native_sha256": "a4d519821612b3807b9614237eb0ccf2e54abde3cf366b033f55deabcbf90255",
+  "source_native_sha256": "a4d519821612b3807b9614237eb0ccf2e54abde3cf366b033f55deabcbf90255",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/bobblehead-figure/previews/preview.jpg",
+      "sha256": "9ac307542b0decd8b3a86733f5a597cda4a9f230ef6b4da1d1a23747ae9e3772"
+    },
+    "alternate": {
+      "path": "models/bobblehead-figure/previews/alternate.jpg",
+      "sha256": "e313db7c2f560762fd59acc82e58ad6d0d2898734f4c49daada355c17b017bdf"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

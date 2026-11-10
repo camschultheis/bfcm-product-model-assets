@@ -1,0 +1,28 @@
+{
+  "id": "eye-drops",
+  "name": "Eye drop bottle",
+  "category": "Health & Beauty",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_green",
+  "native": "models/eye-drops/eye-drops.blend",
+  "native_sha256": "ec7423bdd8c0caadd45db231e92977f47c98b7cf3f2df8e189d68fd4e0b1036e",
+  "source_native_sha256": "ec7423bdd8c0caadd45db231e92977f47c98b7cf3f2df8e189d68fd4e0b1036e",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/eye-drops/previews/preview.jpg",
+      "sha256": "7a6db4d1b1c10408e413ab3f5a0d000e1666d93eba8fc7fcf6260a563d9c0e8b"
+    },
+    "alternate": {
+      "path": "models/eye-drops/previews/alternate.jpg",
+      "sha256": "288eb692c8e582e0d5971652fc7ea28eb18ccbf7e0e5e6a8de08c798fe5573a1"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

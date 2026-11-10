@@ -1,0 +1,28 @@
+{
+  "id": "open-book",
+  "name": "Open Book",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/open-book/open-book.blend",
+  "native_sha256": "42fde2126e41e2909b19b0507a8b81365e45cf67261dc80ce8ed7e2779e7c61b",
+  "source_native_sha256": "42fde2126e41e2909b19b0507a8b81365e45cf67261dc80ce8ed7e2779e7c61b",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/open-book/previews/preview.jpg",
+      "sha256": "d3d9bc6954084d3440954026facd0d3b942a4af0dc55fd0241dfc3fee074dbfe"
+    },
+    "alternate": {
+      "path": "models/open-book/previews/alternate.jpg",
+      "sha256": "4d53058933795986c5ac3f75c97c00c4cc822d29f7e4c20e35f76d65416460be"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

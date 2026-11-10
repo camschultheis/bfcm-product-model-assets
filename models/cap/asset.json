@@ -1,0 +1,37 @@
+{
+  "id": "cap",
+  "name": "Baseball cap",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_blue",
+  "native": "models/cap/cap.blend",
+  "native_sha256": "4425828ee7f1d9f14f6009d9ba6e0c671d17b005c2c66e287c5ca478fdc77525",
+  "source_native_sha256": "4425828ee7f1d9f14f6009d9ba6e0c671d17b005c2c66e287c5ca478fdc77525",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/cap/previews/preview.jpg",
+      "sha256": "c4297d1d8a80c19f29212f03d6307fdf020e1a6db982c07ce9f7a75e8dbda826"
+    },
+    "alternate": {
+      "path": "models/cap/previews/alternate.jpg",
+      "sha256": "39090cc5755c3bbceaffba52b19e5eb89f60a86d9bd336143c74756c16c47cd1"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Cap visor / recovered two-color cloth",
+      "path": "models/cap/textures/Cap_visor___recovered_two-color_cloth__0___recovered_two-color_cloth.png",
+      "sha256": "afe6fa227ca779876b7d309fce8f10e58373ce7a773d85aac5f80d4b6bdc2369",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

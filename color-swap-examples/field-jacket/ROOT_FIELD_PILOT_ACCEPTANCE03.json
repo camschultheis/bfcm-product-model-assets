@@ -1,0 +1,40 @@
+{
+  "schema": "bfcm-root-pilot-product-acceptance/v1",
+  "product": "field-jacket",
+  "generation": "field-jacket-sheen03-lossless",
+  "state": "accepted-pilot-product",
+  "recorded_at": "2026-11-09T15:50:36.642443+00:00",
+  "source_native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+  "native_stock_and_mint_reversal_viewed": true,
+  "default_stock_framebuffer_identity": true,
+  "palette_states": 10,
+  "uniforms_and_resources_stable": true,
+  "physical_materials_immutable": true,
+  "lossless_delivery_mips_verified": true,
+  "validator": {
+    "report": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/gltf-validation/field-jacket-757222c38e76.json",
+    "errors": 0,
+    "warnings": 0,
+    "infos": 0
+  },
+  "standard_material_correction": {
+    "report": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/field-jacket-sheen03/artifacts/standard_sheen_override.json",
+    "sha256": "b7a42c769160eff8dbbb1a5fe49f2b6e2d4b401ccebad4991b773a90a9ebc720",
+    "field": "KHR_materials_sheen.sheenColorFactor",
+    "reason": "Blender exporter gated on native Sheen Weight but omitted multiplication. Both verified native weights0.10000000149011612, unlinked white tint; standard factor now tint times weight.",
+    "bin_and_undeclared_json_exact": true
+  },
+  "runtime_qa": {
+    "report": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/field-sheen03-runtime-qa/report.json",
+    "sha256": "adf679e34b82b8a99231c937b37ba0d9863594fb6584912d29a43bfed92ff5df"
+  },
+  "comparison_board_viewed": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/field-sheen03-runtime-qa/comparison-board.jpg",
+  "finding": "Corrected sheen retains richer orange/dark green blocking, cloth folds, stitching and checker in default, variants and rear. Silver snaps remain fixed.",
+  "delivery_bytes": 35694494,
+  "qualification": [
+    "Native4K normal/roughness retained; package optimization deferred until pilot fidelity acceptance.",
+    "Native and browser lighting differ.",
+    "Rotated and rear stills assessed; continuous turntable playback not yet assessed.",
+    "Chrome on this Mac with mobile viewport checks, no physical mobile device measurement."
+  ]
+}

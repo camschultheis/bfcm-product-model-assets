@@ -1,0 +1,28 @@
+{
+  "id": "under-desk-treadmill",
+  "name": "Under-Desk Treadmill",
+  "category": "Under-Desk Treadmills",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/under-desk-treadmill/under-desk-treadmill.blend",
+  "native_sha256": "6b201ccf3c99bd7e70a70495be314da6dd38a064075ef4b00afea6323496c932",
+  "source_native_sha256": "6b201ccf3c99bd7e70a70495be314da6dd38a064075ef4b00afea6323496c932",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/under-desk-treadmill/previews/preview.jpg",
+      "sha256": "b8ddc7e568ea677449dcd381c49e462c388a3119cb4bc72965cb11e91cb84130"
+    },
+    "alternate": {
+      "path": "models/under-desk-treadmill/previews/alternate.jpg",
+      "sha256": "ab16ecb05de79de30f01c64af79c04288581b51f9885622bcb2f653bc2c88f50"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

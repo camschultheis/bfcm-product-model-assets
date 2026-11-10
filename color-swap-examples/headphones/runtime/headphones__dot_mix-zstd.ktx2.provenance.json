@@ -1,0 +1,92 @@
+{
+  "schema": "bfcm-lossless-ktx2-zstd/v1",
+  "input": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/headphones-slice02/artifacts/headphones__dot_mix.ktx2",
+    "sha256": "2ae2e587441947aa2fdb84d960ba9a59de64e37236f95c31f42eb14dfa6cfa99",
+    "bytes": 22370084
+  },
+  "output": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/color-swap-pilot/generations/headphones-slice02-lossless/headphones__dot_mix-zstd.ktx2",
+    "sha256": "3a8b6f533ad186732898dbb2f6358fad2e0cf1f37d9f3e73e5814ed06f228405",
+    "bytes": 57225
+  },
+  "preserved_authored_mips": true,
+  "regenerated_mips": false,
+  "lossless": true,
+  "mip_count": 12,
+  "ratio": 0.0025581039391716185,
+  "levels": [
+    {
+      "level": 0,
+      "raw_bytes": 16777216,
+      "compressed_bytes": 33399,
+      "decoded_sha256": "9e04fc8c13132a60834f28e3d51c4fe0d4edbd931973eb20b239b390283311a0"
+    },
+    {
+      "level": 1,
+      "raw_bytes": 4194304,
+      "compressed_bytes": 13259,
+      "decoded_sha256": "b43579c734c86cb5581f3e10370d81140db48bbdd0c53c33a1cbcd45dde04af5"
+    },
+    {
+      "level": 2,
+      "raw_bytes": 1048576,
+      "compressed_bytes": 5786,
+      "decoded_sha256": "60153c32f9a3c94f7ec21037c79844faca7fdd40f1f26f2d39209db24a4e420e"
+    },
+    {
+      "level": 3,
+      "raw_bytes": 262144,
+      "compressed_bytes": 2553,
+      "decoded_sha256": "7f86b366f2b008dd1447ec1fd47c53092ec955d8f179bb0864e722dfae54a29f"
+    },
+    {
+      "level": 4,
+      "raw_bytes": 65536,
+      "compressed_bytes": 1063,
+      "decoded_sha256": "3f10b6603e834bdc2e0a0dc524eadc84ae98759f18a67dd9abaa2de0efd6949f"
+    },
+    {
+      "level": 5,
+      "raw_bytes": 16384,
+      "compressed_bytes": 349,
+      "decoded_sha256": "0e895f052c387a60818352cd4d08f97e5a800fabb569bba8f4abd6293fe5c2de"
+    },
+    {
+      "level": 6,
+      "raw_bytes": 4096,
+      "compressed_bytes": 150,
+      "decoded_sha256": "404ef0fe986df2ddf5992eef2fd3fde52d9486cf5d8bdec3ac6b54d7b3b84e90"
+    },
+    {
+      "level": 7,
+      "raw_bytes": 1024,
+      "compressed_bytes": 81,
+      "decoded_sha256": "aa3e9b75b3f81ce8591f033ba680c62ca2a116948d32e08b9593eb18ca5eb1db"
+    },
+    {
+      "level": 8,
+      "raw_bytes": 256,
+      "compressed_bytes": 41,
+      "decoded_sha256": "739ca662d49ddf5d8e7fcc4b945849d41ae4889e5c7607c5667a230a48aae9e4"
+    },
+    {
+      "level": 9,
+      "raw_bytes": 64,
+      "compressed_bytes": 19,
+      "decoded_sha256": "f7e59f1afa0c63696283641a61063efad03776307b1aca6748671bcb9865fdac"
+    },
+    {
+      "level": 10,
+      "raw_bytes": 16,
+      "compressed_bytes": 20,
+      "decoded_sha256": "d3bb7d1082e624df93f5b9ed6c7890d7d90b4a0bea42e3f91c05f6993e7aad0a"
+    },
+    {
+      "level": 11,
+      "raw_bytes": 4,
+      "compressed_bytes": 13,
+      "decoded_sha256": "84f4470b0e4168bc437ded7bb75b74a6af058de97a423b0dd066993376c7fce0"
+    }
+  ]
+}

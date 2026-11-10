@@ -1,0 +1,28 @@
+{
+  "id": "makeup-brush",
+  "name": "Makeup Brush",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_deep_green",
+  "native": "models/makeup-brush/makeup-brush.blend",
+  "native_sha256": "239a3699487a39ec58dfbf48e77b13f6aa00db20d6dbb7e43ce4aa3feabe55b8",
+  "source_native_sha256": "239a3699487a39ec58dfbf48e77b13f6aa00db20d6dbb7e43ce4aa3feabe55b8",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/makeup-brush/previews/preview.jpg",
+      "sha256": "1c5f2c73acd157a293f2a60bdc39dd98bbd84bf8c03b312527306596aba11a48"
+    },
+    "alternate": {
+      "path": "models/makeup-brush/previews/alternate.jpg",
+      "sha256": "61573c21ad336866e64f2dafd9afe66eee5cb76aa01c5482bf9553a4bd72b65b"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

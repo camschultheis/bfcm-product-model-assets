@@ -1,0 +1,28 @@
+{
+  "product": "headphones",
+  "generation": "headphones-slice02-lossless",
+  "source_native": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/groups/originals-soft-accents/work/headphones/jobs/build-r01-c/headphones__p19-r01c.blend",
+  "source_sha256": "e63b19f8d0438ca34bd8b91c39267606cf1459e0dec5200293e7d14540dcd71c",
+  "native_delta": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/headphones-slice02/artifacts/native_delta.blend",
+    "sha256": "68c9a0a5f326fd324d74666b62aefcd1772b7614ffec4a8911eb4798c46ab2f2",
+    "palette_state_saved": "source-default"
+  },
+  "stock_glb": {
+    "url": "headphones__stock.glb",
+    "sha256": "e3d1d2988c28ef3b289a9ec957324673cd7bb34efdbda63dc42d6b21c8dfe403",
+    "bytes": 4396560
+  },
+  "pigment_maps": {
+    "dot_mix": {
+      "authored_sha256": "2ae2e587441947aa2fdb84d960ba9a59de64e37236f95c31f42eb14dfa6cfa99",
+      "authored_bytes": 22370084,
+      "delivery_sha256": "3a8b6f533ad186732898dbb2f6358fad2e0cf1f37d9f3e73e5814ed06f228405",
+      "delivery_bytes": 57225,
+      "preserved_mips": 12
+    }
+  },
+  "artifact_root": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/headphones-slice02/artifacts",
+  "state": "accepted-pilot-product",
+  "root_acceptance": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_HEADPHONES_PILOT_ACCEPTANCE03.json"
+}

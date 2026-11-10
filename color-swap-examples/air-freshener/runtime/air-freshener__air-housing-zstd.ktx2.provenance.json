@@ -1,0 +1,92 @@
+{
+  "schema": "bfcm-lossless-ktx2-zstd/v1",
+  "input": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/air-freshener-tangents03c-package01/artifacts/air-freshener__air-housing.ktx2",
+    "sha256": "c13b9d2e58f3c3e88b6ae13f2a3638186be5f3a36ab7e4a65ada08ad4d861ca8",
+    "bytes": 22370084
+  },
+  "output": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/color-swap-pilot/generations/air-freshener-tangents03c-lossless/air-freshener__air-housing-zstd.ktx2",
+    "sha256": "bf8d7fd35995d9bf7b83b1766f00f256b00ad9952c7418900bc93e09aa078d72",
+    "bytes": 32113
+  },
+  "preserved_authored_mips": true,
+  "regenerated_mips": false,
+  "lossless": true,
+  "mip_count": 12,
+  "ratio": 0.0014355332773895709,
+  "levels": [
+    {
+      "level": 0,
+      "raw_bytes": 16777216,
+      "compressed_bytes": 16426,
+      "decoded_sha256": "0f912542e18660684fc01cfdf09f40628b8a698fd47d054a569872fec85491e3"
+    },
+    {
+      "level": 1,
+      "raw_bytes": 4194304,
+      "compressed_bytes": 7598,
+      "decoded_sha256": "b140a1ec7b833c32dbe5a7de2a69853e753144fdce59e4fef1a61312fde3b134"
+    },
+    {
+      "level": 2,
+      "raw_bytes": 1048576,
+      "compressed_bytes": 3576,
+      "decoded_sha256": "0a71883c8a382fb70a8de49acab058482db79af27f569ff60e90c93b57e70a4a"
+    },
+    {
+      "level": 3,
+      "raw_bytes": 262144,
+      "compressed_bytes": 1914,
+      "decoded_sha256": "0e4fcc4cbb74959d855fb248933e944712cc6901da24683a3b46abaedc080a15"
+    },
+    {
+      "level": 4,
+      "raw_bytes": 65536,
+      "compressed_bytes": 974,
+      "decoded_sha256": "fa42f29410c1dd3d9090e918f05ab78e2dcbb6a7408f6dc3e5fe21fb72556688"
+    },
+    {
+      "level": 5,
+      "raw_bytes": 16384,
+      "compressed_bytes": 511,
+      "decoded_sha256": "9ce6c805235bd97d7191c828468dbfa1c70d42569cbf30dfe79642d4961a49d5"
+    },
+    {
+      "level": 6,
+      "raw_bytes": 4096,
+      "compressed_bytes": 285,
+      "decoded_sha256": "2d8bed2b8fd90417e1ee6fb3a3cca60a45fa38edd2882b95600fa0c29a2ca0c6"
+    },
+    {
+      "level": 7,
+      "raw_bytes": 1024,
+      "compressed_bytes": 148,
+      "decoded_sha256": "6098a85abc04ec96cf8e08c415814ce0876f3258840b74ce8166da97de0dcf80"
+    },
+    {
+      "level": 8,
+      "raw_bytes": 256,
+      "compressed_bytes": 98,
+      "decoded_sha256": "e63f4f14cf8d279883c6c0629d244d8750236437f674a8fbd1211cd2b2c6d784"
+    },
+    {
+      "level": 9,
+      "raw_bytes": 64,
+      "compressed_bytes": 53,
+      "decoded_sha256": "268f44b62ff8d59bab72af7f315db8aeec3de580130811dc7fe95e3e0209bd21"
+    },
+    {
+      "level": 10,
+      "raw_bytes": 16,
+      "compressed_bytes": 25,
+      "decoded_sha256": "5be458cca7521cdfb8af29ced6e96ee9f7f16fe2ce3881225b6680aa476532af"
+    },
+    {
+      "level": 11,
+      "raw_bytes": 4,
+      "compressed_bytes": 13,
+      "decoded_sha256": "73d9431705af08a0b5a73ee4c28dac6aefe5dee4545dfd36fd9dfa62a0623ef6"
+    }
+  ]
+}

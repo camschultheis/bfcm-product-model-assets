@@ -1,0 +1,28 @@
+{
+  "id": "candy",
+  "name": "Candy",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/candy/candy.blend",
+  "native_sha256": "e08c1b8e2fb59ae4cf3679a43a8dea81f60b75c325616e7836b8389d78a10e02",
+  "source_native_sha256": "e08c1b8e2fb59ae4cf3679a43a8dea81f60b75c325616e7836b8389d78a10e02",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/candy/previews/preview.jpg",
+      "sha256": "fea7bf1101d59524a263ec80a181528adc47150157b6c665ca3b7727609c7165"
+    },
+    "alternate": {
+      "path": "models/candy/previews/alternate.jpg",
+      "sha256": "b46cdbe4c7f008e9425c3b132a79cdae22debffac93e02533d292747232e1123"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

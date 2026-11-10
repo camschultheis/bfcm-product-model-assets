@@ -1,0 +1,198 @@
+{
+  "schema": "bfcm-pigment-manifest/v4",
+  "product_id": "bowling-ball",
+  "model_id": "bowling-ball:derivative-v2:248a6d514e6d",
+  "source_native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+  "default_pair": "cream_blue",
+  "stock_base_color": "default-palette",
+  "glb": {
+    "url": "bowling-ball__stock.tangent_repair05.glb",
+    "sha256": "3d3580e7968546628acefcd1eb06de3034d8d62674e44b4b1e80af23dde57826",
+    "bytes": 17388220
+  },
+  "native_hero": {
+    "url": "../native-preview.jpg",
+    "sha256": "700e75f044a19d01ff965018adfb86c953ce00b230648be0800ee6c2d2b88e95"
+  },
+  "package_metrics": {
+    "glb_bytes": 17388220,
+    "pigment_bytes": 1957561,
+    "total_bytes": 19345781
+  },
+  "pigment_maps": {
+    "bowling_mix": {
+      "url": "bowling-ball__bowling_mix-zstd.ktx2",
+      "sha256": "7f4f429ebcecbcf23126332b3c3dad0fa3ec47eed5d318c8ca62506e1316e240",
+      "format": "ktx2",
+      "width": 2048,
+      "height": 2048,
+      "mip_count": 12,
+      "wrap": "clamp"
+    }
+  },
+  "materials": [
+    {
+      "material_id": "bowling-ball.shell-pearl-veins",
+      "gltf_material_index": 0,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "map": "bowling_mix",
+        "texCoord": 3,
+        "uv_matrix": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "tone_scale": 1.0,
+        "tone_bias": 1.0,
+        "channel_constants": {
+          "coverage": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "bowling-ball.core-resin-cream",
+      "gltf_material_index": 1,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 0.0,
+          "tone": 1.0
+        }
+      }
+    }
+  ],
+  "camera": {
+    "status": "measured",
+    "coordinates": "glTF Y-up (Blender [x,y,z] -> [x,z,-y])",
+    "position": [
+      -22.29181480407715,
+      25.481428146362305,
+      50.0682373046875
+    ],
+    "target": [
+      0.002537642690786157,
+      1.0772394353446906,
+      -0.005677810740309042
+    ],
+    "target_source": "evaluated product bbox centre projected onto forward line",
+    "up": [
+      0.16543468832969666,
+      0.913545548915863,
+      -0.37157225608825684
+    ],
+    "projection": "orthographic",
+    "orthographic_scale": 2.764796257019043,
+    "orthographic_scale_definition": "Blender ortho_scale = full extent of the larger image dimension",
+    "xmag": 1.3823981285095215,
+    "ymag": 1.3823981285095215,
+    "near": 0.10000000149011612,
+    "far": 500.0,
+    "native_source_pose": {
+      "position": [
+        -22.29181480407715,
+        -50.0682373046875,
+        25.481428146362305
+      ],
+      "forward": [
+        0.3715725541114807,
+        0.834565281867981,
+        -0.40673649311065674
+      ],
+      "up": [
+        0.16543468832969666,
+        0.37157225608825684,
+        0.913545548915863
+      ],
+      "type": "ORTHO",
+      "ortho_scale": 2.764796257019043,
+      "angle": 0.691111147403717,
+      "sensor_fit": "AUTO",
+      "clip": [
+        0.10000000149011612,
+        500.0
+      ],
+      "track_target": null,
+      "resolution": [
+        700,
+        700
+      ],
+      "pixel_aspect": [
+        1.0,
+        1.0
+      ],
+      "unit_scale_length": 0.10000000149011612
+    },
+    "glb_readback": {
+      "node": 0,
+      "position": [
+        -22.29181480407715,
+        25.481428146362305,
+        50.0682373046875
+      ],
+      "forward": [
+        0.37157255824959484,
+        -0.40673649853659194,
+        -0.8345653088369084
+      ],
+      "up": [
+        0.16543468400570996,
+        0.9135455219955887,
+        -0.3715722602263764
+      ],
+      "camera": {
+        "name": "Studio | hero camera",
+        "orthographic": {
+          "xmag": 1.3823981285095215,
+          "ymag": 1.3823981285095215,
+          "zfar": 500,
+          "znear": 0.10000000149011612
+        },
+        "type": "orthographic"
+      },
+      "max_abs_delta": {
+        "position": 0.0,
+        "forward": 2.6968927424597666e-08,
+        "up": 2.6920274343034123e-08
+      }
+    }
+  },
+  "status": "ready",
+  "bfcm_candidate": {
+    "review": "root actual runtime review pending",
+    "compression": "lossless Zstd for authored pigment mips; stock GLB unchanged"
+  },
+  "export_normal_qualification": "INT16 custom normals on export copy; old/new GLB maximum0.03296073756degrees,226411of227688corners bit exact. Exact oriented triangles, positions and all four UVs preserved."
+}

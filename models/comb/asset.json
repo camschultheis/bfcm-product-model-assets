@@ -1,0 +1,28 @@
+{
+  "id": "comb",
+  "name": "Comb",
+  "category": "Health & Beauty",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/comb/comb.blend",
+  "native_sha256": "a86621e64c9ee163c7e69a539dde36b1911c6eb19bf2bbb2ea0b226721ca52fb",
+  "source_native_sha256": "a86621e64c9ee163c7e69a539dde36b1911c6eb19bf2bbb2ea0b226721ca52fb",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/comb/previews/preview.jpg",
+      "sha256": "2a8046eea682aafe3adc0f28a2e9afba6354d2611c7ced3c0f8a0e5e61ebad3f"
+    },
+    "alternate": {
+      "path": "models/comb/previews/alternate.jpg",
+      "sha256": "22b9a913b216d70bf2013828dc970aa43fd29f3f8932cae9584adce090d0cc61"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

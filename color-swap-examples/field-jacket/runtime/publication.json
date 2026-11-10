@@ -1,0 +1,29 @@
+{
+  "product": "field-jacket",
+  "generation": "field-jacket-sheen03-lossless",
+  "source_native": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_17_New_Live_Products/coordination/soft/hoodie-jacket/jobs/round04/field-jacket__attempt01/stage/Models/field-jacket/field-jacket.blend",
+  "source_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+  "native_delta": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/field-jacket-full02/artifacts/native_delta.blend",
+    "sha256": "e49ad3fd32ae7eb977204c2187fa5af7bb8cfc550441e5e189a199e3b5269efc",
+    "palette_state_saved": "source-default",
+    "samples_saved": 96
+  },
+  "stock_glb": {
+    "url": "field-jacket__stock.glb",
+    "sha256": "757222c38e76a7071234a8fe0b583c3f9907bb767324fe24adb65dcfdd2b57d7",
+    "bytes": 35263036
+  },
+  "pigment_maps": {
+    "field_mix": {
+      "authored_sha256": "4be5546423f5b99df9d5b575df4d724e9bf923e9b3043fb5b6217e0102b3afb7",
+      "authored_bytes": 22370084,
+      "delivery_sha256": "0b36d43784001c9849150495e1227e8e644c430f8d696075878da9b3a18f76e3",
+      "delivery_bytes": 431458,
+      "preserved_mips": 12
+    }
+  },
+  "artifact_root": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/field-jacket-sheen03/artifacts",
+  "state": "accepted-pilot-product",
+  "root_acceptance_record": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_FIELD_PILOT_ACCEPTANCE03.json"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "planter",
+  "name": "Planter",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/planter/planter.blend",
+  "native_sha256": "22d72564c89b8a822067fb27ed1c36932a44446924add26c614bb843e367f226",
+  "source_native_sha256": "22d72564c89b8a822067fb27ed1c36932a44446924add26c614bb843e367f226",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/planter/previews/preview.jpg",
+      "sha256": "8d69f2cc728c77cb007b944ef71420760bb1efb0eafeda502edabc82e7be3542"
+    },
+    "alternate": {
+      "path": "models/planter/previews/alternate.jpg",
+      "sha256": "53771dee5aa07c32998592ddfaf6c6ff5fe4f85f9617a28a90a17f07598b87e5"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

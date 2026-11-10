@@ -1,0 +1,36 @@
+{
+  "product": "apple-cider-bottle",
+  "generation": "apple-cider-bottle-cork02-layered03-lossless",
+  "source_native": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/groups/replacements/Models/apple-cider-bottle/v03/apple-cider-bottle.blend",
+  "source_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+  "native_delta": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/apple-cider-bottle-food-full01/artifacts/native_delta.blend",
+    "sha256": "b46c097e910ae029f703b4048b8f70ad4cf2255855216e47ee054c44835e73ad",
+    "palette_state_saved": "source-default",
+    "samples_saved": 96
+  },
+  "stock_glb": {
+    "url": "apple-cider-bottle__stock.cork_repair01.glb",
+    "sha256": "11d75d3de471af805298c0aba3e8f930370ffb17152eb0679fea4751e7ed4a0e",
+    "bytes": 5726160
+  },
+  "pigment_maps": {
+    "cider_orchard_band_mix": {
+      "authored_sha256": "72e9e459a6fbcf7721658cd9f1e015f62aa96ab472e6fb8e14dc3fe9af72a0ec",
+      "authored_bytes": 22370084,
+      "delivery_sha256": "4d46edfbe12c8a9202016c2a668b25d2dd29f95b8120b01f3277b80758561845",
+      "delivery_bytes": 17509,
+      "preserved_mips": 12
+    },
+    "cider_neck_seal_mix": {
+      "authored_sha256": "6cd3fe8f1e342546eb979fcf0fabca6cc155eb77304c42aa8842d1935052ae15",
+      "authored_bytes": 22370084,
+      "delivery_sha256": "ee0a0d92e166bea01925e1a5abbf6fceb9925455088561e3fdd18e6dbb2348b5",
+      "delivery_bytes": 46485,
+      "preserved_mips": 12
+    }
+  },
+  "artifact_root": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/apple-cider-bottle-cork02-layered03/artifacts",
+  "state": "accepted-pilot-product-with-optical-qualification",
+  "root_acceptance_record": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/output/dynamic-product-color-plan/ROOT_CIDER_PILOT_ACCEPTANCE08.json"
+}

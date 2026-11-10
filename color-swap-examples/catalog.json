@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "state": "accepted-pilot",
+  "products": [
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "revision": "r01c",
+      "native_sha256": "e63b19f8d0438ca34bd8b91c39267606cf1459e0dec5200293e7d14540dcd71c",
+      "native_render": "/models/combined107-progress/generations/pass19-native-review12/previews/headphones-r01c-hero.jpg",
+      "default_pair": "cream_blue",
+      "glb": "/models/color-swap-pilot/generations/headphones-slice02-lossless/headphones__stock.glb",
+      "runtime_manifest": "/models/color-swap-pilot/generations/headphones-slice02-lossless/headphones__manifest_v4.json",
+      "runtime_manifest_local": "color-swap-examples/headphones/runtime/manifest.local.json",
+      "verified_resource_count": 3,
+      "optical_qualification": false
+    },
+    {
+      "id": "field-jacket",
+      "name": "Utility field jacket",
+      "revision": "accepted native",
+      "native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+      "native_render": "/models/combined107-progress/previews/field-jacket-hero.jpg",
+      "default_pair": "lilac-orange",
+      "glb": "/models/color-swap-pilot/generations/field-jacket-sheen03-lossless/field-jacket__stock.glb",
+      "runtime_manifest": "/models/color-swap-pilot/generations/field-jacket-sheen03-lossless/field-jacket__manifest_v4.json",
+      "runtime_manifest_local": "color-swap-examples/field-jacket/runtime/manifest.local.json",
+      "verified_resource_count": 3,
+      "optical_qualification": false
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "revision": "r05",
+      "native_sha256": "c7f85487fab665bc9e42bbfc6068ab90ae6119d3c0c5442c124c27d651e5e240",
+      "native_render": "/models/combined107-progress/generations/pass19-native-review12/previews/bread-r05-hero.jpg",
+      "default_pair": "cream-blue",
+      "glb": "/models/color-swap-pilot/generations/bread-native-stock04-lossless/bread__stock.glb",
+      "runtime_manifest": "/models/color-swap-pilot/generations/bread-native-stock04-lossless/bread__manifest_v4.json",
+      "runtime_manifest_local": "color-swap-examples/bread/runtime/manifest.local.json",
+      "verified_resource_count": 3,
+      "optical_qualification": true
+    },
+    {
+      "id": "apple-cider-bottle",
+      "name": "Apple cider bottle",
+      "revision": "v03",
+      "native_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+      "native_render": "/models/combined107-progress/generations/pass19-native-review12/previews/apple-cider-bottle-v03-hero.jpg",
+      "default_pair": "coral-green",
+      "glb": "/models/color-swap-pilot/generations/apple-cider-bottle-cork02-layered03-lossless/apple-cider-bottle__stock.cork_repair01.glb",
+      "runtime_manifest": "/models/color-swap-pilot/generations/apple-cider-bottle-cork02-layered03-lossless/apple-cider-bottle__manifest_v4.json",
+      "runtime_manifest_local": "color-swap-examples/apple-cider-bottle/runtime/manifest.local.json",
+      "verified_resource_count": 4,
+      "optical_qualification": true
+    },
+    {
+      "id": "bowling-ball",
+      "name": "Bowling ball",
+      "revision": "r05",
+      "native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+      "native_render": "/models/combined107-progress/generations/pass19-native-review12/previews/bowling-ball-r05-hero.jpg",
+      "default_pair": "cream_blue",
+      "glb": "/models/color-swap-pilot/generations/bowling-ball-tangents05-lossless/bowling-ball__stock.tangent_repair05.glb",
+      "runtime_manifest": "/models/color-swap-pilot/generations/bowling-ball-tangents05-lossless/bowling-ball__manifest_v4.json",
+      "runtime_manifest_local": "color-swap-examples/bowling-ball/runtime/manifest.local.json",
+      "verified_resource_count": 3,
+      "optical_qualification": false
+    },
+    {
+      "id": "air-freshener",
+      "name": "Air Freshener",
+      "revision": "accepted native",
+      "native_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+      "native_render": "/models/combined107-progress/previews/air-freshener-hero.jpg",
+      "default_pair": "purple_deep_purple",
+      "glb": "/models/color-swap-pilot/generations/air-freshener-tangents03c-lossless/air-freshener__stock.glb",
+      "runtime_manifest": "/models/color-swap-pilot/generations/air-freshener-tangents03c-lossless/air-freshener__manifest_v4.json",
+      "runtime_manifest_local": "color-swap-examples/air-freshener/runtime/manifest.local.json",
+      "verified_resource_count": 3,
+      "optical_qualification": false
+    }
+  ],
+  "acceptance_scope": "Six-product color-method review prototype; optical qualifications for bread and apple-cider-bottle. No105-model rollout or final compression.",
+  "optical_review_products": [
+    "bread",
+    "apple-cider-bottle"
+  ]
+}

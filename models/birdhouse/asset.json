@@ -1,0 +1,37 @@
+{
+  "id": "birdhouse",
+  "name": "Birdhouse",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "mint_green",
+  "native": "models/birdhouse/birdhouse.blend",
+  "native_sha256": "ad8ee82d2bc858e817568da50896fa2e5e0423b52ceeccb05489a7813e36b5dd",
+  "source_native_sha256": "ad8ee82d2bc858e817568da50896fa2e5e0423b52ceeccb05489a7813e36b5dd",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/birdhouse/previews/preview.jpg",
+      "sha256": "b8898a845fff04468f016e752f24a2318206304fdf41d2c09d0d2567d7a95d8d"
+    },
+    "alternate": {
+      "path": "models/birdhouse/previews/alternate.jpg",
+      "sha256": "098c0b507fa9222a3a08ab381a63a4aa99e3c4a6cf5f35763505b4f0fd022722"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pass19 | earlier633 birdhouse pigment mask (R light / G dark)",
+      "path": "models/birdhouse/textures/Pass19___earlier633_birdhouse_pigment_mask__R_light___G_dark___0__birdhouse-pigment-mask.png",
+      "sha256": "8f492ff739f99e0fcfbb587a27f37a9c7b082a52117f62d7806e3128220f4eaf",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

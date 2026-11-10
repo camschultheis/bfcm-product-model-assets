@@ -1,0 +1,28 @@
+{
+  "id": "powder-foundation-compact",
+  "name": "Pressed foundation compact",
+  "category": "Foundations",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple-deeppurple",
+  "native": "models/powder-foundation-compact/powder-foundation-compact.blend",
+  "native_sha256": "858f1bf47c220e0a880f73663029541d9c44594600d5b5d8dafbdac62aa50c0d",
+  "source_native_sha256": "858f1bf47c220e0a880f73663029541d9c44594600d5b5d8dafbdac62aa50c0d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/powder-foundation-compact/previews/preview.jpg",
+      "sha256": "51c947fa4a670e92f7f2b3f8e1493170eba3de2b48186206b767bdc93572387a"
+    },
+    "alternate": {
+      "path": "models/powder-foundation-compact/previews/alternate.jpg",
+      "sha256": "f54f5152225b733727a2b53119a3a760ac0dddb817a580455f812d9043f92376"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

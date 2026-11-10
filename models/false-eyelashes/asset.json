@@ -1,0 +1,28 @@
+{
+  "id": "false-eyelashes",
+  "name": "False Eyelashes",
+  "category": "False Eyelashes",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": null,
+  "native": "models/false-eyelashes/false-eyelashes.blend",
+  "native_sha256": "3456689d2a1a53f3729c7c590223c27dd2a7d3011713dee7a057b1b269dc7228",
+  "source_native_sha256": "3456689d2a1a53f3729c7c590223c27dd2a7d3011713dee7a057b1b269dc7228",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/false-eyelashes/previews/preview.jpg",
+      "sha256": "ba078c8325fd3f933d3a43b94a0b91c725936f6fbc57089a4d248b355ca62fdb"
+    },
+    "alternate": {
+      "path": "models/false-eyelashes/previews/alternate.jpg",
+      "sha256": "84a13086a14356d79f2f585ca4241c62bdc504cc2359abd9f38e22ad84581a07"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "toothpaste",
+  "name": "Toothpaste tube",
+  "category": "Health & Beauty",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple",
+  "native": "models/toothpaste/toothpaste.blend",
+  "native_sha256": "8dbfe383a427eef60ea24b788da8a298e7a5159a7f1d7e11dbf81eec83fc4316",
+  "source_native_sha256": "8dbfe383a427eef60ea24b788da8a298e7a5159a7f1d7e11dbf81eec83fc4316",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/toothpaste/previews/preview.jpg",
+      "sha256": "61d2d4b0feaf4c4f863f203fc69784f7fe3de68c5a021b636692a1eb1c9573b2"
+    },
+    "alternate": {
+      "path": "models/toothpaste/previews/alternate.jpg",
+      "sha256": "029090a7a9ffc88e05fa4e3224737600a005873ac326291969d13ead396dcc1a"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

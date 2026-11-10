@@ -1,0 +1,28 @@
+{
+  "id": "phone-case",
+  "name": "Phone case",
+  "category": "Cameras & Optics / Electronics",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/phone-case/phone-case.blend",
+  "native_sha256": "7ac55e76b45d694b6b280f414ef340e0cce25de88288edf726f769211de78a53",
+  "source_native_sha256": "7ac55e76b45d694b6b280f414ef340e0cce25de88288edf726f769211de78a53",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/phone-case/previews/preview.jpg",
+      "sha256": "609fbfb2d1635f1ee0f253ab3277aac16ee3f531f1a40a67a1d9e7cd0beb8a68"
+    },
+    "alternate": {
+      "path": "models/phone-case/previews/alternate.jpg",
+      "sha256": "aa456b1ca032a316eeab75fdfefdc17857367a91b88ca171e9ab22c9102c7639"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

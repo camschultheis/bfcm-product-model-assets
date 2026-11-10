@@ -1,0 +1,31 @@
+{
+  "id": "ceramic-spoon-rest",
+  "name": "Glazed ceramic spoon rest",
+  "category": "Spoon Rests",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/ceramic-spoon-rest/ceramic-spoon-rest.blend",
+  "native_sha256": "a96745787a4555763940db42b4ef1ecd4af2b1af488010b392db0468615c1473",
+  "source_native_sha256": "a96745787a4555763940db42b4ef1ecd4af2b1af488010b392db0468615c1473",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/ceramic-spoon-rest/previews/preview.jpg",
+      "sha256": "bb68fe54b5bbb5d8530f74e64b76cf0fa847a69e933db98ddce7cad165d714ca"
+    },
+    "alternate": {
+      "path": "models/ceramic-spoon-rest/previews/alternate.jpg",
+      "sha256": "a9c90594583d4913f3fd50f289a1211ba39bd770ade904e7397a0c4eb5507c9a"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/ceramic-spoon-rest/ceramic-spoon-rest.glb",
+    "sha256": "226ae7f3161e9d11070b13c3ddd3237b9f6f1cc78d0ceaef6c8a0a44cadce79c"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

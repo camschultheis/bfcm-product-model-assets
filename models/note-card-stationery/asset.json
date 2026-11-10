@@ -1,0 +1,31 @@
+{
+  "id": "note-card-stationery",
+  "name": "Correspondence cards and envelopes",
+  "category": "Note Cards",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/note-card-stationery/note-card-stationery.blend",
+  "native_sha256": "d75e104da39e3c99a6af32b80e8ce6e1bf7985ca8352587cec7f3e0682fce2e3",
+  "source_native_sha256": "d75e104da39e3c99a6af32b80e8ce6e1bf7985ca8352587cec7f3e0682fce2e3",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/note-card-stationery/previews/preview.jpg",
+      "sha256": "2ae62185c9c1b723d58930cf21bb99afe7fcbac029f5f347a76e71bfcd9aa922"
+    },
+    "alternate": {
+      "path": "models/note-card-stationery/previews/alternate.jpg",
+      "sha256": "2c87b92b30bfc424599d4a33642be2a855a94afcbcadda3fd95a8255c5e9fddb"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/note-card-stationery/note-card-stationery.glb",
+    "sha256": "d61ad7e152d112191406057d583da218a2cac9a650e9b6683bcb6cd6e3ca9234"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

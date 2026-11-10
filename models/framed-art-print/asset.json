@@ -1,0 +1,28 @@
+{
+  "id": "framed-art-print",
+  "name": "Framed art print",
+  "category": "Prints",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/framed-art-print/framed-art-print.blend",
+  "native_sha256": "a04e363f19ef9fdb82a977a5822dfca84814e04922afad44c83384cd99e6cee3",
+  "source_native_sha256": "a04e363f19ef9fdb82a977a5822dfca84814e04922afad44c83384cd99e6cee3",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/framed-art-print/previews/preview.jpg",
+      "sha256": "aeaaa368cfeb7699d5e4040a88991a2aea97338e4134d0a1d856db1e90be91f7"
+    },
+    "alternate": {
+      "path": "models/framed-art-print/previews/alternate.jpg",
+      "sha256": "f60b50e3908ebc58cc400a1b5199f140d4006421dd7429c63529b7b0aec72ba4"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "wallet",
+  "name": "Wallet",
+  "category": "Apparel & Accessories",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/wallet/wallet.blend",
+  "native_sha256": "11be256830da24bda760a44244990b7f8ce8d5159e289ad85d31ba28f92a6e2f",
+  "source_native_sha256": "11be256830da24bda760a44244990b7f8ce8d5159e289ad85d31ba28f92a6e2f",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/wallet/previews/preview.jpg",
+      "sha256": "6b09c456beca48065c02a1a6bf05344fd499d57b46d3cd61162d603c5bc6d81a"
+    },
+    "alternate": {
+      "path": "models/wallet/previews/alternate.jpg",
+      "sha256": "550b452329cab38a73ccf0d1063ce38a8a7e4fd1b9de1826f14f6f43edf433d0"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Reference-aligned orange and warm brown leather stripes / exact graphic",
+      "path": "models/wallet/textures/Reference-aligned_orange_and_warm_brown_leather_stripes___exact_graphic__0___exact_graphic.png",
+      "sha256": "f4445819a02fb3717390c60086ab264318ed461652fb2be79f1fa18d7b21d9c2",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

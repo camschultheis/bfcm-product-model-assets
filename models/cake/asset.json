@@ -1,0 +1,28 @@
+{
+  "id": "cake",
+  "name": "Cake",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "candidate",
+  "palette_pair": "lilac-orange",
+  "native": "models/cake/cake.blend",
+  "native_sha256": "a0fa5bbb4043b6e058c877b49807f8a7a3c0287ce0730d2e84815d77097185f2",
+  "source_native_sha256": "a0fa5bbb4043b6e058c877b49807f8a7a3c0287ce0730d2e84815d77097185f2",
+  "portability_repacked": false,
+  "texture_split_priority": true,
+  "previews": {
+    "preview": {
+      "path": "models/cake/previews/preview.jpg",
+      "sha256": "d82feb9c30fcbcf3c38fb0be88277a1feaadf11cddcaff505266d4e46ef58190"
+    },
+    "alternate": {
+      "path": "models/cake/previews/alternate.jpg",
+      "sha256": "ed3b0a2b0bd82a397c2443374e0be71a25d10babcf65bc31b97915f30251d836"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

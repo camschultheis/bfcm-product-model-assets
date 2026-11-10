@@ -1,0 +1,300 @@
+{
+  "schema": "bfcm-pigment-manifest/v4",
+  "product_id": "headphones",
+  "model_id": "headphones:derivative-v2:e63b19f8d043",
+  "source_native_sha256": "e63b19f8d0438ca34bd8b91c39267606cf1459e0dec5200293e7d14540dcd71c",
+  "default_pair": "cream_blue",
+  "stock_base_color": "default-palette",
+  "glb": {
+    "url": "headphones__stock.glb",
+    "sha256": "e3d1d2988c28ef3b289a9ec957324673cd7bb34efdbda63dc42d6b21c8dfe403",
+    "bytes": 4396560
+  },
+  "native_hero": {
+    "url": "../native-preview.jpg",
+    "sha256": "3264f8afdb67353c012444b53cf49d8101f67910f2a3cc8a46afd00c31fe1db4"
+  },
+  "package_metrics": {
+    "glb_bytes": 4396560,
+    "pigment_bytes": 57225,
+    "total_bytes": 4453785
+  },
+  "pigment_maps": {
+    "dot_mix": {
+      "url": "headphones__dot_mix-zstd.ktx2",
+      "sha256": "3a8b6f533ad186732898dbb2f6358fad2e0cf1f37d9f3e73e5814ed06f228405",
+      "format": "ktx2",
+      "width": 2048,
+      "height": 2048,
+      "mip_count": 12,
+      "wrap": "clamp"
+    }
+  },
+  "materials": [
+    {
+      "material_id": "headphones.blue-dry-rubber-gasket",
+      "gltf_material_index": 5,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "headphones.blue-protein-leather-band-padding",
+      "gltf_material_index": 1,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "headphones.blue-protein-leather-cushion",
+      "gltf_material_index": 3,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "headphones.cream-glossy-moulded-shell",
+      "gltf_material_index": 0,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 0.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "headphones.cream-knit-driver-cloth",
+      "gltf_material_index": 4,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "constant": {
+          "coverage": 1.0,
+          "mix": 0.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "headphones.outer-cup-face-dot-accent",
+      "gltf_material_index": 6,
+      "material_name": null,
+      "role": "pigment",
+      "pigment": {
+        "default_a_linear": [
+          0.9046611785888672,
+          0.8148465752601624,
+          0.5394794940948486
+        ],
+        "default_b_linear": [
+          0.07818742096424103,
+          0.14702726900577545,
+          0.7454041838645935
+        ],
+        "vertex_color": "none",
+        "map": "dot_mix",
+        "texCoord": 1,
+        "uv_matrix": [
+          1,
+          0,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          1
+        ],
+        "tone_scale": 1.0,
+        "tone_bias": 1.0,
+        "channel_constants": {
+          "coverage": 1.0,
+          "tone": 1.0
+        }
+      }
+    },
+    {
+      "material_id": "headphones.slider-collar-satin-stainless",
+      "gltf_material_index": 2,
+      "material_name": null,
+      "role": "fixed",
+      "pigment": null
+    }
+  ],
+  "camera": {
+    "status": "measured",
+    "coordinates": "glTF Y-up (Blender [x,y,z] -> [x,z,-y])",
+    "position": [
+      36.0576171875,
+      27.46757698059082,
+      40.093929290771484
+    ],
+    "target": [
+      -0.026389824349394075,
+      1.165767548785233,
+      0.018582494270255268
+    ],
+    "target_source": "evaluated product bbox centre projected onto forward line",
+    "up": [
+      -0.29332754015922546,
+      0.8987940549850464,
+      -0.3257732689380646
+    ],
+    "projection": "orthographic",
+    "orthographic_scale": 2.727905035018921,
+    "orthographic_scale_definition": "Blender ortho_scale = full extent of the larger image dimension",
+    "xmag": 1.3639525175094604,
+    "ymag": 1.3639525175094604,
+    "near": 0.10000000149011612,
+    "far": 500.0,
+    "native_source_pose": {
+      "position": [
+        36.0576171875,
+        -40.093929290771484,
+        27.46757698059082
+      ],
+      "forward": [
+        -0.6014106273651123,
+        0.6679341197013855,
+        -0.4383711516857147
+      ],
+      "up": [
+        -0.29332754015922546,
+        0.3257732689380646,
+        0.8987940549850464
+      ],
+      "type": "ORTHO",
+      "ortho_scale": 2.727905035018921,
+      "angle": 0.691111147403717,
+      "sensor_fit": "AUTO",
+      "clip": [
+        0.10000000149011612,
+        500.0
+      ],
+      "track_target": null,
+      "resolution": [
+        700,
+        700
+      ],
+      "pixel_aspect": [
+        1.0,
+        1.0
+      ],
+      "unit_scale_length": 0.10000000149011612
+    },
+    "glb_readback": {
+      "node": 0,
+      "position": [
+        36.0576171875,
+        27.46757698059082,
+        40.093929290771484
+      ],
+      "forward": [
+        -0.601410587947294,
+        -0.43837116489612693,
+        -0.6679341483204035
+      ],
+      "up": [
+        -0.29332753652452886,
+        0.8987940374677683,
+        -0.3257732870092929
+      ],
+      "camera": {
+        "name": "Studio | ortho camera",
+        "orthographic": {
+          "xmag": 1.3639525175094604,
+          "ymag": 1.3639525175094604,
+          "zfar": 500,
+          "znear": 0.10000000149011612
+        },
+        "type": "orthographic"
+      },
+      "max_abs_delta": {
+        "position": 0.0,
+        "forward": 3.941781834271296e-08,
+        "up": 1.8071228347071866e-08
+      }
+    }
+  },
+  "status": "ready",
+  "bfcm_candidate": {
+    "review": "root native/stock/variants/runtime/mips/tangent review accepted",
+    "compression": "lossless Zstd for authored pigment mips; stock GLB unchanged"
+  }
+}

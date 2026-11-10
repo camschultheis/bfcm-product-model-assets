@@ -1,0 +1,28 @@
+{
+  "id": "energy-drink-can",
+  "name": "Slim energy drink can",
+  "category": "Energy Drinks",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/energy-drink-can/energy-drink-can.blend",
+  "native_sha256": "fff03da8a8eb46cb875e6b135d472cbeb8c5f264fdc35ff35385ce77d9090d9f",
+  "source_native_sha256": "fff03da8a8eb46cb875e6b135d472cbeb8c5f264fdc35ff35385ce77d9090d9f",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/energy-drink-can/previews/preview.jpg",
+      "sha256": "36cefccb2f8f3819da7b2c27553075fdfc0f3b9adec1474d206094c385afbf32"
+    },
+    "alternate": {
+      "path": "models/energy-drink-can/previews/alternate.jpg",
+      "sha256": "e79d18256e06f969356b8004378e006731b504ca85ecdc97b1d10013adf0cd48"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

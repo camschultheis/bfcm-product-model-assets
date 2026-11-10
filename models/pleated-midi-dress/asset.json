@@ -1,0 +1,53 @@
+{
+  "id": "pleated-midi-dress",
+  "name": "Pleated sleeveless midi dress",
+  "category": "Dresses",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac-orange",
+  "native": "models/pleated-midi-dress/pleated-midi-dress.blend",
+  "native_sha256": "76d779c3f89567af2be67887f7a2c2841ef6407568846d8bdf72aa468972a290",
+  "source_native_sha256": "76d779c3f89567af2be67887f7a2c2841ef6407568846d8bdf72aa468972a290",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/pleated-midi-dress/previews/preview.jpg",
+      "sha256": "891bf40ec0ffa35622d6b47af14568f5b3b2e2132b053e13bbbd1dea4fb11324"
+    },
+    "alternate": {
+      "path": "models/pleated-midi-dress/previews/alternate.jpg",
+      "sha256": "f936a3075ebbd72c23a42d27e9d99d4a46e6381d8dcfb12086c8600841aa51d5"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Color_c757e494-adeb-4c0c-aa46-cf288ea73b9d",
+      "path": "models/pleated-midi-dress/textures/Color_c757e494-adeb-4c0c-aa46-cf288ea73b9d__0__Color_c757e494-adeb-4c0c-aa46-cf288ea73b9d.png",
+      "sha256": "4d6bed884036fb5f6ed16428c3ae51c8070513e43b0b05eb3fa7fdbe5a235624",
+      "packed": true,
+      "color_space": "sRGB"
+    },
+    {
+      "kind": "image",
+      "name": "NormalGL_c757e494-adeb-4c0c-aa46-cf288ea73b9d",
+      "path": "models/pleated-midi-dress/textures/NormalGL_c757e494-adeb-4c0c-aa46-cf288ea73b9d__0__NormalGL_c757e494-adeb-4c0c-aa46-cf288ea73b9d.png",
+      "sha256": "96ab16280b04e25ae4b976a7f1bdbe6b5315ff3cda06528c3003867602ea83a5",
+      "packed": true,
+      "color_space": "Non-Color"
+    },
+    {
+      "kind": "image",
+      "name": "ORM_c757e494-adeb-4c0c-aa46-cf288ea73b9d",
+      "path": "models/pleated-midi-dress/textures/ORM_c757e494-adeb-4c0c-aa46-cf288ea73b9d__0__ORM_c757e494-adeb-4c0c-aa46-cf288ea73b9d.png",
+      "sha256": "5e80a177e3e853d11c050e5eaf83f578cf7b6e76f6682d4054a95914a52ad9cf",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

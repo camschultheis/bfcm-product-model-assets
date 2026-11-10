@@ -1,0 +1,4764 @@
+{
+  "snapshot": "2026-11-10-pass25",
+  "count": 134,
+  "products": [
+    {
+      "id": "headphones",
+      "name": "Headphones",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "cream_blue",
+      "native": "models/headphones/headphones.blend",
+      "native_sha256": "38c6603cc79c834bb9b904bebb2280ee1d9d93fd76d1e69aa737e973f664a572",
+      "source_native_sha256": "38c6603cc79c834bb9b904bebb2280ee1d9d93fd76d1e69aa737e973f664a572",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/headphones/previews/preview.jpg",
+          "sha256": "6f7c13dde6225d6d502866cb358eb081220b7fbfb56f2658b49c18b7c6ad6891"
+        },
+        "alternate": {
+          "path": "models/headphones/previews/alternate.jpg",
+          "sha256": "af6fb08c0cfd34701233c1aa49b69fb3d300fd59c207b726f3d50d3cc012e9e2"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pattern tile / dots",
+          "path": "models/headphones/textures/Pattern_tile___dots__0___dots.png",
+          "sha256": "134d05404e3f241b31a5d862ce5471b01cc988b6436d0b96ffbd8c68f4d4b7a7",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Warm cream glossy moulding / full rose dots / repeat mask",
+          "path": "models/headphones/textures/Warm_cream_glossy_moulding___full_rose_dots___repeat_mask__0___repeat_mask.png",
+          "sha256": "61c1d54d13ee320a8816f47a1959a6def2ce8057e9f2125ec8a807c5151c735f",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "camera",
+      "name": "Camera",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/camera/camera.blend",
+      "native_sha256": "98a78913329f9f299a156b02af76d286104865e2e0221ab2b81b33927b8ae172",
+      "source_native_sha256": "98a78913329f9f299a156b02af76d286104865e2e0221ab2b81b33927b8ae172",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/camera/previews/preview.jpg",
+          "sha256": "a7314a762703a04d4d7d7c9f3d41b5a8cfa4a1931de4f59bcdbb4fb6c743b0a7"
+        },
+        "alternate": {
+          "path": "models/camera/previews/alternate.jpg",
+          "sha256": "0859a32eda17b827a6e93ab3a8edf81eff88a8934e76b348d47aa2f9b3bc00e3"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Camera / joined green cream stripes / repeat mask",
+          "path": "models/camera/textures/Camera___joined_green_cream_stripes___repeat_mask__0___repeat_mask.png",
+          "sha256": "f4445819a02fb3717390c60086ab264318ed461652fb2be79f1fa18d7b21d9c2",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "controller",
+      "name": "Game controller",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/controller/controller.blend",
+      "native_sha256": "9f0fd05a5a3af892ca1df382cf216a12d4002b7d800a3d882f405e64950db85d",
+      "source_native_sha256": "9f0fd05a5a3af892ca1df382cf216a12d4002b7d800a3d882f405e64950db85d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/controller/previews/preview.jpg",
+          "sha256": "d7bf7bf19b6c225d6481fd055cf7afa47e8bf9bc35216172018dff3b1864bd03"
+        },
+        "alternate": {
+          "path": "models/controller/previews/alternate.jpg",
+          "sha256": "5083afd8fa8152f1ee4bd233d3ed25d904ab2fcdbe077dcba0afdb5fbedd2c7c"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Controller_Hero_Mask_4K.png",
+          "path": "models/controller/textures/Controller_Hero_Mask_4K.png__0__Controller_Hero_Mask_4K.png",
+          "sha256": "cd56026bba8873d3617b09523e165cd233b2a6c5386567868941bc93d75d1a8e",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Controller_Hidden_Repeat_Mask_2K.png",
+          "path": "models/controller/textures/Controller_Hidden_Repeat_Mask_2K.png__0__Controller_Hidden_Repeat_Mask_2K.png",
+          "sha256": "837637be2f4da64b851e610d0d99c95809a5f7546d15226fe1792cd88475ee9b",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "phone-case",
+      "name": "Phone case",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/phone-case/phone-case.blend",
+      "native_sha256": "7ac55e76b45d694b6b280f414ef340e0cce25de88288edf726f769211de78a53",
+      "source_native_sha256": "7ac55e76b45d694b6b280f414ef340e0cce25de88288edf726f769211de78a53",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/phone-case/previews/preview.jpg",
+          "sha256": "609fbfb2d1635f1ee0f253ab3277aac16ee3f531f1a40a67a1d9e7cd0beb8a68"
+        },
+        "alternate": {
+          "path": "models/phone-case/previews/alternate.jpg",
+          "sha256": "aa456b1ca032a316eeab75fdfefdc17857367a91b88ca171e9ab22c9102c7639"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "radio",
+      "name": "Radio",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/radio/radio.blend",
+      "native_sha256": "ff262c607cd943a35b2f2b9ecd625a266d8d44640b87bdb9729d5e810e744cd3",
+      "source_native_sha256": "ff262c607cd943a35b2f2b9ecd625a266d8d44640b87bdb9729d5e810e744cd3",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/radio/previews/preview.jpg",
+          "sha256": "d4e01aa49f2c5b721c1ad4bfbae9e3e694c3c31bb0cd7351501618438683fda5"
+        },
+        "alternate": {
+          "path": "models/radio/previews/alternate.jpg",
+          "sha256": "472462096864893ddf18bd2b85c94add084dbf05778446394e7095067085bd49"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pattern tile / bricks",
+          "path": "models/radio/textures/Pattern_tile___bricks__0___bricks.png",
+          "sha256": "b0c013e80af5a3584323c4c2e9e3193f87c9b6492aff532b6a0b3658431c69f0",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Radio / warm coral cross repeat / repeat mask",
+          "path": "models/radio/textures/Radio___warm_coral_cross_repeat___repeat_mask__0___repeat_mask.png",
+          "sha256": "fb4d37e8d8ef1c987a369164657e32155649291ab8e51a124dbe64a82f94d6c3",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "keypad",
+      "name": "Calculator",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/keypad/keypad.blend",
+      "native_sha256": "5e60631edfff7aaff03713dec400e4a5cb76d93501c1467450b004fd37fb0462",
+      "source_native_sha256": "5e60631edfff7aaff03713dec400e4a5cb76d93501c1467450b004fd37fb0462",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/keypad/previews/preview.jpg",
+          "sha256": "b87c36d78d6c166bae163ab5a278e4cb48f2b106c0aa505781f860e0ef0b18b0"
+        },
+        "alternate": {
+          "path": "models/keypad/previews/alternate.jpg",
+          "sha256": "6818016c543cc184bba9658c4ea5f06d91a03004b5b46f825587aedde9db5e07"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Keypad / continuous mint cyan stripes / repeat mask",
+          "path": "models/keypad/textures/Keypad___continuous_mint_cyan_stripes___repeat_mask__0___repeat_mask.png",
+          "sha256": "f4445819a02fb3717390c60086ab264318ed461652fb2be79f1fa18d7b21d9c2",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Pattern tile / stripes",
+          "path": "models/keypad/textures/Pattern_tile___stripes__0___stripes.png",
+          "sha256": "8e36c916b3d4f75d0d6d470816c1ab02e48f8b410fc770669803e339963919ba",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "stool",
+      "name": "Stool",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/stool/stool.blend",
+      "native_sha256": "5fabcab37ffbc5d2581059468696ad4facc8bb5dcae658177839178739e42cb8",
+      "source_native_sha256": "5fabcab37ffbc5d2581059468696ad4facc8bb5dcae658177839178739e42cb8",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/stool/previews/preview.jpg",
+          "sha256": "51252d760ccf48f352ff5965ed947466be1fa49e9b69486f0270122658313a3b"
+        },
+        "alternate": {
+          "path": "models/stool/previews/alternate.jpg",
+          "sha256": "32aa95bd323eae74701d3ae91f194b503bcd2e08b05874b4f2667c9bffd9fd23"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass 02 traced motif / stool-lobes",
+          "path": "models/stool/textures/Pass_02_traced_motif___stool-lobes__0___stool-lobes.png",
+          "sha256": "a7944766e35e1492a57aa4ecf7047c1dd06804c6f42bd2d4163a18eafde667ae",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Pattern tile / waves",
+          "path": "models/stool/textures/Pattern_tile___waves__0___waves.png",
+          "sha256": "90e8bd79a3b6f625b208b06c3791043ff47f908fff986b5fcbe0f8e06856dc62",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "soccer-ball",
+      "name": "Soccer ball",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/soccer-ball/soccer-ball.blend",
+      "native_sha256": "1140085cfc7347e327c8c6218c035fbf3b6477f00c160789a9a688d5dc8c8f41",
+      "source_native_sha256": "1140085cfc7347e327c8c6218c035fbf3b6477f00c160789a9a688d5dc8c8f41",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/soccer-ball/previews/preview.jpg",
+          "sha256": "11edcab985f2ea7e7839199d0d668ff5ee0244fac6d4100af81c3ebb12fb2319"
+        },
+        "alternate": {
+          "path": "models/soccer-ball/previews/alternate.jpg",
+          "sha256": "41381c93af6896da82a3bc8a7fd7a19574d54551132b8a416abaf4229cee325b"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass19 | earlier633 soccer pigment mask (R strip / G ground)",
+          "path": "models/soccer-ball/textures/Pass19___earlier633_soccer_pigment_mask__R_strip___G_ground___0__soccer-ball-pigment-mask.png",
+          "sha256": "8ac578aba4b30252c52e34caaa2d082546da78c13d8a11f282a104882e6e77e2",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "chair",
+      "name": "Chair",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/chair/chair.blend",
+      "native_sha256": "280c19e987c62b6074991fc4b335231440825ba554fd5d8a6dd847ba25240f29",
+      "source_native_sha256": "280c19e987c62b6074991fc4b335231440825ba554fd5d8a6dd847ba25240f29",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/chair/previews/preview.jpg",
+          "sha256": "56c1b2c33232cefd424fcb51bdf644aa5064da17b3eb3690d04c9728e29e2002"
+        },
+        "alternate": {
+          "path": "models/chair/previews/alternate.jpg",
+          "sha256": "8a4018336dead6be911779729b4d3624901a9aebd36c1ef2885be193ebe5e922"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass 02 traced motif / chair-lobes",
+          "path": "models/chair/textures/Pass_02_traced_motif___chair-lobes__0___chair-lobes.png",
+          "sha256": "c90aba7ff990e0d367b68b9a0dcf15bcb3259310038e6429949ee47bc42ee99d",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Pattern tile / waves",
+          "path": "models/chair/textures/Pattern_tile___waves__0___waves.png",
+          "sha256": "90e8bd79a3b6f625b208b06c3791043ff47f908fff986b5fcbe0f8e06856dc62",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "lamp",
+      "name": "Table lamp",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/lamp/lamp.blend",
+      "native_sha256": "0f112e687dddf2b6b7a4747c51a07b619bd370ea5e946442d2812ca079dc94d7",
+      "source_native_sha256": "0f112e687dddf2b6b7a4747c51a07b619bd370ea5e946442d2812ca079dc94d7",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/lamp/previews/preview.jpg",
+          "sha256": "6289bde9b8830e0e3fcf25bcfc0aa8c5bbb7b4d42b4743d9f6deba56063a9dbd"
+        },
+        "alternate": {
+          "path": "models/lamp/previews/alternate.jpg",
+          "sha256": "29c61c6b35935b41e95f7a21945337548dc3e96e35a646283456902978b25ecb"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Lamp_AO_4K",
+          "path": "models/lamp/textures/Lamp_AO_4K__0__Lamp_AO_4K.png",
+          "sha256": "1e2355bf6116906b911bc8198e11deaaa90a92554957ba15f7467e5c64aa1a2c",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "american-football",
+      "name": "American football",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/american-football/american-football.blend",
+      "native_sha256": "909d2bcfbc0773a475ba22b2ed1be81657035cb3b144600abe5e60d35d64d550",
+      "source_native_sha256": "909d2bcfbc0773a475ba22b2ed1be81657035cb3b144600abe5e60d35d64d550",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/american-football/previews/preview.jpg",
+          "sha256": "c99a213a514b8baec5e6d25bfed0bd9341ef27b8cdba992d1b40fcf92710668f"
+        },
+        "alternate": {
+          "path": "models/american-football/previews/alternate.jpg",
+          "sha256": "13f2422a78c2cf5fd585596f162d2c23c6c2cc836c98783191d2b99800f805a8"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "dart",
+      "name": "Dart",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/dart/dart.blend",
+      "native_sha256": "d741c6461636003699649c49f66fa585fa3d01447fe42867b77a262647279832",
+      "source_native_sha256": "d741c6461636003699649c49f66fa585fa3d01447fe42867b77a262647279832",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/dart/previews/preview.jpg",
+          "sha256": "3ea488dfc6f5c1b1cb976ce2aa00f3ffd188c77a658b1f6db11a732c0bf87775"
+        },
+        "alternate": {
+          "path": "models/dart/previews/alternate.jpg",
+          "sha256": "c1752dd11f0de9707ec02498259174c6021c464a99589a30f1bb37aefa15e413"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "sunscreen",
+      "name": "Sunscreen bottle",
+      "category": "Health & Beauty",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/sunscreen/sunscreen.blend",
+      "native_sha256": "e3009027cfc533cffc7e919893e0792df159beac7a14a7497f135d85fe70b556",
+      "source_native_sha256": "e3009027cfc533cffc7e919893e0792df159beac7a14a7497f135d85fe70b556",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/sunscreen/previews/preview.jpg",
+          "sha256": "f16b2833c1f78a586c9ce1c97c24c48819fb699c0ae314b65dd38234391ef8d3"
+        },
+        "alternate": {
+          "path": "models/sunscreen/previews/alternate.jpg",
+          "sha256": "0086db32fb027f9907d916b06a14be169c094e9c2bec690816ffc6e0d6718835"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/sunscreen/sunscreen.glb",
+        "sha256": "7634dfc7155e58c1642703056d6c91c0cc6df57b52006ae85b522197778b60bd"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "bandage",
+      "name": "Adhesive bandage",
+      "category": "Health & Beauty",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/bandage/bandage.blend",
+      "native_sha256": "21c39ef9f5babc418a29b3125a6cf5c9561a98001808b3f2923a66899aa0c113",
+      "source_native_sha256": "21c39ef9f5babc418a29b3125a6cf5c9561a98001808b3f2923a66899aa0c113",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/bandage/previews/preview.jpg",
+          "sha256": "58c9d452e0e19584487c55b55f277eacd245a6ab2328eb982fa12dd21b29a6a4"
+        },
+        "alternate": {
+          "path": "models/bandage/previews/alternate.jpg",
+          "sha256": "15927f59089776235faf1beff6b420fc277330562264ae23dc48d7e63a9054b7"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass 02 traced motif / bandage-split",
+          "path": "models/bandage/textures/Pass_02_traced_motif___bandage-split__0___bandage-split.png",
+          "sha256": "9a517a9af83c4862238f5490863f5cfd183cfe9c088bbeffa92bd38269420eac",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "eye-drops",
+      "name": "Eye drop bottle",
+      "category": "Health & Beauty",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/eye-drops/eye-drops.blend",
+      "native_sha256": "ec7423bdd8c0caadd45db231e92977f47c98b7cf3f2df8e189d68fd4e0b1036e",
+      "source_native_sha256": "ec7423bdd8c0caadd45db231e92977f47c98b7cf3f2df8e189d68fd4e0b1036e",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/eye-drops/previews/preview.jpg",
+          "sha256": "7a6db4d1b1c10408e413ab3f5a0d000e1666d93eba8fc7fcf6260a563d9c0e8b"
+        },
+        "alternate": {
+          "path": "models/eye-drops/previews/alternate.jpg",
+          "sha256": "288eb692c8e582e0d5971652fc7ea28eb18ccbf7e0e5e6a8de08c798fe5573a1"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "comb",
+      "name": "Comb",
+      "category": "Health & Beauty",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/comb/comb.blend",
+      "native_sha256": "a86621e64c9ee163c7e69a539dde36b1911c6eb19bf2bbb2ea0b226721ca52fb",
+      "source_native_sha256": "a86621e64c9ee163c7e69a539dde36b1911c6eb19bf2bbb2ea0b226721ca52fb",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/comb/previews/preview.jpg",
+          "sha256": "2a8046eea682aafe3adc0f28a2e9afba6354d2611c7ced3c0f8a0e5e61ebad3f"
+        },
+        "alternate": {
+          "path": "models/comb/previews/alternate.jpg",
+          "sha256": "22b9a913b216d70bf2013828dc970aa43fd29f3f8932cae9584adce090d0cc61"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "soap",
+      "name": "Soap",
+      "category": "Health & Beauty",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/soap/soap.blend",
+      "native_sha256": "8c68de8ecae0b513f9d6959e10ae7a7d49ba344f6910789b9b967ff25352241d",
+      "source_native_sha256": "8c68de8ecae0b513f9d6959e10ae7a7d49ba344f6910789b9b967ff25352241d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/soap/previews/preview.jpg",
+          "sha256": "bbc27d8f30a0d054b8573fd2d7db48c15541597fcdf0f8b3e1b13a6c546681ca"
+        },
+        "alternate": {
+          "path": "models/soap/previews/alternate.jpg",
+          "sha256": "32fee9fc960ee81dc0ce71f0281cd4cd54fd06e9d741e08edd87dc85b08d66ea"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "toothpaste",
+      "name": "Toothpaste tube",
+      "category": "Health & Beauty",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/toothpaste/toothpaste.blend",
+      "native_sha256": "8dbfe383a427eef60ea24b788da8a298e7a5159a7f1d7e11dbf81eec83fc4316",
+      "source_native_sha256": "8dbfe383a427eef60ea24b788da8a298e7a5159a7f1d7e11dbf81eec83fc4316",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/toothpaste/previews/preview.jpg",
+          "sha256": "61d2d4b0feaf4c4f863f203fc69784f7fe3de68c5a021b636692a1eb1c9573b2"
+        },
+        "alternate": {
+          "path": "models/toothpaste/previews/alternate.jpg",
+          "sha256": "029090a7a9ffc88e05fa4e3224737600a005873ac326291969d13ead396dcc1a"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "watering-can",
+      "name": "Watering can",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/watering-can/watering-can.blend",
+      "native_sha256": "86ec0de8f475fcf5bd4c9714705f5284fa85d62a4a5d5394e8bff24690bf90e6",
+      "source_native_sha256": "86ec0de8f475fcf5bd4c9714705f5284fa85d62a4a5d5394e8bff24690bf90e6",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/watering-can/previews/preview.jpg",
+          "sha256": "fa0ebeffd0effc2fb32b224f13bfdf32eb08932295ddcb40401cc93f198a0ccc"
+        },
+        "alternate": {
+          "path": "models/watering-can/previews/alternate.jpg",
+          "sha256": "375499f88bbc447d05150041f1129ad998dff868de7d1af79314600495a5dc69"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cushion",
+      "name": "Cushion",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/cushion/cushion.blend",
+      "native_sha256": "e1e6482a92591abac35f04a2aa146a92034b26ad7e7578394edd101b5e8e2187",
+      "source_native_sha256": "e1e6482a92591abac35f04a2aa146a92034b26ad7e7578394edd101b5e8e2187",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cushion/previews/preview.jpg",
+          "sha256": "77126ec15e8024d14b436dcd3dbe3c5bbe946c7888514acb864c2c0c82e309ab"
+        },
+        "alternate": {
+          "path": "models/cushion/previews/alternate.jpg",
+          "sha256": "83862decb373fe14c347d5240010c2145aa1cbbc5ac14c29440f770f66bf53f2"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "20-cushion.png",
+          "path": "models/cushion/textures/20-cushion.png__0__20-cushion.png",
+          "sha256": "f3c609330da090c90d1e6e2f0e32069c951a0f9111659441d3ab0f2fa0e6725b",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "Coral triangles / five repeats, four independent rows",
+          "path": "models/cushion/textures/Coral_triangles___five_repeats__four_independent_rows__0___five_repeats__four_independent_rows.png",
+          "sha256": "6a69899170f6e250c5ed433db08447305b60b59604e8658f9e7c40849669a40d",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Coral triangular quilt patchwork / exact repeat",
+          "path": "models/cushion/textures/Coral_triangular_quilt_patchwork___exact_repeat__0___exact_repeat.png",
+          "sha256": "5afce1ace0fcdda887603e6802b54bfba0a0b33fd57638631f63700468f87b2a",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Quilt thread dashes / shared cloth chart",
+          "path": "models/cushion/textures/Quilt_thread_dashes___shared_cloth_chart__0___shared_cloth_chart.png",
+          "sha256": "5beb7f8d3033bb7e9a1c888cf5c2e914fe1cc67736b3f37d144c72f84cc6d4ce",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "leaf-blower",
+      "name": "Leaf blower",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/leaf-blower/leaf-blower.blend",
+      "native_sha256": "7a2e9dbc478f2e6cc57d008352063f764b87ee533aa4b0c2f0106bd0c5386f84",
+      "source_native_sha256": "7a2e9dbc478f2e6cc57d008352063f764b87ee533aa4b0c2f0106bd0c5386f84",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/leaf-blower/previews/preview.jpg",
+          "sha256": "f90167931c986dec202e8cf632c73de77792579184cf5fa1133af8d1639f589e"
+        },
+        "alternate": {
+          "path": "models/leaf-blower/previews/alternate.jpg",
+          "sha256": "4dad3e027108f8cc41d93215244a70a3bca1edf6098418625986a65480934d2b"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Chartreuse satin with full cream polka dots / exact repeat",
+          "path": "models/leaf-blower/textures/Chartreuse_satin_with_full_cream_polka_dots___exact_repeat__0___exact_repeat.png",
+          "sha256": "14d74b1cf51d0e2cf4652f08d3a0b2a02c14a0dc2607ed35e31d41224f1d7291",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Pattern tile / dots",
+          "path": "models/leaf-blower/textures/Pattern_tile___dots__0___dots.png",
+          "sha256": "134d05404e3f241b31a5d862ce5471b01cc988b6436d0b96ffbd8c68f4d4b7a7",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "birdhouse",
+      "name": "Birdhouse",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/birdhouse/birdhouse.blend",
+      "native_sha256": "ad8ee82d2bc858e817568da50896fa2e5e0423b52ceeccb05489a7813e36b5dd",
+      "source_native_sha256": "ad8ee82d2bc858e817568da50896fa2e5e0423b52ceeccb05489a7813e36b5dd",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/birdhouse/previews/preview.jpg",
+          "sha256": "b8898a845fff04468f016e752f24a2318206304fdf41d2c09d0d2567d7a95d8d"
+        },
+        "alternate": {
+          "path": "models/birdhouse/previews/alternate.jpg",
+          "sha256": "098c0b507fa9222a3a08ab381a63a4aa99e3c4a6cf5f35763505b4f0fd022722"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass19 | earlier633 birdhouse pigment mask (R light / G dark)",
+          "path": "models/birdhouse/textures/Pass19___earlier633_birdhouse_pigment_mask__R_light___G_dark___0__birdhouse-pigment-mask.png",
+          "sha256": "8f492ff739f99e0fcfbb587a27f37a9c7b082a52117f62d7806e3128220f4eaf",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "vase",
+      "name": "Vase",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/vase/vase.blend",
+      "native_sha256": "5d2480aaa809e4daf30b6e6cec774e714305c850fb94853a979bf0ec6a6ced67",
+      "source_native_sha256": "5d2480aaa809e4daf30b6e6cec774e714305c850fb94853a979bf0ec6a6ced67",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/vase/previews/preview.jpg",
+          "sha256": "e458ce5d7bd75c418891aa715e1f2d5b1a8b53d4a6cd3cd9fa0e74902b2ca943"
+        },
+        "alternate": {
+          "path": "models/vase/previews/alternate.jpg",
+          "sha256": "6100e219f7b6a013cf5ea57a01834cbb29a7421f5dbe5d145b5f976c0d185fa1"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Glazed stepped horizontal brick rows / painted repeat",
+          "path": "models/vase/textures/Glazed_stepped_horizontal_brick_rows___painted_repeat__0___painted_repeat.png",
+          "sha256": "99180bb13613c337533b1510070b26402a58b59a0449887ea818acc45be3072f",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": {
+        "path": "models/vase/vase.glb",
+        "sha256": "0e3ec5108ceb00e393d65b482a1ac26dc87b21f1d4da75196ff72df3b5893685"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "planter",
+      "name": "Planter",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/planter/planter.blend",
+      "native_sha256": "22d72564c89b8a822067fb27ed1c36932a44446924add26c614bb843e367f226",
+      "source_native_sha256": "22d72564c89b8a822067fb27ed1c36932a44446924add26c614bb843e367f226",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/planter/previews/preview.jpg",
+          "sha256": "8d69f2cc728c77cb007b944ef71420760bb1efb0eafeda502edabc82e7be3542"
+        },
+        "alternate": {
+          "path": "models/planter/previews/alternate.jpg",
+          "sha256": "53771dee5aa07c32998592ddfaf6c6ff5fe4f85f9617a28a90a17f07598b87e5"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cup",
+      "name": "Ceramic cup",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/cup/cup.blend",
+      "native_sha256": "a01f0ea1f6a45c7a9ba61cd93838c1b993ae9bfedb2207790b5bca49ecf2daa2",
+      "source_native_sha256": "a01f0ea1f6a45c7a9ba61cd93838c1b993ae9bfedb2207790b5bca49ecf2daa2",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cup/previews/preview.jpg",
+          "sha256": "c1623a5588d228eee99acfdda9dbf1e3a193053d2e59ae65c6be85321300de06"
+        },
+        "alternate": {
+          "path": "models/cup/previews/alternate.jpg",
+          "sha256": "11c94d9ae8c00338dd30e2e1a16f14c3a31b7f2fdf2cf3010f8c6ebb727e58c0"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Staggered teal stoneware dots / exact repeat",
+          "path": "models/cup/textures/Staggered_teal_stoneware_dots___exact_repeat__0___exact_repeat.png",
+          "sha256": "2df40bd7b0a6c69a946102d90981f66fb234fb9ae8e03bebf8c677305a04ea4e",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "hose-nozzle",
+      "name": "Hose nozzle",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_green",
+      "native": "models/hose-nozzle/hose-nozzle.blend",
+      "native_sha256": "ca77a4c3b41a01dbe4d582d818948f3ac9cbb3ca5867afbf804d89d12664318a",
+      "source_native_sha256": "ca77a4c3b41a01dbe4d582d818948f3ac9cbb3ca5867afbf804d89d12664318a",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/hose-nozzle/previews/preview.jpg",
+          "sha256": "7ae616d262fa5f73babc4e2d4bd32043e2f744a7ef7b3ed576c9dc28217c4316"
+        },
+        "alternate": {
+          "path": "models/hose-nozzle/previews/alternate.jpg",
+          "sha256": "c2d31583fb6cabc689155625105e56f6d6f88eaaea806225191c478562c83f1e"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "26-hose-nozzle.png",
+          "path": "models/hose-nozzle/textures/26-hose-nozzle.png__0__26-hose-nozzle.png",
+          "sha256": "fff0266b20c625b8c0b8f9ce0be1e2ebb8185b7dd63b93a981e9e7ef6a4d2552",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "Chartreuse molded plastic dots / exact repeat",
+          "path": "models/hose-nozzle/textures/Chartreuse_molded_plastic_dots___exact_repeat__0___exact_repeat.png",
+          "sha256": "c51e64033bcfa390ac9cad0ff5edfefe78c10f6d4b32416f395efb329b502808",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Glazed stepped horizontal brick rows / painted repeat",
+          "path": "models/hose-nozzle/textures/Glazed_stepped_horizontal_brick_rows___painted_repeat__0___painted_repeat.png",
+          "sha256": "5696d17b4ff84771e1870c7064365a5d413b0342f9240675f6f40d4bf1000593",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Pattern tile / diagonal",
+          "path": "models/hose-nozzle/textures/Pattern_tile___diagonal__0___diagonal.png",
+          "sha256": "8c5613e8b16f4906a532079ba9b267da16c8764a7003f40d375a3849c2edb6d7",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Staggered teal stoneware dots / exact repeat",
+          "path": "models/hose-nozzle/textures/Staggered_teal_stoneware_dots___exact_repeat__0___exact_repeat.png",
+          "sha256": "2df40bd7b0a6c69a946102d90981f66fb234fb9ae8e03bebf8c677305a04ea4e",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "basket",
+      "name": "Basket",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/basket/basket.blend",
+      "native_sha256": "1e25e0af4a4481970745e8d68e66ca9b0abd12cfa5e714571af0cb5adb6c5e9d",
+      "source_native_sha256": "1e25e0af4a4481970745e8d68e66ca9b0abd12cfa5e714571af0cb5adb6c5e9d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/basket/previews/preview.jpg",
+          "sha256": "145c52107559e4304b4171ed3e7212ae18ffb95871d41f61da706a0c15b25cea"
+        },
+        "alternate": {
+          "path": "models/basket/previews/alternate.jpg",
+          "sha256": "5c1aad463d0bcfb6bef83e10c572121724064a161d0f5aecdbd8d4e13f4e3588"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "pitcher",
+      "name": "Pitcher",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/pitcher/pitcher.blend",
+      "native_sha256": "b3e2bb37dee31a62f6719c56cc9735413353c850b701d5399c312f2b38069578",
+      "source_native_sha256": "b3e2bb37dee31a62f6719c56cc9735413353c850b701d5399c312f2b38069578",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/pitcher/previews/preview.jpg",
+          "sha256": "5f166506ba1406a3dfed6cb13c94d2794bc3b545902ea1951fd78bd8fe5008c0"
+        },
+        "alternate": {
+          "path": "models/pitcher/previews/alternate.jpg",
+          "sha256": "bb81f23e8e85d01691d370654422a23c27d76eeabc4f9c5d8332c1a323fd1295"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pattern tile / stripes",
+          "path": "models/pitcher/textures/Pattern_tile___stripes__0___stripes.png",
+          "sha256": "8e36c916b3d4f75d0d6d470816c1ab02e48f8b410fc770669803e339963919ba",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "pruning-shears",
+      "name": "Pruning shears",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/pruning-shears/pruning-shears.blend",
+      "native_sha256": "101c016a1f3ea024c01c7cbc0ac6fbe19a6baabb5c60d614e3917c820c5c7ce9",
+      "source_native_sha256": "101c016a1f3ea024c01c7cbc0ac6fbe19a6baabb5c60d614e3917c820c5c7ce9",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/pruning-shears/previews/preview.jpg",
+          "sha256": "e3730f3112445d74be26eff4db42b763b18d851b364d55da7afb888331b66413"
+        },
+        "alternate": {
+          "path": "models/pruning-shears/previews/alternate.jpg",
+          "sha256": "3522bcd415c471d3efa719b4333659fea77956db77e63fbd4d5a9011ee4deb67"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "acrylic-ring",
+      "name": "Acrylic ring",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_blue",
+      "native": "models/acrylic-ring/acrylic-ring.blend",
+      "native_sha256": "7e82e73c066c54f30fa7a1ba0a9dbe736d5840b0c1a8741024bd4453f4468451",
+      "source_native_sha256": "7e82e73c066c54f30fa7a1ba0a9dbe736d5840b0c1a8741024bd4453f4468451",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/acrylic-ring/previews/preview.jpg",
+          "sha256": "9edcc0fcda1a1d269805eb37bb5c4895d56521fca1ee727a456b1cd929392c21"
+        },
+        "alternate": {
+          "path": "models/acrylic-ring/previews/alternate.jpg",
+          "sha256": "ea242d9a2781f517df838091bb92a72e4e421502d1ec9a8c35d717405882ea50"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "jeans",
+      "name": "Denim jeans, folded",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/jeans/jeans.blend",
+      "native_sha256": "8e9594ac563b8716c2e6b7653162da104ee83e842f1ccc491e7468664ac4c196",
+      "source_native_sha256": "8e9594ac563b8716c2e6b7653162da104ee83e842f1ccc491e7468664ac4c196",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/jeans/previews/preview.jpg",
+          "sha256": "fc0483e1ddf99f90d05fafc529a8174099d594d8d16e12200bbf7f919ba6b292"
+        },
+        "alternate": {
+          "path": "models/jeans/previews/alternate.jpg",
+          "sha256": "128f196d9fb7dd60edba539e8388285154be5a9e73ad7dd865092d510ee2619e"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Warm pink dots on pale denim / exact graphic",
+          "path": "models/jeans/textures/Warm_pink_dots_on_pale_denim___exact_graphic__0___exact_graphic.png",
+          "sha256": "1b335ff5bf6eb914dd65a1c822021cb77d3e58ed11d048f0be9eb8baffcd7818",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cap",
+      "name": "Baseball cap",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_blue",
+      "native": "models/cap/cap.blend",
+      "native_sha256": "4425828ee7f1d9f14f6009d9ba6e0c671d17b005c2c66e287c5ca478fdc77525",
+      "source_native_sha256": "4425828ee7f1d9f14f6009d9ba6e0c671d17b005c2c66e287c5ca478fdc77525",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cap/previews/preview.jpg",
+          "sha256": "c4297d1d8a80c19f29212f03d6307fdf020e1a6db982c07ce9f7a75e8dbda826"
+        },
+        "alternate": {
+          "path": "models/cap/previews/alternate.jpg",
+          "sha256": "39090cc5755c3bbceaffba52b19e5eb89f60a86d9bd336143c74756c16c47cd1"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Cap visor / recovered two-color cloth",
+          "path": "models/cap/textures/Cap_visor___recovered_two-color_cloth__0___recovered_two-color_cloth.png",
+          "sha256": "afe6fa227ca779876b7d309fce8f10e58373ce7a773d85aac5f80d4b6bdc2369",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "wallet",
+      "name": "Wallet",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/wallet/wallet.blend",
+      "native_sha256": "11be256830da24bda760a44244990b7f8ce8d5159e289ad85d31ba28f92a6e2f",
+      "source_native_sha256": "11be256830da24bda760a44244990b7f8ce8d5159e289ad85d31ba28f92a6e2f",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/wallet/previews/preview.jpg",
+          "sha256": "6b09c456beca48065c02a1a6bf05344fd499d57b46d3cd61162d603c5bc6d81a"
+        },
+        "alternate": {
+          "path": "models/wallet/previews/alternate.jpg",
+          "sha256": "550b452329cab38a73ccf0d1063ce38a8a7e4fd1b9de1826f14f6f43edf433d0"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Reference-aligned orange and warm brown leather stripes / exact graphic",
+          "path": "models/wallet/textures/Reference-aligned_orange_and_warm_brown_leather_stripes___exact_graphic__0___exact_graphic.png",
+          "sha256": "f4445819a02fb3717390c60086ab264318ed461652fb2be79f1fa18d7b21d9c2",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "tote-bag",
+      "name": "Tote bag",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/tote-bag/tote-bag.blend",
+      "native_sha256": "544a432891474f91bfb70793893d7e644403ba9bb4cec003e76cf839847aaf14",
+      "source_native_sha256": "544a432891474f91bfb70793893d7e644403ba9bb4cec003e76cf839847aaf14",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/tote-bag/previews/preview.jpg",
+          "sha256": "878bf5365452677a5bfa9aabfb5e3a7e2cc3a66730bd39b4be7b75ba010d7b44"
+        },
+        "alternate": {
+          "path": "models/tote-bag/previews/alternate.jpg",
+          "sha256": "997ca2aee07ac1a5035213e2aa4c3a38c8e3491fd764014eed81234bf57bed5e"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Front artwork boundaries",
+          "path": "models/tote-bag/textures/Front_artwork_boundaries__0__Front_artwork_boundaries.png",
+          "sha256": "8380384e56112ad2f9d75d4ec90017ba82864e6480d4a8e05d6caac97d1bbce0",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "t-shirt",
+      "name": "T-shirt, folded",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_blue",
+      "native": "models/t-shirt/t-shirt.blend",
+      "native_sha256": "52dc975ada1c24436c328eadfaa60a7d280b4959b4ad5ee55221a312ff3362f3",
+      "source_native_sha256": "52dc975ada1c24436c328eadfaa60a7d280b4959b4ad5ee55221a312ff3362f3",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/t-shirt/previews/preview.jpg",
+          "sha256": "e258dc58194db751b0075d158a26326a0a9712b8aecb011572a6a18815cae69c"
+        },
+        "alternate": {
+          "path": "models/t-shirt/previews/alternate.jpg",
+          "sha256": "5d2bf574df7a67f04e46d8f41265a57f512eea5e5f4643374dc0e57e7811a617"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "sneaker",
+      "name": "Sneaker",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "cream_blue",
+      "native": "models/sneaker/sneaker.blend",
+      "native_sha256": "253bc28afed9c4ba71d7364a800fe2a995605ce3918d32eeee84a792f9c5fe2b",
+      "source_native_sha256": "253bc28afed9c4ba71d7364a800fe2a995605ce3918d32eeee84a792f9c5fe2b",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/sneaker/previews/preview.jpg",
+          "sha256": "dc1581445c7b52911ec3e908d60ff9b07fbcd5525b51c5ab7b9a96b2b5ae2079"
+        },
+        "alternate": {
+          "path": "models/sneaker/previews/alternate.jpg",
+          "sha256": "effc6f53f665beae569caedb8fc4d444154b4c4649bfda0d48f897d2c23bb813"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Complete_Ink_Circles.png",
+          "path": "models/sneaker/textures/Complete_Ink_Circles.png__0__Complete_Ink_Circles.png",
+          "sha256": "7f87e2555484bc9ccc5ce5208f62fe784ae0b07e0ee94c7e3b44e6c122c1acf9",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "bowling-ball",
+      "name": "Bowling ball",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_blue",
+      "native": "models/bowling-ball/bowling-ball.blend",
+      "native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+      "source_native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/bowling-ball/previews/preview.jpg",
+          "sha256": "700e75f044a19d01ff965018adfb86c953ce00b230648be0800ee6c2d2b88e95"
+        },
+        "alternate": {
+          "path": "models/bowling-ball/previews/alternate.jpg",
+          "sha256": "c3b0c8aa7b7537874726ad3745ab0cf266723b6c6117dbc1b6502120b921cf4b"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "piano",
+      "name": "Upright piano",
+      "category": "Furniture / Sporting Goods",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/piano/piano.blend",
+      "native_sha256": "478d091dc07bcd7fab3754c28ea47cfc0e5facf301f7f019f73fd2d3c0a8c745",
+      "source_native_sha256": "478d091dc07bcd7fab3754c28ea47cfc0e5facf301f7f019f73fd2d3c0a8c745",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/piano/previews/preview.jpg",
+          "sha256": "fa206ef78452fdeaf81c88e995563c4cdddebd867421e09a91b835d710a8e654"
+        },
+        "alternate": {
+          "path": "models/piano/previews/alternate.jpg",
+          "sha256": "04ef9495e313039dc833565877c6e616bc6761ace02122508434829368bbdbd2"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "piano_WavyChecker_BaseColor_2K.png",
+          "path": "models/piano/textures/piano_WavyChecker_BaseColor_2K.png__0__piano_WavyChecker_BaseColor_2K.png",
+          "sha256": "f7a6e6d57bc9327e18cd72632d78f0cf6b17a55927abef56252ad8af4fe30161",
+          "packed": true,
+          "color_space": "sRGB"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "socks",
+      "name": "Socks",
+      "category": "Apparel & Accessories",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "mint_green",
+      "native": "models/socks/socks.blend",
+      "native_sha256": "804c0c2ec1a6d8ede46f6eb0ff63292d2f4a14803b68275fa68d2e58e7c10965",
+      "source_native_sha256": "804c0c2ec1a6d8ede46f6eb0ff63292d2f4a14803b68275fa68d2e58e7c10965",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/socks/previews/preview.jpg",
+          "sha256": "5ac3ded6fd3ddc3fd0a4ba9befef8eb7d40bd582f2e42bba0013de4d4ed43f2a"
+        },
+        "alternate": {
+          "path": "models/socks/previews/alternate.jpg",
+          "sha256": "ba1c1b545f0b40ad34d218ad34b7aa6e0e8028c586098655fa9df52d7781d279"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "socks_Albedo_2x4K.png",
+          "path": "models/socks/textures/socks_Albedo_2x4K.png__0__socks_Albedo_2x4K.png",
+          "sha256": "2f1ab32fc384af6865ae60df1d72ba20417b2b0325dd317033d7df4c63f1348c",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "socks_KnitNormal_2x4K.png",
+          "path": "models/socks/textures/socks_KnitNormal_2x4K.png__0__socks_KnitNormal_2x4K.png",
+          "sha256": "333ad7aa0881cb95c0dc0385e22db1e77627720e971ce91ef01f8849a4c9f638",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "stapler",
+      "name": "Stapler",
+      "category": "Office Supplies",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/stapler/stapler.blend",
+      "native_sha256": "da60be425373a270a22cb9166e3483415f405cc72b0a41d8f7ca240e9b456815",
+      "source_native_sha256": "da60be425373a270a22cb9166e3483415f405cc72b0a41d8f7ca240e9b456815",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/stapler/previews/preview.jpg",
+          "sha256": "80ead02f4169c8305fc9227a7543f14de4716337ec820ced1d495eb721aa79ce"
+        },
+        "alternate": {
+          "path": "models/stapler/previews/alternate.jpg",
+          "sha256": "7d28042833ee2adccf258791b5d96a768f57167d01e6ece063b5c1b506dcb843"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "stapler_RibbonAlbedo_4x2K.png",
+          "path": "models/stapler/textures/stapler_RibbonAlbedo_4x2K.png__0__stapler_RibbonAlbedo_4x2K.png",
+          "sha256": "8b97b9f89fa0fdfa8876ea7247ebe814205f9428798e4c0cf5a455b7073a7ead",
+          "packed": true,
+          "color_space": "sRGB"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cassette-player",
+      "name": "Cassette player",
+      "category": "Cameras & Optics / Electronics",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_blue",
+      "native": "models/cassette-player/cassette-player.blend",
+      "native_sha256": "4a4078f4186671bf054c63e2681e99910c961dd3618d92e0506413c4e30c2e0a",
+      "source_native_sha256": "4a4078f4186671bf054c63e2681e99910c961dd3618d92e0506413c4e30c2e0a",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cassette-player/previews/preview.jpg",
+          "sha256": "2b70bb9dc6a54fcac46553ae53e4c345bd825ce3abefbbe77a5a106c38894030"
+        },
+        "alternate": {
+          "path": "models/cassette-player/previews/alternate.jpg",
+          "sha256": "8a6d45b574e676fd6ff6c3a9587c29243fa0939ab95d2f085ac0ce5014ee7aa5"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "cassette-player_checker_BaseColor.png",
+          "path": "models/cassette-player/textures/cassette-player_checker_BaseColor.png__0__cassette-player_checker_BaseColor.png",
+          "sha256": "eb58a4719284e263c022bc9abb6504eacd4dd39ca844c727cbef78f8f2607b30",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "cassette-player_MoldedPlastic_Normal.png",
+          "path": "models/cassette-player/textures/cassette-player_MoldedPlastic_Normal.png__0__cassette-player_MoldedPlastic_Normal.png",
+          "sha256": "1eef662facf22e56f490b19291d7a9c7c613b9d4fec5fd0c8073935577a0d402",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "toaster",
+      "name": "Toaster",
+      "category": "Home & Garden",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple",
+      "native": "models/toaster/toaster.blend",
+      "native_sha256": "370719c76bf468a5a23c70c7df97c15846ddefc5c8bf1eef62f790fabf1ed13d",
+      "source_native_sha256": "370719c76bf468a5a23c70c7df97c15846ddefc5c8bf1eef62f790fabf1ed13d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/toaster/previews/preview.jpg",
+          "sha256": "333232274a9c9435fa041ac45816716b85bd384032a4ce9d06e0565a0f599d36"
+        },
+        "alternate": {
+          "path": "models/toaster/previews/alternate.jpg",
+          "sha256": "2d92d39a08d53742c5942a0c960cd6fb22c8f2cf0d4c7fba8c39da1cbd498522"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "toaster_MoldedPlastic_Normal.png",
+          "path": "models/toaster/textures/toaster_MoldedPlastic_Normal.png__0__toaster_MoldedPlastic_Normal.png",
+          "sha256": "1eef662facf22e56f490b19291d7a9c7c613b9d4fec5fd0c8073935577a0d402",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "toaster_SlotInterior_Occlusion.png",
+          "path": "models/toaster/textures/toaster_SlotInterior_Occlusion.png__0__toaster_SlotInterior_Occlusion.png",
+          "sha256": "ce42810b6005f7b1136dd07a53ddfafc67ea49c5eedd651c63e40e111eab046e",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "toaster_waves_BaseColor.png",
+          "path": "models/toaster/textures/toaster_waves_BaseColor.png__0__toaster_waves_BaseColor.png",
+          "sha256": "99d9172c5eddacf5442dba439e6d016643567a0023045975c2b4e942762c3b98",
+          "packed": true,
+          "color_space": "sRGB"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "yarn",
+      "name": "Yarn",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "coral_green",
+      "native": "models/yarn/yarn.blend",
+      "native_sha256": "c38c0c9e561ce8359311e342872005a32334987eae4dc0fdf3a591a712332f79",
+      "source_native_sha256": "c38c0c9e561ce8359311e342872005a32334987eae4dc0fdf3a591a712332f79",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/yarn/previews/preview.jpg",
+          "sha256": "ff211d464a0b9d2a26b12936242057cf47053a1a130883e6555a2b0739e197d0"
+        },
+        "alternate": {
+          "path": "models/yarn/previews/alternate.jpg",
+          "sha256": "d3382a613b05d94ed1a16188274846a2239e611082edf16aee1e1e7d35838247"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_a2c70961-c62b-48c8-93ec-61fd1f880244",
+          "path": "models/yarn/textures/Color_a2c70961-c62b-48c8-93ec-61fd1f880244__0__Color_a2c70961-c62b-48c8-93ec-61fd1f880244.png",
+          "sha256": "d26ff5cb331d4786088b39ce63dafe0b8c6451dc60d6e03a95f6190754bf707a",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_a2c70961-c62b-48c8-93ec-61fd1f880244",
+          "path": "models/yarn/textures/NormalGL_a2c70961-c62b-48c8-93ec-61fd1f880244__0__NormalGL_a2c70961-c62b-48c8-93ec-61fd1f880244.png",
+          "sha256": "881210fc9e40a581e4ef4db54ef0115e218308992115fe9896030a53d2e40079",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_a2c70961-c62b-48c8-93ec-61fd1f880244",
+          "path": "models/yarn/textures/ORM_a2c70961-c62b-48c8-93ec-61fd1f880244__0__ORM_a2c70961-c62b-48c8-93ec-61fd1f880244.png",
+          "sha256": "b55460aedae53095e9d19daa37f604850c82509a564c5b55b498f46054fa0920",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "scarf",
+      "name": "Scarf",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/scarf/scarf.blend",
+      "native_sha256": "063ed44f890c75b2ca72f8b33f96b521be3338ac4b0ff43730c87351c30f35f6",
+      "source_native_sha256": "063ed44f890c75b2ca72f8b33f96b521be3338ac4b0ff43730c87351c30f35f6",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/scarf/previews/preview.jpg",
+          "sha256": "30dc35f1304dd2606f8d91a241504c422858f3e1082f7a54e5906c6677f9d5e9"
+        },
+        "alternate": {
+          "path": "models/scarf/previews/alternate.jpg",
+          "sha256": "86183408d9f6401a664e58ea31a179e2fc214884119068c08293f792dbaf6c29"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/scarf/scarf.glb",
+        "sha256": "326b6263b50e07dd3b1185fc7c07a57ae36c1535085f99cac7352699f0563888"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "beanie",
+      "name": "Beanie",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/beanie/beanie.blend",
+      "native_sha256": "f9a59483684b03fcb7fbabd39668e12b0fd7a37988182fd47395fc5cab311b0a",
+      "source_native_sha256": "f9a59483684b03fcb7fbabd39668e12b0fd7a37988182fd47395fc5cab311b0a",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/beanie/previews/preview.jpg",
+          "sha256": "99a48eff2212363fdad30bb4b25eea5d887df73903eae3189ecac4feb9b33438"
+        },
+        "alternate": {
+          "path": "models/beanie/previews/alternate.jpg",
+          "sha256": "39ef35bd79159da1054235d790144c3b8faf27da47ebcf7aac1752756ffe06d4"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass14 | cuff rib loop tile 16x24 (knit V + purl courses)",
+          "path": "models/beanie/textures/Pass14___cuff_rib_loop_tile_16x24__knit_V___purl_courses___0__pass14_cuff_rib_loop_tile_16x24.png",
+          "sha256": "0f6f165a9c6076a6d4678eb18dd0c4719b29eedc4827f8870991e52940c3ba68",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Pass14 | knit stitch tile v2 16x24 (R height, G stitch tone)",
+          "path": "models/beanie/textures/Pass14___knit_stitch_tile_v2_16x24__R_height__G_stitch_tone___0__pass14_knit_stitch_tile_v2_16x24.png",
+          "sha256": "c54236b7bdc292704f51274ceb0cafba13d0a0c1dc9e47ffe603ed692104f59c",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": {
+        "path": "models/beanie/beanie.glb",
+        "sha256": "063ed3a495524856f0efd8fe241515d7fdf7a1f0f4e32d92d317897574793777"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "fabric-roll",
+      "name": "Fabric Roll",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/fabric-roll/fabric-roll.blend",
+      "native_sha256": "d795dd6ed2567183abbae5e184f4ba3d7bb7a6de7b06a19749eb83c3a6e5f198",
+      "source_native_sha256": "d795dd6ed2567183abbae5e184f4ba3d7bb7a6de7b06a19749eb83c3a6e5f198",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/fabric-roll/previews/preview.jpg",
+          "sha256": "7aef742975dba470c304db17169065f3769d4413d6d6b36f993a672e56c710b0"
+        },
+        "alternate": {
+          "path": "models/fabric-roll/previews/alternate.jpg",
+          "sha256": "f902158a36050614fb7798b0cbd9cf78a54050cbc300c3c9966db40192253fbf"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/fabric-roll/fabric-roll.glb",
+        "sha256": "c3f56e31a2cf96320563d2aa9427415210c6040671c2cfdd744fc84c49f5ac94"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "slippers",
+      "name": "Slippers",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_deep_green",
+      "native": "models/slippers/slippers.blend",
+      "native_sha256": "c4467d46415e06ad73bb421c9dbb5c9f1aa3262f2dd9607e756c557434cffbe3",
+      "source_native_sha256": "c4467d46415e06ad73bb421c9dbb5c9f1aa3262f2dd9607e756c557434cffbe3",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/slippers/previews/preview.jpg",
+          "sha256": "160f00583bf6a6a600fbd3478663a0e2682de1441df56b3fcd393bc93f608134"
+        },
+        "alternate": {
+          "path": "models/slippers/previews/alternate.jpg",
+          "sha256": "58bafa5a5548b566fdb4117ecb8d36786677a690752051c71b7a4db92401e3ae"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "mittens",
+      "name": "Mittens",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/mittens/mittens.blend",
+      "native_sha256": "2219dac59b4a61c8a4c21ad0f4c46eb7505647c6b3ffaa1039e48d385ec7058f",
+      "source_native_sha256": "2219dac59b4a61c8a4c21ad0f4c46eb7505647c6b3ffaa1039e48d385ec7058f",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/mittens/previews/preview.jpg",
+          "sha256": "c699650c5595c33915af9fbcebd626fe760806b3a87931cefb69bbc26bfadea8"
+        },
+        "alternate": {
+          "path": "models/mittens/previews/alternate.jpg",
+          "sha256": "e6f15e3773db5049a82ba6bad15811fc16a32ba7cbb1c5ceeabbefcb3df87c29"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "plush-bear",
+      "name": "Plush Bear",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple_deep_purple",
+      "native": "models/plush-bear/plush-bear.blend",
+      "native_sha256": "596b3a6989466453cd4f9509f2e1b91b6ca8728e6aa9e2ce6633b025d06a34c9",
+      "source_native_sha256": "596b3a6989466453cd4f9509f2e1b91b6ca8728e6aa9e2ce6633b025d06a34c9",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/plush-bear/previews/preview.jpg",
+          "sha256": "3fc619ce6f2ef7ab949455851580358efd6470408798e6692d95602230d58969"
+        },
+        "alternate": {
+          "path": "models/plush-bear/previews/alternate.jpg",
+          "sha256": "c45eb66109c0fe402dcf2a76a4061dcdedbcfb5884b7ecdad9c34c80349a14e0"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_bfe59524-675c-49b6-b0ab-889226459833",
+          "path": "models/plush-bear/textures/Color_bfe59524-675c-49b6-b0ab-889226459833__0__Color_bfe59524-675c-49b6-b0ab-889226459833.png",
+          "sha256": "eef7cbd2fb112f1b82478e76880dcd1fce781738794fad2ff279e53e56abf2b5",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_bfe59524-675c-49b6-b0ab-889226459833",
+          "path": "models/plush-bear/textures/NormalGL_bfe59524-675c-49b6-b0ab-889226459833__0__NormalGL_bfe59524-675c-49b6-b0ab-889226459833.png",
+          "sha256": "2a816090f3cd6da46b654c513b03f65c181b87e31ab32863da2574ef022cd3a5",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_bfe59524-675c-49b6-b0ab-889226459833",
+          "path": "models/plush-bear/textures/ORM_bfe59524-675c-49b6-b0ab-889226459833__0__ORM_bfe59524-675c-49b6-b0ab-889226459833.png",
+          "sha256": "bfdfbda23a5c8eef96b449d47276ed8941a12cd7fd506c2d5ea8a682efb9774f",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "sensory-toy",
+      "name": "Sensory Toy",
+      "category": "Custom products",
+      "collection_status": "archived",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "archived/sensory-toy/sensory-toy.blend",
+      "native_sha256": "c2872150cf2a8ffa54c7c6d83c47c9ab9d2589f6d38cea00b50ec605b628e943",
+      "source_native_sha256": "c2872150cf2a8ffa54c7c6d83c47c9ab9d2589f6d38cea00b50ec605b628e943",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "archived/sensory-toy/previews/preview.jpg",
+          "sha256": "cb23c2c405010a69c49d93b7b089ade09c40761c9865c671c7fe19c94162efb0"
+        },
+        "alternate": {
+          "path": "archived/sensory-toy/previews/alternate.jpg",
+          "sha256": "fecf4bf0db47ae394d31b601485140ea439efee6886ad3acbe3cd8f55afe047e"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "chocolate",
+      "name": "Chocolate",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/chocolate/chocolate.blend",
+      "native_sha256": "170eed3a0d76d154d22793230bbd0d748dce4bf67f5ab5ff5e97f5114a732ed8",
+      "source_native_sha256": "170eed3a0d76d154d22793230bbd0d748dce4bf67f5ab5ff5e97f5114a732ed8",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/chocolate/previews/preview.jpg",
+          "sha256": "2dde3173879814dd2184594fb34bc2cded3e3f5bf6c1e1a2916ca31cb698a879"
+        },
+        "alternate": {
+          "path": "models/chocolate/previews/alternate.jpg",
+          "sha256": "c6263876ba7ba7040fed7db3a863bdb3f4231421ba8c83ddeafb7710d2c33205"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/candy/candy.blend",
+      "native_sha256": "e08c1b8e2fb59ae4cf3679a43a8dea81f60b75c325616e7836b8389d78a10e02",
+      "source_native_sha256": "e08c1b8e2fb59ae4cf3679a43a8dea81f60b75c325616e7836b8389d78a10e02",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/candy/previews/preview.jpg",
+          "sha256": "fea7bf1101d59524a263ec80a181528adc47150157b6c665ca3b7727609c7165"
+        },
+        "alternate": {
+          "path": "models/candy/previews/alternate.jpg",
+          "sha256": "b46cdbe4c7f008e9425c3b132a79cdae22debffac93e02533d292747232e1123"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cookies",
+      "name": "Cookies",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/cookies/cookies.blend",
+      "native_sha256": "da8f5e4def11ba0a6e051a365948e29ec063a5018fbf1fa6ea213ab2e4b54f05",
+      "source_native_sha256": "da8f5e4def11ba0a6e051a365948e29ec063a5018fbf1fa6ea213ab2e4b54f05",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cookies/previews/preview.jpg",
+          "sha256": "9b2b201b6c66e65471002f25b1b8d0baa8fa3d706390b0d0b6fceae58cc913e8"
+        },
+        "alternate": {
+          "path": "models/cookies/previews/alternate.jpg",
+          "sha256": "66683cf554e01576cbb64a04e05bb5fa413ca314a6449d2c0722c18d6ba5c14a"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_f12d5219-ee2c-4907-a0df-4734b9af55e9",
+          "path": "models/cookies/textures/Color_f12d5219-ee2c-4907-a0df-4734b9af55e9__0__Color_f12d5219-ee2c-4907-a0df-4734b9af55e9.png",
+          "sha256": "c77a90c0d5e086d04d67a78c48fe6914bfc392cb0c2df280af489ae51de02e81",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_f12d5219-ee2c-4907-a0df-4734b9af55e9",
+          "path": "models/cookies/textures/NormalGL_f12d5219-ee2c-4907-a0df-4734b9af55e9__0__NormalGL_f12d5219-ee2c-4907-a0df-4734b9af55e9.png",
+          "sha256": "200f83c4128a068a0f0228c5ea4e2bf05ad4c307d4d5e4b72a4e58837e2b9c44",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_f12d5219-ee2c-4907-a0df-4734b9af55e9",
+          "path": "models/cookies/textures/ORM_f12d5219-ee2c-4907-a0df-4734b9af55e9__0__ORM_f12d5219-ee2c-4907-a0df-4734b9af55e9.png",
+          "sha256": "a1401152d86b0335a77040b58e3dc0fbcaedd4cf60fe4d6770791d7ec06b254e",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "dog-treat",
+      "name": "Dog Treat",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/dog-treat/dog-treat.blend",
+      "native_sha256": "ebdccfacab7cd1e8ec60bcb6fe7feebdc6d4a43d26b2bd6ec904371418d4aebb",
+      "source_native_sha256": "ebdccfacab7cd1e8ec60bcb6fe7feebdc6d4a43d26b2bd6ec904371418d4aebb",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/dog-treat/previews/preview.jpg",
+          "sha256": "99bfbcd684e4842b226fd6e0232bc05c0034da0d0d70e00ff5b96edc7472a77a"
+        },
+        "alternate": {
+          "path": "models/dog-treat/previews/alternate.jpg",
+          "sha256": "e08ad3afedccbd4aba63c6699145cc99e26b90e93ea5d38778f257d5280b5ab4"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_6c025bf0-4f37-4810-812c-5f247020d96d",
+          "path": "models/dog-treat/textures/Color_6c025bf0-4f37-4810-812c-5f247020d96d__0__Color_6c025bf0-4f37-4810-812c-5f247020d96d.png",
+          "sha256": "bac1c781331b28c11074e40dd6dd7d2289a585a4c1cd994d5ccd47ab556e60dd",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_6c025bf0-4f37-4810-812c-5f247020d96d",
+          "path": "models/dog-treat/textures/NormalGL_6c025bf0-4f37-4810-812c-5f247020d96d__0__NormalGL_6c025bf0-4f37-4810-812c-5f247020d96d.png",
+          "sha256": "30d52949403cfedd668031f8fa48cd1236ce7bcb02451452ba9b373d0d474f69",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_6c025bf0-4f37-4810-812c-5f247020d96d",
+          "path": "models/dog-treat/textures/ORM_6c025bf0-4f37-4810-812c-5f247020d96d__0__ORM_6c025bf0-4f37-4810-812c-5f247020d96d.png",
+          "sha256": "fff9c3348b90353bea773ddd1575ef34e7c51a8e6638bc2fb2adbda13ee582b6",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "bread",
+      "name": "Bread",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/bread/bread.blend",
+      "native_sha256": "c7f85487fab665bc9e42bbfc6068ab90ae6119d3c0c5442c124c27d651e5e240",
+      "source_native_sha256": "c7f85487fab665bc9e42bbfc6068ab90ae6119d3c0c5442c124c27d651e5e240",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/bread/previews/preview.jpg",
+          "sha256": "ffde234fe00df2d9c11f72a625a08087508d27d7fdf37bbfab11390e9b05373e"
+        },
+        "alternate": {
+          "path": "models/bread/previews/alternate.jpg",
+          "sha256": "b1cf22022b34d306b9c25c7d3a69692d0f9ee7b3f2af9444f45f3567a868e6b4"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_664a2eb6-5e5a-4e22-b1ef-eed296cd7509",
+          "path": "models/bread/textures/Color_664a2eb6-5e5a-4e22-b1ef-eed296cd7509__0__Color_664a2eb6-5e5a-4e22-b1ef-eed296cd7509.png",
+          "sha256": "8e179802475bd33ee397fd39799cde63b558273970b7a09ce0f13f7ff9715acf",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_664a2eb6-5e5a-4e22-b1ef-eed296cd7509",
+          "path": "models/bread/textures/NormalGL_664a2eb6-5e5a-4e22-b1ef-eed296cd7509__0__NormalGL_664a2eb6-5e5a-4e22-b1ef-eed296cd7509.png",
+          "sha256": "3fc7353b5515d16dd1f8d3609f9ae47d7d08b3dd08022cb01aafe9bc2a28fd2c",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_664a2eb6-5e5a-4e22-b1ef-eed296cd7509",
+          "path": "models/bread/textures/ORM_664a2eb6-5e5a-4e22-b1ef-eed296cd7509__0__ORM_664a2eb6-5e5a-4e22-b1ef-eed296cd7509.png",
+          "sha256": "52cfbc378ac8edde718499984e9ac7982e1c215689e0aa66e4c1974266f85af2",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cake",
+      "name": "Cake",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "lilac-orange",
+      "native": "models/cake/cake.blend",
+      "native_sha256": "a0fa5bbb4043b6e058c877b49807f8a7a3c0287ce0730d2e84815d77097185f2",
+      "source_native_sha256": "a0fa5bbb4043b6e058c877b49807f8a7a3c0287ce0730d2e84815d77097185f2",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/cake/previews/preview.jpg",
+          "sha256": "d82feb9c30fcbcf3c38fb0be88277a1feaadf11cddcaff505266d4e46ef58190"
+        },
+        "alternate": {
+          "path": "models/cake/previews/alternate.jpg",
+          "sha256": "ed3b0a2b0bd82a397c2443374e0be71a25d10babcf65bc31b97915f30251d836"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cheese",
+      "name": "Cheese",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/cheese/cheese.blend",
+      "native_sha256": "bf9706c5b7e197e6a2083b20e0519db29444b7f61646e1fc593a59b5653087af",
+      "source_native_sha256": "bf9706c5b7e197e6a2083b20e0519db29444b7f61646e1fc593a59b5653087af",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cheese/previews/preview.jpg",
+          "sha256": "fb3b39f93d2e90d89902678161e3d4fd0f929f86a6ad8e5c437c3dcee4445356"
+        },
+        "alternate": {
+          "path": "models/cheese/previews/alternate.jpg",
+          "sha256": "9a3ff8d1977ce241d9fffc23e6fe871b2e471520b5f6cc57408b117c158553ea"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "meal-tray",
+      "name": "Meal Tray",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/meal-tray/meal-tray.blend",
+      "native_sha256": "d4bc91c67d49320e91c089bd73ba4ca5d8f411ce84dfbb5866f185e33733dfe7",
+      "source_native_sha256": "d4bc91c67d49320e91c089bd73ba4ca5d8f411ce84dfbb5866f185e33733dfe7",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/meal-tray/previews/preview.jpg",
+          "sha256": "cf0d0fc0923e3e3607e4b25f8f2b0fc69da6eba9828ad7f7ba6b566a7465201e"
+        },
+        "alternate": {
+          "path": "models/meal-tray/previews/alternate.jpg",
+          "sha256": "4d71f784cf9e705eb4ace749e35a4f79d4875e0c6577a59d60a003b432ab6858"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "open-book",
+      "name": "Open Book",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/open-book/open-book.blend",
+      "native_sha256": "42fde2126e41e2909b19b0507a8b81365e45cf67261dc80ce8ed7e2779e7c61b",
+      "source_native_sha256": "42fde2126e41e2909b19b0507a8b81365e45cf67261dc80ce8ed7e2779e7c61b",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/open-book/previews/preview.jpg",
+          "sha256": "d3d9bc6954084d3440954026facd0d3b942a4af0dc55fd0241dfc3fee074dbfe"
+        },
+        "alternate": {
+          "path": "models/open-book/previews/alternate.jpg",
+          "sha256": "4d53058933795986c5ac3f75c97c00c4cc822d29f7e4c20e35f76d65416460be"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "board-game",
+      "name": "Board Game",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/board-game/board-game.blend",
+      "native_sha256": "1950a90408b7c5f50e31bcde4d0d33f487b5c554fc22b25d6ae6142725054b39",
+      "source_native_sha256": "1950a90408b7c5f50e31bcde4d0d33f487b5c554fc22b25d6ae6142725054b39",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/board-game/previews/preview.jpg",
+          "sha256": "e31437b0951dcbfe7becab04e6208e68d6bdacd7234485bc12362623cef4edac"
+        },
+        "alternate": {
+          "path": "models/board-game/previews/alternate.jpg",
+          "sha256": "1fda9760031dcf5aebec7d525e7b2dba41c700231b673597a7fb4598bbcdd4a8"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "gaming-cards",
+      "name": "Gaming Cards",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple_deep_purple",
+      "native": "models/gaming-cards/gaming-cards.blend",
+      "native_sha256": "aacf1508f6eec53f71db2520e87f9f95a148faf992dadf61db19e24d5a7b0868",
+      "source_native_sha256": "aacf1508f6eec53f71db2520e87f9f95a148faf992dadf61db19e24d5a7b0868",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/gaming-cards/previews/preview.jpg",
+          "sha256": "94e275ffaca442e464d34f750c541861d539b1f7e3e6c0cd8920c596473742cd"
+        },
+        "alternate": {
+          "path": "models/gaming-cards/previews/alternate.jpg",
+          "sha256": "cae47f04b3d96f4b2e10c3303abaff77f497206dd9895bf2c3e9649071f4b45f"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "advent-calendar",
+      "name": "Advent Calendar",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/advent-calendar/advent-calendar.blend",
+      "native_sha256": "b634208afb5dadf49106c72592dfee16d861a7b29ef25d9cb1031d48b12878e2",
+      "source_native_sha256": "b634208afb5dadf49106c72592dfee16d861a7b29ef25d9cb1031d48b12878e2",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/advent-calendar/previews/preview.jpg",
+          "sha256": "acd50a83026435dd52b5a2a7e193f981b85829562ee218929b3a0ec057495df8"
+        },
+        "alternate": {
+          "path": "models/advent-calendar/previews/alternate.jpg",
+          "sha256": "d8d4fc8c60633e41f1bb9cacb9ec36e493bc8b0d8e2e6cb8a2c04ad8da5f9682"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "headlamp",
+      "name": "Headlamp",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/headlamp/headlamp.blend",
+      "native_sha256": "51961930e8c02e31421f84bae298005a3081f779b487c6de962a661efaef5e41",
+      "source_native_sha256": "51961930e8c02e31421f84bae298005a3081f779b487c6de962a661efaef5e41",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/headlamp/previews/preview.jpg",
+          "sha256": "68a557e5d9e2b90a1e67b7a067628260d9bb64f60aa4e5484f72753f4f222222"
+        },
+        "alternate": {
+          "path": "models/headlamp/previews/alternate.jpg",
+          "sha256": "f041d357cd7b941fb941cf352512f8d02659954a7ae89dd89df68d48f5abd126"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/headlamp/headlamp.glb",
+        "sha256": "9571476fccbf992c6da072c34e72fc963dbe9b3e47dc6dae607d32ddb0326db2"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "filter-straw",
+      "name": "Filter Straw",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/filter-straw/filter-straw.blend",
+      "native_sha256": "a10859815cb425ce2cb483aa235dce5f4f0e539721ab63d1f9247a2133bd0eaa",
+      "source_native_sha256": "a10859815cb425ce2cb483aa235dce5f4f0e539721ab63d1f9247a2133bd0eaa",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/filter-straw/previews/preview.jpg",
+          "sha256": "9303918fb4f25d7f8ad4a6609350596fba528f825086f4cd2dc83c14038457f3"
+        },
+        "alternate": {
+          "path": "models/filter-straw/previews/alternate.jpg",
+          "sha256": "1cc3882aca59c9f8167c839b5d3981ee7a0c96a4712d5d7526b03885060c02cc"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "air-freshener",
+      "name": "Air Freshener",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple_deep_purple",
+      "native": "models/air-freshener/air-freshener.blend",
+      "native_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+      "source_native_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/air-freshener/previews/preview.jpg",
+          "sha256": "6dbc6633610e65d0b11f9d7cfb74ba9b92891c455ec35a80ce38bf1dc31132a7"
+        },
+        "alternate": {
+          "path": "models/air-freshener/previews/alternate.jpg",
+          "sha256": "00e0d55d40ac411867e71c3fdcc6d1740353c3c9e7569e4d5475a1bde94dc9f3"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "beverage-mix",
+      "name": "Beverage Mix",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/beverage-mix/beverage-mix.blend",
+      "native_sha256": "7e101a22a86a9e4fada8c89e600a61b7699849730166087f88f8b4f77847a568",
+      "source_native_sha256": "7e101a22a86a9e4fada8c89e600a61b7699849730166087f88f8b4f77847a568",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/beverage-mix/previews/preview.jpg",
+          "sha256": "feef7dd6c1edda54cee5758b9805cd63ed2f7a445d333859ae60624c4189bd35"
+        },
+        "alternate": {
+          "path": "models/beverage-mix/previews/alternate.jpg",
+          "sha256": "a4d1042d83922893a17111e0f2b2aa2cbbe3c1d825b0f02976b2ea595dce1e55"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "mascara",
+      "name": "Mascara",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple_deep_purple",
+      "native": "models/mascara/mascara.blend",
+      "native_sha256": "e2ff497357d4ec8d43239490cea42154e6582d8c9d3a9a66fc68bd84a1fff855",
+      "source_native_sha256": "e2ff497357d4ec8d43239490cea42154e6582d8c9d3a9a66fc68bd84a1fff855",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/mascara/previews/preview.jpg",
+          "sha256": "bb7f63dc39cb3a5477fc82a7d8419e8ffda22de340a833562587a60fc008ef15"
+        },
+        "alternate": {
+          "path": "models/mascara/previews/alternate.jpg",
+          "sha256": "93b46987614c90e4f0fa4c3f3bb17b5c4a7e496ec93ce40269e0f8b2329d8337"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "makeup-brush",
+      "name": "Makeup Brush",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint_deep_green",
+      "native": "models/makeup-brush/makeup-brush.blend",
+      "native_sha256": "239a3699487a39ec58dfbf48e77b13f6aa00db20d6dbb7e43ce4aa3feabe55b8",
+      "source_native_sha256": "239a3699487a39ec58dfbf48e77b13f6aa00db20d6dbb7e43ce4aa3feabe55b8",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/makeup-brush/previews/preview.jpg",
+          "sha256": "1c5f2c73acd157a293f2a60bdc39dd98bbd84bf8c03b312527306596aba11a48"
+        },
+        "alternate": {
+          "path": "models/makeup-brush/previews/alternate.jpg",
+          "sha256": "61573c21ad336866e64f2dafd9afe66eee5cb76aa01c5482bf9553a4bd72b65b"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "nail-polish",
+      "name": "Nail Polish",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/nail-polish/nail-polish.blend",
+      "native_sha256": "6c3df2675b5dda4c45303afe0bd92a18f23bd1c2e96f5d64d32adbcb964effc4",
+      "source_native_sha256": "6c3df2675b5dda4c45303afe0bd92a18f23bd1c2e96f5d64d32adbcb964effc4",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/nail-polish/previews/preview.jpg",
+          "sha256": "d5cf0508840840d0973dbb86a0473fa3d3d01cddc6ce2b9ddb2c6d7598c2cd33"
+        },
+        "alternate": {
+          "path": "models/nail-polish/previews/alternate.jpg",
+          "sha256": "259e9e688695c47f37b3673c6a6d7bc45e5ed3da9e97a37178311a4f9a8cdd46"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "lab-glassware",
+      "name": "Maple syrup flask",
+      "category": "Syrups",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "models/lab-glassware/lab-glassware.blend",
+      "native_sha256": "93cd13d1b7292aeb60180f862494997ca7b042ff587d370de9f32f8aaf52698a",
+      "source_native_sha256": "93cd13d1b7292aeb60180f862494997ca7b042ff587d370de9f32f8aaf52698a",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/lab-glassware/previews/preview.jpg",
+          "sha256": "e6125fe4e5f34d86b046431c01524b2599f259da86d38fcd520e3fef04b797e4"
+        },
+        "alternate": {
+          "path": "models/lab-glassware/previews/alternate.jpg",
+          "sha256": "726f7a3b056f09b59d82a0270484a5721ff266ffc1b2af8c884b01cda77be25a"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "holiday-ornament",
+      "name": "Holiday Ornament",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac_orange",
+      "native": "models/holiday-ornament/holiday-ornament.blend",
+      "native_sha256": "5fd5ebec688cc31feb41d0fe1793df65de956102704376e3b871e592c0914ac3",
+      "source_native_sha256": "5fd5ebec688cc31feb41d0fe1793df65de956102704376e3b871e592c0914ac3",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/holiday-ornament/previews/preview.jpg",
+          "sha256": "7f6efcbcc3ab8bdc7cfdb8a07a539b2b1ee5b59c2d5f0449790780affcaba637"
+        },
+        "alternate": {
+          "path": "models/holiday-ornament/previews/alternate.jpg",
+          "sha256": "06f9f033b567ccf25a78d4fb37978331264d7d037d63a056daafdb64d9a2f358"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "keychain",
+      "name": "Keychain",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple_deep_purple",
+      "native": "models/keychain/keychain.blend",
+      "native_sha256": "9c072aab6e644d5e0699a77632ab86a2c54ee4000ccf86de45ee8b3ec803e310",
+      "source_native_sha256": "9c072aab6e644d5e0699a77632ab86a2c54ee4000ccf86de45ee8b3ec803e310",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/keychain/previews/preview.jpg",
+          "sha256": "11bdd008af37a0a445ec92ab3df3113f7cfdc1c34407f7fab4293b65539b0af4"
+        },
+        "alternate": {
+          "path": "models/keychain/previews/alternate.jpg",
+          "sha256": "d5430c8a217a57d26bd96c7b32c3df09fb66148f6b7e559a542de4041f38749f"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "necklace",
+      "name": "Necklace",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/necklace/necklace.blend",
+      "native_sha256": "9fbaf406e0c58ce6bf562eb71322f27c49298c8899445d73200f06ac2975e295",
+      "source_native_sha256": "9fbaf406e0c58ce6bf562eb71322f27c49298c8899445d73200f06ac2975e295",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/necklace/previews/preview.jpg",
+          "sha256": "9a107fdb7d9a75d8959e8c4469845b19f8a3f6d8d6264178dbe50ace0d8a1bca"
+        },
+        "alternate": {
+          "path": "models/necklace/previews/alternate.jpg",
+          "sha256": "fcb5a57f9fb44ee55ed86fce9c315dcde42d883a1a1fa030a3ff7639a4877123"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Pass19 | BFCM block grid tile (pattern 4, ink mask)",
+          "path": "models/necklace/textures/Pass19___BFCM_block_grid_tile__pattern_4__ink_mask___0__Pass19___BFCM_block_grid_tile__pattern_4__ink_mask_.png",
+          "sha256": "824961e888ecfa4c4dca09dc089f97c956235dfc25cd4add79ef2b739922642f",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "earrings",
+      "name": "Earrings",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral_green",
+      "native": "models/earrings/earrings.blend",
+      "native_sha256": "01a71483125037e2be07e3134fd58f6c430f91bde2af419a50067922ed5cf700",
+      "source_native_sha256": "01a71483125037e2be07e3134fd58f6c430f91bde2af419a50067922ed5cf700",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/earrings/previews/preview.jpg",
+          "sha256": "3b2b8095b47f9ea738853cbc31e5acc269868dbbe8c6c2b34c9612a270bb34db"
+        },
+        "alternate": {
+          "path": "models/earrings/previews/alternate.jpg",
+          "sha256": "e9d34bcd4a9c8ad5f98d62835a04ac6de2acc97d4d2528ea76eacc7e6b07c6bd"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "bowling-pin",
+      "name": "Bowling Pin",
+      "category": "Custom products",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream_royal_blue",
+      "native": "models/bowling-pin/bowling-pin.blend",
+      "native_sha256": "caf7a0e986100c63183abbd9e262836b9a9955a31948237b7917f8008bc2b4c7",
+      "source_native_sha256": "caf7a0e986100c63183abbd9e262836b9a9955a31948237b7917f8008bc2b4c7",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/bowling-pin/previews/preview.jpg",
+          "sha256": "2b0e01ea3129c57ad343d32d0fe56d32249c4157a3923ae54f7d02a7d5785f7d"
+        },
+        "alternate": {
+          "path": "models/bowling-pin/previews/alternate.jpg",
+          "sha256": "df89dc8cacb731048e918038b6907ecdd013ec3b403d14c3d5e0a2b8898cd224"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "supplement-blister-pack",
+      "name": "Vitamin slide container",
+      "category": "Vitamins & Supplements",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/supplement-blister-pack/supplement-blister-pack.blend",
+      "native_sha256": "0444cc2dc6d6e0d2cf5f648ccd03601e0a7671e15c3aefbf932ad3265af998a5",
+      "source_native_sha256": "0444cc2dc6d6e0d2cf5f648ccd03601e0a7671e15c3aefbf932ad3265af998a5",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/supplement-blister-pack/previews/preview.jpg",
+          "sha256": "a0ad1505f9349a93911e71e95762be7246b734dce144dbf98ced2bec39d9b78d"
+        },
+        "alternate": {
+          "path": "models/supplement-blister-pack/previews/alternate.jpg",
+          "sha256": "4747fc43582fbd5ddfb59f84a16d6581cb907c9c49a034e4c6a37d1070d27fd3"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "click-ballpoint-pen",
+      "name": "Retractable ballpoint pen",
+      "category": "Ballpoint Pens",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/click-ballpoint-pen/click-ballpoint-pen.blend",
+      "native_sha256": "019888b41033fbaf068dcaddf86fc83a5bcb40c27b86501f78009c53e5013d79",
+      "source_native_sha256": "019888b41033fbaf068dcaddf86fc83a5bcb40c27b86501f78009c53e5013d79",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/click-ballpoint-pen/previews/preview.jpg",
+          "sha256": "4f040bcafc9596c43674f6e1dbd16aa9e4ece18397a9a74170610b3a1903625e"
+        },
+        "alternate": {
+          "path": "models/click-ballpoint-pen/previews/alternate.jpg",
+          "sha256": "ce04f1a4699cd4c8f762d1c6e19de27652e48a74f2fdd403ecc30e435d77a405"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "pleated-midi-dress",
+      "name": "Pleated sleeveless midi dress",
+      "category": "Dresses",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/pleated-midi-dress/pleated-midi-dress.blend",
+      "native_sha256": "76d779c3f89567af2be67887f7a2c2841ef6407568846d8bdf72aa468972a290",
+      "source_native_sha256": "76d779c3f89567af2be67887f7a2c2841ef6407568846d8bdf72aa468972a290",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/pleated-midi-dress/previews/preview.jpg",
+          "sha256": "891bf40ec0ffa35622d6b47af14568f5b3b2e2132b053e13bbbd1dea4fb11324"
+        },
+        "alternate": {
+          "path": "models/pleated-midi-dress/previews/alternate.jpg",
+          "sha256": "f936a3075ebbd72c23a42d27e9d99d4a46e6381d8dcfb12086c8600841aa51d5"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_c757e494-adeb-4c0c-aa46-cf288ea73b9d",
+          "path": "models/pleated-midi-dress/textures/Color_c757e494-adeb-4c0c-aa46-cf288ea73b9d__0__Color_c757e494-adeb-4c0c-aa46-cf288ea73b9d.png",
+          "sha256": "4d6bed884036fb5f6ed16428c3ae51c8070513e43b0b05eb3fa7fdbe5a235624",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_c757e494-adeb-4c0c-aa46-cf288ea73b9d",
+          "path": "models/pleated-midi-dress/textures/NormalGL_c757e494-adeb-4c0c-aa46-cf288ea73b9d__0__NormalGL_c757e494-adeb-4c0c-aa46-cf288ea73b9d.png",
+          "sha256": "96ab16280b04e25ae4b976a7f1bdbe6b5315ff3cda06528c3003867602ea83a5",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_c757e494-adeb-4c0c-aa46-cf288ea73b9d",
+          "path": "models/pleated-midi-dress/textures/ORM_c757e494-adeb-4c0c-aa46-cf288ea73b9d__0__ORM_c757e494-adeb-4c0c-aa46-cf288ea73b9d.png",
+          "sha256": "5e80a177e3e853d11c050e5eaf83f578cf7b6e76f6682d4054a95914a52ad9cf",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "perfume-atomizer",
+      "name": "Faceted perfume atomizer",
+      "category": "Perfumes & Colognes",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "models/perfume-atomizer/perfume-atomizer.blend",
+      "native_sha256": "3816935d38989e1a805fefd872b3c1d8511cc52308389224d78efaac91d50856",
+      "source_native_sha256": "3816935d38989e1a805fefd872b3c1d8511cc52308389224d78efaac91d50856",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/perfume-atomizer/previews/preview.jpg",
+          "sha256": "11b5fa1cfc8a99a643ebea88f65447f2872bd08552c9fb5299250d6aa01e3ea7"
+        },
+        "alternate": {
+          "path": "models/perfume-atomizer/previews/alternate.jpg",
+          "sha256": "d30a67f504ba9fe1b443815d33afa4c5e63550e49c6037141e0a47c125a01a47"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "whiskey-decanter",
+      "name": "Apple cider bottle",
+      "category": "Non-alcoholic beverages",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/whiskey-decanter/whiskey-decanter.blend",
+      "native_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+      "source_native_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/whiskey-decanter/previews/preview.jpg",
+          "sha256": "ee1110530bfe8af6e2af160ade59b732b81f67915b885feec7bff3cfed2aec87"
+        },
+        "alternate": {
+          "path": "models/whiskey-decanter/previews/alternate.jpg",
+          "sha256": "9a5de887f1805b64a49b21a0eb5416eadfef92965c9b6674d09138f0424d9d40"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "note-card-stationery",
+      "name": "Correspondence cards and envelopes",
+      "category": "Note Cards",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/note-card-stationery/note-card-stationery.blend",
+      "native_sha256": "d75e104da39e3c99a6af32b80e8ce6e1bf7985ca8352587cec7f3e0682fce2e3",
+      "source_native_sha256": "d75e104da39e3c99a6af32b80e8ce6e1bf7985ca8352587cec7f3e0682fce2e3",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/note-card-stationery/previews/preview.jpg",
+          "sha256": "2ae62185c9c1b723d58930cf21bb99afe7fcbac029f5f347a76e71bfcd9aa922"
+        },
+        "alternate": {
+          "path": "models/note-card-stationery/previews/alternate.jpg",
+          "sha256": "2c87b92b30bfc424599d4a33642be2a855a94afcbcadda3fd95a8255c5e9fddb"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/note-card-stationery/note-card-stationery.glb",
+        "sha256": "d61ad7e152d112191406057d583da218a2cac9a650e9b6683bcb6cd6e3ca9234"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "coffee-bean-brick",
+      "name": "Valve-sealed coffee bean brick",
+      "category": "Coffee Beans & Ground Coffee",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/coffee-bean-brick/coffee-bean-brick.blend",
+      "native_sha256": "a1e95f940071a945fd2e44fea23ec48f2c8313f61856728f45578d57ab068398",
+      "source_native_sha256": "a1e95f940071a945fd2e44fea23ec48f2c8313f61856728f45578d57ab068398",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/coffee-bean-brick/previews/preview.jpg",
+          "sha256": "eeee602d4edc22dc7b90f9089d0634559094f099e8d8bc1673d58418d47f128e"
+        },
+        "alternate": {
+          "path": "models/coffee-bean-brick/previews/alternate.jpg",
+          "sha256": "e664e04e7b8edca57027d996d28a5f3046cb2b1b9e7d32406e40913191076797"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "hinged-link-bracelet",
+      "name": "Hinged enamel-link bracelet",
+      "category": "Bracelets",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/hinged-link-bracelet/hinged-link-bracelet.blend",
+      "native_sha256": "7f2bf1885ed3fd6abb5f0b5e1511c531dbce37c0c098d3345ae73332c04a1f2d",
+      "source_native_sha256": "7f2bf1885ed3fd6abb5f0b5e1511c531dbce37c0c098d3345ae73332c04a1f2d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/hinged-link-bracelet/previews/preview.jpg",
+          "sha256": "71fddd60ebceb6c364061e996cfa9636d24fc73f38fe60e1640895432ce69015"
+        },
+        "alternate": {
+          "path": "models/hinged-link-bracelet/previews/alternate.jpg",
+          "sha256": "3da95c053e88819415bb581150a8cb182a50eb64c51210f13a1e865e21915925"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/hinged-link-bracelet/hinged-link-bracelet.glb",
+        "sha256": "46ff0dcdab77aea8b483181b2c539ecc272dbd8c8ec1fe77445872f65b22de20"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "flower-bulb-kit",
+      "name": "Flower bulbs in a planting sleeve",
+      "category": "Plant & Flower Bulbs",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/flower-bulb-kit/flower-bulb-kit.blend",
+      "native_sha256": "d3b8fb806d35f667857bacc0cecd70654e580eb6cbef5023ba97f5cdccb257d0",
+      "source_native_sha256": "d3b8fb806d35f667857bacc0cecd70654e580eb6cbef5023ba97f5cdccb257d0",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/flower-bulb-kit/previews/preview.jpg",
+          "sha256": "841de111761815f3c90e6cc38f68ce8d19b01897e6ee737015b78f5a887c93eb"
+        },
+        "alternate": {
+          "path": "models/flower-bulb-kit/previews/alternate.jpg",
+          "sha256": "c4d3cc6933f6ab6d0226e4a036bad1e40a1406caf5ad580fce5077478c454cdc"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_eb8e5276-161f-47b2-b8bd-6b1b178057bc",
+          "path": "models/flower-bulb-kit/textures/Color_eb8e5276-161f-47b2-b8bd-6b1b178057bc__0__Color_eb8e5276-161f-47b2-b8bd-6b1b178057bc.png",
+          "sha256": "87c4204443a3e45cd3c3ceb5cdc9c2baeda49af79e7537bb640b0fff4dc7c14e",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_eb8e5276-161f-47b2-b8bd-6b1b178057bc",
+          "path": "models/flower-bulb-kit/textures/NormalGL_eb8e5276-161f-47b2-b8bd-6b1b178057bc__0__NormalGL_eb8e5276-161f-47b2-b8bd-6b1b178057bc.png",
+          "sha256": "df784d2e4e5e9685b29f448c2bbc39dd6f8dd9eda450f8e60c16a11336a60092",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_eb8e5276-161f-47b2-b8bd-6b1b178057bc",
+          "path": "models/flower-bulb-kit/textures/ORM_eb8e5276-161f-47b2-b8bd-6b1b178057bc__0__ORM_eb8e5276-161f-47b2-b8bd-6b1b178057bc.png",
+          "sha256": "ab5a6fb983de0587c46eaabcbe69eb19724ebc937f4938d4bc9b4eada59b6e79",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "performance-sports-bra",
+      "name": "Structured sports bra",
+      "category": "Bras",
+      "collection_status": "archived",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "archived/performance-sports-bra/performance-sports-bra.blend",
+      "native_sha256": "f91907ff79324ed831cf4e5ae168b8d713c9016f2ca63aa47e516c1028bfcdfb",
+      "source_native_sha256": "f91907ff79324ed831cf4e5ae168b8d713c9016f2ca63aa47e516c1028bfcdfb",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "archived/performance-sports-bra/previews/preview.jpg",
+          "sha256": "1bde560109ddf0bcd8d99adecad07a093bc11268110d1efaae79bccbbb6d7423"
+        },
+        "alternate": {
+          "path": "archived/performance-sports-bra/previews/alternate.jpg",
+          "sha256": "9855b8844be63e397309a18c01e300f4b28b7e3434b5d3660dcc2b3c990411bd"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_90f6066c-263f-41d1-a454-c6fc45311a4c",
+          "path": "archived/performance-sports-bra/textures/Color_90f6066c-263f-41d1-a454-c6fc45311a4c__0__Color_90f6066c-263f-41d1-a454-c6fc45311a4c.png",
+          "sha256": "363c82efbc14d8186acf35ac6f415ee5a05b2a81f7dd12ab97fb8b370fcae75d",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_90f6066c-263f-41d1-a454-c6fc45311a4c",
+          "path": "archived/performance-sports-bra/textures/NormalGL_90f6066c-263f-41d1-a454-c6fc45311a4c__0__NormalGL_90f6066c-263f-41d1-a454-c6fc45311a4c.png",
+          "sha256": "e49a6a789174fe2e760f09d05444f9481f83357b410b659e191adcd6cc20d595",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_90f6066c-263f-41d1-a454-c6fc45311a4c",
+          "path": "archived/performance-sports-bra/textures/ORM_90f6066c-263f-41d1-a454-c6fc45311a4c__0__ORM_90f6066c-263f-41d1-a454-c6fc45311a4c.png",
+          "sha256": "bb354dbaffbc693386a91d3c9882b90f5d47b300b67c47980af31d69180c0c4b",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "performance-sports-bra | R03 clean paired semantic mask",
+          "path": "archived/performance-sports-bra/textures/performance-sports-bra___R03_clean_paired_semantic_mask__0__performance-sports-bra___R03_clean_paired_semantic_mask.png",
+          "sha256": "bb25a50e53645ff4513850a81c371380eedec7b8c5d8e09d5e8f22cd7d8f5369",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "energy-drink-can",
+      "name": "Slim energy drink can",
+      "category": "Energy Drinks",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/energy-drink-can/energy-drink-can.blend",
+      "native_sha256": "fff03da8a8eb46cb875e6b135d472cbeb8c5f264fdc35ff35385ce77d9090d9f",
+      "source_native_sha256": "fff03da8a8eb46cb875e6b135d472cbeb8c5f264fdc35ff35385ce77d9090d9f",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/energy-drink-can/previews/preview.jpg",
+          "sha256": "36cefccb2f8f3819da7b2c27553075fdfc0f3b9adec1474d206094c385afbf32"
+        },
+        "alternate": {
+          "path": "models/energy-drink-can/previews/alternate.jpg",
+          "sha256": "e79d18256e06f969356b8004378e006731b504ca85ecdc97b1d10013adf0cd48"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cable-knit-sweater",
+      "name": "Cable-knit sweater",
+      "category": "Sweaters",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/cable-knit-sweater/cable-knit-sweater.blend",
+      "native_sha256": "fb9799819abccb478bbedc8e2c2bf7293fc89f4717b5310a9f4596ef4d7a4de1",
+      "source_native_sha256": "fb9799819abccb478bbedc8e2c2bf7293fc89f4717b5310a9f4596ef4d7a4de1",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cable-knit-sweater/previews/preview.jpg",
+          "sha256": "c8d3ddafb3f9d3b3abf37f714e709ee7e24a24152050c649018970ed3d3657a5"
+        },
+        "alternate": {
+          "path": "models/cable-knit-sweater/previews/alternate.jpg",
+          "sha256": "74582eddc81eb364affc1621e3ed1b3980605f95388afe130f8a35ded3067212"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_e9908e6c-7e61-418c-a166-9b66cdf2cc5b",
+          "path": "models/cable-knit-sweater/textures/Color_e9908e6c-7e61-418c-a166-9b66cdf2cc5b__0__Color_e9908e6c-7e61-418c-a166-9b66cdf2cc5b.png",
+          "sha256": "b6315698297b2bf42bbe47c130cf34e26acd0b30656a2d4ab6ea0c2ec180d66b",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_e9908e6c-7e61-418c-a166-9b66cdf2cc5b",
+          "path": "models/cable-knit-sweater/textures/NormalGL_e9908e6c-7e61-418c-a166-9b66cdf2cc5b__0__NormalGL_e9908e6c-7e61-418c-a166-9b66cdf2cc5b.png",
+          "sha256": "17aa3e42d89cda7386bdf95fe161d4b88889b18fcc5c50abac880b62ecc5971d",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_e9908e6c-7e61-418c-a166-9b66cdf2cc5b",
+          "path": "models/cable-knit-sweater/textures/ORM_e9908e6c-7e61-418c-a166-9b66cdf2cc5b__0__ORM_e9908e6c-7e61-418c-a166-9b66cdf2cc5b.png",
+          "sha256": "f7c8045e510b5e411b9dde622f428b927dde52fe8535d147a5a30395e7bf4179",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "cat-food-tin",
+      "name": "Opened cat food tin",
+      "category": "Non-Prescription Cat Food",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/cat-food-tin/cat-food-tin.blend",
+      "native_sha256": "f24ba8075c0f3a0edf9b0b866fee3b17ad5ef3bd27b37a587841be27122c009d",
+      "source_native_sha256": "f24ba8075c0f3a0edf9b0b866fee3b17ad5ef3bd27b37a587841be27122c009d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/cat-food-tin/previews/preview.jpg",
+          "sha256": "1b1317c6c1484dc454b403a634b2aeb2c5283eaf5009853c6c8ce96bfeca6706"
+        },
+        "alternate": {
+          "path": "models/cat-food-tin/previews/alternate.jpg",
+          "sha256": "c468fa167ed815144b04ffe803678dbfc86de1faaec47de91fd5b2850a8f08f4"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "pyramid-tea-set",
+      "name": "Loose-leaf tea tin and pyramid sachet",
+      "category": "Tea",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/pyramid-tea-set/pyramid-tea-set.blend",
+      "native_sha256": "17413df304073929e59dfdfbc3b29892a0494a4415c79950e60620a0cda75733",
+      "source_native_sha256": "17413df304073929e59dfdfbc3b29892a0494a4415c79950e60620a0cda75733",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/pyramid-tea-set/previews/preview.jpg",
+          "sha256": "3f8adcd3267f9cd48aabf1e6eafe0f080f91c530111fe5467235f2f76295105a"
+        },
+        "alternate": {
+          "path": "models/pyramid-tea-set/previews/alternate.jpg",
+          "sha256": "cdc0661990458c6991cb06988551667ba167b397b33cf9bf347fadd84429e13b"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "peeled-sticker-roll",
+      "name": "Die-cut sticker roll",
+      "category": "Decorative Stickers",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "models/peeled-sticker-roll/peeled-sticker-roll.blend",
+      "native_sha256": "73eb527b1f8365b87a6ad9212ebe2ca5a70d4a8b12a10651a61a3dad049eb204",
+      "source_native_sha256": "73eb527b1f8365b87a6ad9212ebe2ca5a70d4a8b12a10651a61a3dad049eb204",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/peeled-sticker-roll/previews/preview.jpg",
+          "sha256": "526ee81dbb32fb89d66776c9e99c6d8795ad6ed5b3153961422953d9f7df3988"
+        },
+        "alternate": {
+          "path": "models/peeled-sticker-roll/previews/alternate.jpg",
+          "sha256": "09ab86661f5fcb56317bcd8ebd7947fd560757255f2f9a1767da27fb63072061"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "sheet-mask-pack",
+      "name": "Face moisturizer jar",
+      "category": "Moisturizers",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/sheet-mask-pack/sheet-mask-pack.blend",
+      "native_sha256": "f5f19d8191515e25a5e7e1400b7a2261d9089db2ac3794c7b63382cfd1720bef",
+      "source_native_sha256": "f5f19d8191515e25a5e7e1400b7a2261d9089db2ac3794c7b63382cfd1720bef",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/sheet-mask-pack/previews/preview.jpg",
+          "sha256": "c24b2c97e45332464de7f73efb393860d673f5bda7e555c6a40cfbd261884af3"
+        },
+        "alternate": {
+          "path": "models/sheet-mask-pack/previews/alternate.jpg",
+          "sha256": "5fca5f2c1d3bd85c4a11b953c3db8e1abc825db6d210bad3673c717bea8571f9"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "zip-hoodie",
+      "name": "Zip-front hooded sweatshirt",
+      "category": "Hoodies",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/zip-hoodie/zip-hoodie.blend",
+      "native_sha256": "f30d400495180cd83fa901a23937d39ffb957dfbe62861a56667149d08ac55f8",
+      "source_native_sha256": "f30d400495180cd83fa901a23937d39ffb957dfbe62861a56667149d08ac55f8",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/zip-hoodie/previews/preview.jpg",
+          "sha256": "235402e67eeec8b58271b5091fee52a75dc710d37143b4fbdd5a927940fb3ad4"
+        },
+        "alternate": {
+          "path": "models/zip-hoodie/previews/alternate.jpg",
+          "sha256": "322a87ca4050558947177650b93642a0e2337095416f7a4c8337cf4d6099894f"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_91c433d5-0bdc-42d8-8968-287db66cac82",
+          "path": "models/zip-hoodie/textures/Color_91c433d5-0bdc-42d8-8968-287db66cac82__0__Color_91c433d5-0bdc-42d8-8968-287db66cac82.png",
+          "sha256": "520eb77aa7f5e6e0956e3d0f7dd3b1cf7e1b852f37e3b194e9040e8db41bb1a0",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_91c433d5-0bdc-42d8-8968-287db66cac82",
+          "path": "models/zip-hoodie/textures/NormalGL_91c433d5-0bdc-42d8-8968-287db66cac82__0__NormalGL_91c433d5-0bdc-42d8-8968-287db66cac82.png",
+          "sha256": "cc75cdc5916387f6c949cab5dc9c18ee3505161306b74b393f7d1f630cb64a6f",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_91c433d5-0bdc-42d8-8968-287db66cac82",
+          "path": "models/zip-hoodie/textures/ORM_91c433d5-0bdc-42d8-8968-287db66cac82__0__ORM_91c433d5-0bdc-42d8-8968-287db66cac82.png",
+          "sha256": "68a369e15ce58c477d42e1e5d02e0b0ce797c8f6dcf93ba089bbdc9f56ea62c4",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "zip-hoodie | R04 directed paired semantic mask",
+          "path": "models/zip-hoodie/textures/zip-hoodie___R04_directed_paired_semantic_mask__0__zip-hoodie___R04_directed_paired_semantic_mask.png",
+          "sha256": "0b81ad140aeb6e05bc62074e932999105957ec31390b1b762238a85f591435c0",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "zip-hoodie | R04 printed-ghost normal keep mask",
+          "path": "models/zip-hoodie/textures/zip-hoodie___R04_printed-ghost_normal_keep_mask__0__zip-hoodie___R04_printed-ghost_normal_keep_mask.png",
+          "sha256": "e77d58534ab9048cb70a06743c9148b532e09a19a574c2ece26b713e51755d24",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "deodorant-stick",
+      "name": "Twist-up deodorant stick",
+      "category": "Deodorants",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/deodorant-stick/deodorant-stick.blend",
+      "native_sha256": "5a843cdf4d8e21bdda38c6ba847b8587ee7cbf12876c11398d8fd8db6540d1e0",
+      "source_native_sha256": "5a843cdf4d8e21bdda38c6ba847b8587ee7cbf12876c11398d8fd8db6540d1e0",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/deodorant-stick/previews/preview.jpg",
+          "sha256": "77655a75f3439ddfe9d0f2b79bf71f16b5e28b36ab1054a5bae06674c79e6fc7"
+        },
+        "alternate": {
+          "path": "models/deodorant-stick/previews/alternate.jpg",
+          "sha256": "5c7195d25d39762c6c55685c2d88aa912dc591bd48631be6645a7450ad1a0e26"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "field-jacket",
+      "name": "Utility field jacket",
+      "category": "Coats & Jackets",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/field-jacket/field-jacket.blend",
+      "native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+      "source_native_sha256": "dd9648f74a5e5007c26c8e3b1ce0a53863e0953a70d651e8e163079589df7373",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/field-jacket/previews/preview.jpg",
+          "sha256": "7e1280dba4d1c0c9a895123e82faa61a803325b54ebd04c2a54a3fe289ce8e00"
+        },
+        "alternate": {
+          "path": "models/field-jacket/previews/alternate.jpg",
+          "sha256": "573bfc26f39198051db8eeccf927614efdfa83bbfaff41eb17b04d10a4e7bb50"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_04222ced-2a1c-4f45-95ec-da8ec0219725",
+          "path": "models/field-jacket/textures/Color_04222ced-2a1c-4f45-95ec-da8ec0219725__0__Color_04222ced-2a1c-4f45-95ec-da8ec0219725.png",
+          "sha256": "a9b0af7aaaae8c9b0b7bca3d9de59a2745c74a6dcd725c8a74f627bb04e656dc",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "field-jacket | R04 directed paired semantic mask",
+          "path": "models/field-jacket/textures/field-jacket___R04_directed_paired_semantic_mask__0__field-jacket___R04_directed_paired_semantic_mask.png",
+          "sha256": "3c50fa396bc21c3015b2cfb10eecad8597c709a14187de8050d4e80d377c433a",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "field-jacket | R04 printed-ghost normal keep mask",
+          "path": "models/field-jacket/textures/field-jacket___R04_printed-ghost_normal_keep_mask__0__field-jacket___R04_printed-ghost_normal_keep_mask.png",
+          "sha256": "f376c10b7c75d01ae952de30378dd5c8cd4609e99d948395d75dd4824e2ac4b5",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_04222ced-2a1c-4f45-95ec-da8ec0219725",
+          "path": "models/field-jacket/textures/NormalGL_04222ced-2a1c-4f45-95ec-da8ec0219725__0__NormalGL_04222ced-2a1c-4f45-95ec-da8ec0219725.png",
+          "sha256": "54434d3d2409bae2432910105fcbf942966b93fcb830ffb38bc64e187a10fc05",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_04222ced-2a1c-4f45-95ec-da8ec0219725",
+          "path": "models/field-jacket/textures/ORM_04222ced-2a1c-4f45-95ec-da8ec0219725__0__ORM_04222ced-2a1c-4f45-95ec-da8ec0219725.png",
+          "sha256": "e92e838042be6e352b4fcd2ca7ed8ec014d75776874bec2032f5e69e7f0938dd",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "button-down-shirt",
+      "name": "Folded button-down shirt",
+      "category": "Shirts",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/button-down-shirt/button-down-shirt.blend",
+      "native_sha256": "7c55d8db2d765905228f2f8c6d057cfbfa32d36b1b0f2d74da12e3fbaaaec493",
+      "source_native_sha256": "7c55d8db2d765905228f2f8c6d057cfbfa32d36b1b0f2d74da12e3fbaaaec493",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/button-down-shirt/previews/preview.jpg",
+          "sha256": "1323979eea06c4e21044cb21d512fc07180a3e085b59d04aeb74e4962db73f04"
+        },
+        "alternate": {
+          "path": "models/button-down-shirt/previews/alternate.jpg",
+          "sha256": "63e2c7e7cf0aef661d6f0fe7a17716aced8404a616c461e40e2f77d791cd03b3"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "Color_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9",
+          "path": "models/button-down-shirt/textures/Color_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9__0__Color_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9.png",
+          "sha256": "9002f5fc3935abb097a65d48cc1ed3bddd53da851137e39e53723a631c2e52f1",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9",
+          "path": "models/button-down-shirt/textures/NormalGL_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9__0__NormalGL_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9.png",
+          "sha256": "fe262690a37abcc311357164b05f3c6c35bfefe2542d31a98310f78546e9685a",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9",
+          "path": "models/button-down-shirt/textures/ORM_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9__0__ORM_ae83dc8e-5483-45e6-a58c-cec5dbb0b9e9.png",
+          "sha256": "f49fb1d32c40aa46aa113c240c5f237a611671ff18aaa97f6766c68c5ca92a6f",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Shirt | paired mask A10 shoulder-contour copy",
+          "path": "models/button-down-shirt/textures/Shirt___paired_mask_A10_shoulder-contour_copy__0__Shirt___paired_mask_A10_shoulder-contour_copy.png",
+          "sha256": "b6effd332634a44e7f8d85a28f933a122695fe1c15085f741c6116a45dacd4a9",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Shirt | paired mask with blank cream interior label region",
+          "path": "models/button-down-shirt/textures/Shirt___paired_mask_with_blank_cream_interior_label_region__0__Shirt___paired_mask_with_blank_cream_interior_label_region.png",
+          "sha256": "8a60202cca9127ce69a4d9dbbea6e15fe5d7e9c5b87e03deb5ac962982121401",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "powder-foundation-compact",
+      "name": "Pressed foundation compact",
+      "category": "Foundations",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "models/powder-foundation-compact/powder-foundation-compact.blend",
+      "native_sha256": "858f1bf47c220e0a880f73663029541d9c44594600d5b5d8dafbdac62aa50c0d",
+      "source_native_sha256": "858f1bf47c220e0a880f73663029541d9c44594600d5b5d8dafbdac62aa50c0d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/powder-foundation-compact/previews/preview.jpg",
+          "sha256": "51c947fa4a670e92f7f2b3f8e1493170eba3de2b48186206b767bdc93572387a"
+        },
+        "alternate": {
+          "path": "models/powder-foundation-compact/previews/alternate.jpg",
+          "sha256": "f54f5152225b733727a2b53119a3a760ac0dddb817a580455f812d9043f92376"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "music-cd-jewel-case",
+      "name": "Music CD in a jewel case",
+      "category": "Music CDs",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/music-cd-jewel-case/music-cd-jewel-case.blend",
+      "native_sha256": "4720cb1fe1ac1f14001db533f836d383857bf4f27d5c450a3cd8dbfa7fc62fd5",
+      "source_native_sha256": "4720cb1fe1ac1f14001db533f836d383857bf4f27d5c450a3cd8dbfa7fc62fd5",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/music-cd-jewel-case/previews/preview.jpg",
+          "sha256": "703b03d0d6282571f6b2e864ee65c4f4a1dea8e6c8a651429ed36c3cf61753fd"
+        },
+        "alternate": {
+          "path": "models/music-cd-jewel-case/previews/alternate.jpg",
+          "sha256": "d04187b874ededac451e2e1a5922a675995977bfc19ec9039604e98042574ddc"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "ribbon-gift-box",
+      "name": "Ribbon-wrapped gift box",
+      "category": "Gift Boxes & Tins",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/ribbon-gift-box/ribbon-gift-box.blend",
+      "native_sha256": "2e1602430bcf396bbe4d58a8b7ef6cdbeb5ddbb5a90935aa1302c272f3c80b57",
+      "source_native_sha256": "2e1602430bcf396bbe4d58a8b7ef6cdbeb5ddbb5a90935aa1302c272f3c80b57",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/ribbon-gift-box/previews/preview.jpg",
+          "sha256": "35c61d73968b9999466ac5bd851f525bac75233271ae01e26c97a56b6af4dd81"
+        },
+        "alternate": {
+          "path": "models/ribbon-gift-box/previews/alternate.jpg",
+          "sha256": "741dbf33eb8397c7c4bcdb4bc40da440bc7012e25efecf86a0180d69ec96f73d"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "chelsea-boot",
+      "name": "Leather Chelsea boot",
+      "category": "Boots",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "models/chelsea-boot/chelsea-boot.blend",
+      "native_sha256": "77afe3745e564ceae3aa9f71bb9762a7f78ce2332668f224d20f417d90d53250",
+      "source_native_sha256": "77afe3745e564ceae3aa9f71bb9762a7f78ce2332668f224d20f417d90d53250",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/chelsea-boot/previews/preview.jpg",
+          "sha256": "83c3336f95e3215e523705b2b35c2bd20c0044a5e46632d30e4de44ba09443b0"
+        },
+        "alternate": {
+          "path": "models/chelsea-boot/previews/alternate.jpg",
+          "sha256": "27fe0c8b4c405785d15bb4b5e3d02fd09e5069ef758c94d7bb3a09b071a46341"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "chelsea-boot | cleaned classification mask",
+          "path": "models/chelsea-boot/textures/chelsea-boot___cleaned_classification_mask__0__chelsea-boot___cleaned_classification_mask.png",
+          "sha256": "5cee6e2d48603db1db08cd859b9bf1de07f2761e076fd5f384e232bf37da1c72",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "chelsea-boot | R03 clean paired semantic mask",
+          "path": "models/chelsea-boot/textures/chelsea-boot___R03_clean_paired_semantic_mask__0__chelsea-boot___R03_clean_paired_semantic_mask.png",
+          "sha256": "cbae13509248ab70f3a82ca89878a792ba0a97535d4bc854773e138adea6e0cd",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Color_62341661-90bc-4ff2-8bfc-607c0b5522f8",
+          "path": "models/chelsea-boot/textures/Color_62341661-90bc-4ff2-8bfc-607c0b5522f8__0__Color_62341661-90bc-4ff2-8bfc-607c0b5522f8.png",
+          "sha256": "ad10ce2ea3e178838bb701ec949aba07286a31a35a882ee6d76322254941b268",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "NormalGL_62341661-90bc-4ff2-8bfc-607c0b5522f8",
+          "path": "models/chelsea-boot/textures/NormalGL_62341661-90bc-4ff2-8bfc-607c0b5522f8__0__NormalGL_62341661-90bc-4ff2-8bfc-607c0b5522f8.png",
+          "sha256": "bab90068d46b00267a22155ac09956434f599cdf78f153081e741a06f23917c7",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "ORM_62341661-90bc-4ff2-8bfc-607c0b5522f8",
+          "path": "models/chelsea-boot/textures/ORM_62341661-90bc-4ff2-8bfc-607c0b5522f8__0__ORM_62341661-90bc-4ff2-8bfc-607c0b5522f8.png",
+          "sha256": "0e5715a415cfb773fbf17ea14ea9bafdab2c2d889f2cf0a9500f009fe0445d01",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "ceramic-spoon-rest",
+      "name": "Glazed ceramic spoon rest",
+      "category": "Spoon Rests",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/ceramic-spoon-rest/ceramic-spoon-rest.blend",
+      "native_sha256": "a96745787a4555763940db42b4ef1ecd4af2b1af488010b392db0468615c1473",
+      "source_native_sha256": "a96745787a4555763940db42b4ef1ecd4af2b1af488010b392db0468615c1473",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/ceramic-spoon-rest/previews/preview.jpg",
+          "sha256": "bb68fe54b5bbb5d8530f74e64b76cf0fa847a69e933db98ddce7cad165d714ca"
+        },
+        "alternate": {
+          "path": "models/ceramic-spoon-rest/previews/alternate.jpg",
+          "sha256": "a9c90594583d4913f3fd50f289a1211ba39bd770ade904e7397a0c4eb5507c9a"
+        }
+      },
+      "textures": [],
+      "glb": {
+        "path": "models/ceramic-spoon-rest/ceramic-spoon-rest.glb",
+        "sha256": "226ae7f3161e9d11070b13c3ddd3237b9f6f1cc78d0ceaef6c8a0a44cadce79c"
+      },
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "crossbody-satchel",
+      "name": "Structured crossbody satchel",
+      "category": "Cross Body Bags",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/crossbody-satchel/crossbody-satchel.blend",
+      "native_sha256": "721b3b355414e5060331026583357ff51a03880ad92b0f7c4389a10f29e619f4",
+      "source_native_sha256": "721b3b355414e5060331026583357ff51a03880ad92b0f7c4389a10f29e619f4",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/crossbody-satchel/previews/preview.jpg",
+          "sha256": "8956408c8ce448f8917a2aa1607eb383c7a211d5be692f70177fa457d424ab04"
+        },
+        "alternate": {
+          "path": "models/crossbody-satchel/previews/alternate.jpg",
+          "sha256": "9048532c8cb80e6ad840a2f9905ee23aa2a41e7effc57e05bc3376265017ebb1"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "framed-art-print",
+      "name": "Framed art print",
+      "category": "Prints",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/framed-art-print/framed-art-print.blend",
+      "native_sha256": "a04e363f19ef9fdb82a977a5822dfca84814e04922afad44c83384cd99e6cee3",
+      "source_native_sha256": "a04e363f19ef9fdb82a977a5822dfca84814e04922afad44c83384cd99e6cee3",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/framed-art-print/previews/preview.jpg",
+          "sha256": "aeaaa368cfeb7699d5e4040a88991a2aea97338e4134d0a1d856db1e90be91f7"
+        },
+        "alternate": {
+          "path": "models/framed-art-print/previews/alternate.jpg",
+          "sha256": "f60b50e3908ebc58cc400a1b5199f140d4006421dd7429c63529b7b0aec72ba4"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "dog-rope-toy",
+      "name": "Braided dog rope toy",
+      "category": "Dog Toys",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "mint-deepgreen",
+      "native": "models/dog-rope-toy/dog-rope-toy.blend",
+      "native_sha256": "398ae0aeda2beab3258d45b3d64e0b20bb73049ab7665299a392b1765c147ee6",
+      "source_native_sha256": "398ae0aeda2beab3258d45b3d64e0b20bb73049ab7665299a392b1765c147ee6",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/dog-rope-toy/previews/preview.jpg",
+          "sha256": "ca2e981a6c100b084e20a1079583dea5c860b3a60b79fb51300b0a984818055b"
+        },
+        "alternate": {
+          "path": "models/dog-rope-toy/previews/alternate.jpg",
+          "sha256": "094c6ecc097fdbb7a22d3afd86dbbf2461ab272b55315ccf1188375c4bf81989"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "press-on-nail-kit",
+      "name": "Press-on nail display kit",
+      "category": "False Nails",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "purple-deeppurple",
+      "native": "models/press-on-nail-kit/press-on-nail-kit.blend",
+      "native_sha256": "95d1f329e9035ef4c5d352f9142d5d973132fb30a98aa3044862aa7990ade4ce",
+      "source_native_sha256": "95d1f329e9035ef4c5d352f9142d5d973132fb30a98aa3044862aa7990ade4ce",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/press-on-nail-kit/previews/preview.jpg",
+          "sha256": "ffcb14898816a8da68e0eef2f93e98ef0fe4cacd28dce537d94da2083df46a88"
+        },
+        "alternate": {
+          "path": "models/press-on-nail-kit/previews/alternate.jpg",
+          "sha256": "c63d4e717535dfaf01ebb4670eba3bacd7fdf8600737b17f30334988c6062a33"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "pepper-spice-grinder",
+      "name": "Whole-pepper spice grinder",
+      "category": "Herbs & Spices",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "cream-blue",
+      "native": "models/pepper-spice-grinder/pepper-spice-grinder.blend",
+      "native_sha256": "671016e68cd28343a4264d6576f5327f1007105756f9e50d67f4b40b52d25114",
+      "source_native_sha256": "671016e68cd28343a4264d6576f5327f1007105756f9e50d67f4b40b52d25114",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/pepper-spice-grinder/previews/preview.jpg",
+          "sha256": "a9125028b39973810307772ae59f798a2e26e397878fdbd03d2fb47e08c49f26"
+        },
+        "alternate": {
+          "path": "models/pepper-spice-grinder/previews/alternate.jpg",
+          "sha256": "9e9dc40aa9aabcd9ff473f0f6616c9c6fd8618d747f06c3d9cb7ee807e21d8af"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "twist-up-lipstick",
+      "name": "Twist-up lipstick",
+      "category": "Lipsticks",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "lilac-orange",
+      "native": "models/twist-up-lipstick/twist-up-lipstick.blend",
+      "native_sha256": "eff8b9bf9a7aaa787d99ad3b64f0ff5de0387508baa8c5c6bddc7787bf480e84",
+      "source_native_sha256": "eff8b9bf9a7aaa787d99ad3b64f0ff5de0387508baa8c5c6bddc7787bf480e84",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/twist-up-lipstick/previews/preview.jpg",
+          "sha256": "74f4a6cb35c310e85d7b736658525a39f59dd782dca2e522c4bad32b33a04ead"
+        },
+        "alternate": {
+          "path": "models/twist-up-lipstick/previews/alternate.jpg",
+          "sha256": "a5f398bdb85b8a77d5a1eaea7b30cfe96680654d8f7db74b4d16902315518bca"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "laundry-pod-tub",
+      "name": "Laundry detergent pod tub",
+      "category": "Laundry Detergent",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": "coral-green",
+      "native": "models/laundry-pod-tub/laundry-pod-tub.blend",
+      "native_sha256": "7b676217c721d7489ed6a91b571d00c8f17ec1e1b90ee556f8413ecc27b181a5",
+      "source_native_sha256": "7b676217c721d7489ed6a91b571d00c8f17ec1e1b90ee556f8413ecc27b181a5",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/laundry-pod-tub/previews/preview.jpg",
+          "sha256": "c9169b81cc8d6ee132211231a4468856392d1dc0d511fbcedcca2c98c8dc9630"
+        },
+        "alternate": {
+          "path": "models/laundry-pod-tub/previews/alternate.jpg",
+          "sha256": "64e7daeaf5af1a2788ea38cdaaac60ff48572a314fc81517ce683db0bf706c3e"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "mug",
+      "name": "Mug",
+      "category": "Mugs",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/mug/mug.blend",
+      "native_sha256": "6878dc2db6de45f7740922671efc8e2d3603c3a345e25da1db68296e62f6361b",
+      "source_native_sha256": "6878dc2db6de45f7740922671efc8e2d3603c3a345e25da1db68296e62f6361b",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/mug/previews/preview.jpg",
+          "sha256": "88d1801efde88c59cc9e98968fa01d271d77ff91888306fff0ffdab1195db64e"
+        },
+        "alternate": {
+          "path": "models/mug/previews/alternate.jpg",
+          "sha256": "0e5234c089dda20c3f3d7a5565c91a773f1ce725b8e6e2b90051e0e7bc965a82"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "lip-gloss",
+      "name": "Lip Gloss",
+      "category": "Lip Gloss",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/lip-gloss/lip-gloss.blend",
+      "native_sha256": "415a08c9a6458108854d5418c9566332d0f12ef1950ee3ba58b4b7626f99e098",
+      "source_native_sha256": "415a08c9a6458108854d5418c9566332d0f12ef1950ee3ba58b4b7626f99e098",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/lip-gloss/previews/preview.jpg",
+          "sha256": "3b823bf1b06a7618fbaf1987384700b27c09de887b1d71fd5e9499c18cffb900"
+        },
+        "alternate": {
+          "path": "models/lip-gloss/previews/alternate.jpg",
+          "sha256": "4e152e780d470f55ac91422ae66d0c6705120e768ed33d4b21348cae5f4e70d9"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "honey",
+      "name": "Honey",
+      "category": "Honey",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/honey/honey.blend",
+      "native_sha256": "fbdb1289241444fb6c637621cd7461edc2e4742c3d372e29057837d00826b0c3",
+      "source_native_sha256": "fbdb1289241444fb6c637621cd7461edc2e4742c3d372e29057837d00826b0c3",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/honey/previews/preview.jpg",
+          "sha256": "5c2efaf9003b01e1fefbd580f161b0c35e88223e086dc7e290004a6fdaaaa8c0"
+        },
+        "alternate": {
+          "path": "models/honey/previews/alternate.jpg",
+          "sha256": "45f2faf0b24100bea4dfaecfa69a2c4853affd35c16e6d77807db6529714a8cd"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "false-eyelashes",
+      "name": "False Eyelashes",
+      "category": "False Eyelashes",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/false-eyelashes/false-eyelashes.blend",
+      "native_sha256": "3456689d2a1a53f3729c7c590223c27dd2a7d3011713dee7a057b1b269dc7228",
+      "source_native_sha256": "3456689d2a1a53f3729c7c590223c27dd2a7d3011713dee7a057b1b269dc7228",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/false-eyelashes/previews/preview.jpg",
+          "sha256": "ba078c8325fd3f933d3a43b94a0b91c725936f6fbc57089a4d248b355ca62fdb"
+        },
+        "alternate": {
+          "path": "models/false-eyelashes/previews/alternate.jpg",
+          "sha256": "84a13086a14356d79f2f585ca4241c62bdc504cc2359abd9f38e22ad84581a07"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "fresh-cut-flowers",
+      "name": "Fresh Cut Flowers",
+      "category": "Fresh Cut Flowers",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/fresh-cut-flowers/fresh-cut-flowers.blend",
+      "native_sha256": "b2fe4179d7aada8a6f2e6a85290a5f708601ccd705e8fb9341d32d0472b51e3a",
+      "source_native_sha256": "b2fe4179d7aada8a6f2e6a85290a5f708601ccd705e8fb9341d32d0472b51e3a",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/fresh-cut-flowers/previews/preview.jpg",
+          "sha256": "b7afb4532ad4f2827863073f077a2c139f22598f1258ad7d7ec9d65bb5552e9c"
+        },
+        "alternate": {
+          "path": "models/fresh-cut-flowers/previews/alternate.jpg",
+          "sha256": "121f10ae36ec05114c4d75bcfbf2694775404662b0076bd16e72711af8913c05"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "collectible-trading-cards",
+      "name": "Collectible Trading Cards",
+      "category": "Collectible Trading Cards",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/collectible-trading-cards/collectible-trading-cards.blend",
+      "native_sha256": "59e6816eccbe69b6519c6a229e751d023d7e0b9c2eb4a0903bfe0fd9d5c9e6e2",
+      "source_native_sha256": "59e6816eccbe69b6519c6a229e751d023d7e0b9c2eb4a0903bfe0fd9d5c9e6e2",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/collectible-trading-cards/previews/preview.jpg",
+          "sha256": "f76e0ed51d3eab38cb7bfcae30a8b6264be4cd8a299ee2fc5630868f0ae2bca4"
+        },
+        "alternate": {
+          "path": "models/collectible-trading-cards/previews/alternate.jpg",
+          "sha256": "ba49ed58538e0e6eb52e19ca4c6c6b09948ce0ba269722797121048b8091b772"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "flats",
+      "name": "Flats",
+      "category": "Flats",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/flats/flats.blend",
+      "native_sha256": "a0ec47a5b5c65bb7380e99cf846b19560c21bdddae9e7dd63524cf4b8198bba7",
+      "source_native_sha256": "a0ec47a5b5c65bb7380e99cf846b19560c21bdddae9e7dd63524cf4b8198bba7",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/flats/previews/preview.jpg",
+          "sha256": "a7478f86a95c1aa9d0ecb315481530abaed36a5ba8b394f0db0348eff9e2ba36"
+        },
+        "alternate": {
+          "path": "models/flats/previews/alternate.jpg",
+          "sha256": "49e5b839cbdde482fee20c8e65a5d1a3c25ffb4da422af609e8ed265e7a20e5f"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "sectional-sofa",
+      "name": "Sectional Sofa",
+      "category": "Sectional Sofas",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": null,
+      "native": "models/sectional-sofa/sectional-sofa.blend",
+      "native_sha256": "78ab2e4037a8070439ad07ce1a7dd4ddf4dfb5ef68864a7259697e7685971ebb",
+      "source_native_sha256": "78ab2e4037a8070439ad07ce1a7dd4ddf4dfb5ef68864a7259697e7685971ebb",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/sectional-sofa/previews/preview.jpg",
+          "sha256": "49f11e2e4c37d2c266931e2dde3943f23040f858555aa03b32488cfde681707d"
+        },
+        "alternate": {
+          "path": "models/sectional-sofa/previews/alternate.jpg",
+          "sha256": "aa5f0597eb3679487fe8a7596071352dc972101b4ef85dea1691623f51979d42"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "swimwear",
+      "name": "Swimwear",
+      "category": "Swimwear",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": null,
+      "native": "models/swimwear/swimwear.blend",
+      "native_sha256": "e7cd71b37ca8c5d81e50b07ad9f8b96b23f2a4f16d2b029cddc11de61d9f794d",
+      "source_native_sha256": "e7cd71b37ca8c5d81e50b07ad9f8b96b23f2a4f16d2b029cddc11de61d9f794d",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/swimwear/previews/preview.jpg",
+          "sha256": "fbfd8346b3ff978d92ec526329e2896039d08b96691838d0596f89c9f00b0244"
+        },
+        "alternate": {
+          "path": "models/swimwear/previews/alternate.jpg",
+          "sha256": "72be2546ad00c66808c4d746244458ed43a6451eea92765e91e6e7f0f64aa1d5"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "greeting-cards",
+      "name": "Greeting Cards",
+      "category": "Greeting Cards",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/greeting-cards/greeting-cards.blend",
+      "native_sha256": "92073f3dd0cf0f080ef0d366eafbfdfc759e34256d1ac0356b761b7212e94676",
+      "source_native_sha256": "92073f3dd0cf0f080ef0d366eafbfdfc759e34256d1ac0356b761b7212e94676",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/greeting-cards/previews/preview.jpg",
+          "sha256": "e3109a4d60a0a15dde85ac2177211071446169fd66f93c82ab1cb5f8c3d2d9f9"
+        },
+        "alternate": {
+          "path": "models/greeting-cards/previews/alternate.jpg",
+          "sha256": "d318e9f6fbe44a52d78e0e81f447fb6d5c1c9563f12bc6e646aa996f6a08edea"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "binoculars",
+      "name": "Binoculars",
+      "category": "Binoculars",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/binoculars/binoculars.blend",
+      "native_sha256": "9ef64bd2835135141e86da2531774e24192582e75ad54fa9cabc2442008f1529",
+      "source_native_sha256": "9ef64bd2835135141e86da2531774e24192582e75ad54fa9cabc2442008f1529",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/binoculars/previews/preview.jpg",
+          "sha256": "1c3c7756d71b6b0257e19c9f44b907c5e8640e4fe1c6277c304eedd7102201a8"
+        },
+        "alternate": {
+          "path": "models/binoculars/previews/alternate.jpg",
+          "sha256": "8ba6d9fae1f3888a30ae3332cae832fb60919f8c01d0b8b1061c33cfa069f471"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "crystals",
+      "name": "Crystals",
+      "category": "Crystals",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/crystals/crystals.blend",
+      "native_sha256": "4bca2674f17e66e70559c5b79347ec4d079d2167025b5bb56b61f18c7bcfc361",
+      "source_native_sha256": "4bca2674f17e66e70559c5b79347ec4d079d2167025b5bb56b61f18c7bcfc361",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/crystals/previews/preview.jpg",
+          "sha256": "de3c855634eb8bd7232b2f5868ff271c3ff8f361f0515785c8a7e91cda32245e"
+        },
+        "alternate": {
+          "path": "models/crystals/previews/alternate.jpg",
+          "sha256": "fd735d18562ff35b19fd9a8be66149232382d1c24f25226998a8e8fac02d6393"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "bobblehead-figure",
+      "name": "Bobblehead Figure",
+      "category": "Bobblehead Figures",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": null,
+      "native": "models/bobblehead-figure/bobblehead-figure.blend",
+      "native_sha256": "a4d519821612b3807b9614237eb0ccf2e54abde3cf366b033f55deabcbf90255",
+      "source_native_sha256": "a4d519821612b3807b9614237eb0ccf2e54abde3cf366b033f55deabcbf90255",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/bobblehead-figure/previews/preview.jpg",
+          "sha256": "9ac307542b0decd8b3a86733f5a597cda4a9f230ef6b4da1d1a23747ae9e3772"
+        },
+        "alternate": {
+          "path": "models/bobblehead-figure/previews/alternate.jpg",
+          "sha256": "e313db7c2f560762fd59acc82e58ad6d0d2898734f4c49daada355c17b017bdf"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "acne-patches",
+      "name": "Acne Patches",
+      "category": "Acne Patches",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/acne-patches/acne-patches.blend",
+      "native_sha256": "275dab02e191bd758cc2b31750f0dd0f4e03fce419f6a346c6812c34ba3e5f91",
+      "source_native_sha256": "275dab02e191bd758cc2b31750f0dd0f4e03fce419f6a346c6812c34ba3e5f91",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/acne-patches/previews/preview.jpg",
+          "sha256": "f6b47027d0df5f327effececb72ec5b23679fbceb97a7d94f36ed84f102b4f59"
+        },
+        "alternate": {
+          "path": "models/acne-patches/previews/alternate.jpg",
+          "sha256": "d18fe803df19e7bbfb94853fa9c697e45c929d3d5222a99c87231fdc4adf5f8d"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "basketball",
+      "name": "Basketball",
+      "category": "Basketballs",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/basketball/basketball.blend",
+      "native_sha256": "7cfb6bdcaf5d4ceccf0cc07d3b937baa6746c38ba23064eed10caef0dcea1c46",
+      "source_native_sha256": "7cfb6bdcaf5d4ceccf0cc07d3b937baa6746c38ba23064eed10caef0dcea1c46",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/basketball/previews/preview.jpg",
+          "sha256": "de15ec5843d9cfc74b6dbf9a025999c30920e4e7a05207ba0b80e614d03b1337"
+        },
+        "alternate": {
+          "path": "models/basketball/previews/alternate.jpg",
+          "sha256": "a29077edf83b708036ff20e088bf1c503ae8a8a39235032e0c95ce545e3665d1"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "aquarium",
+      "name": "Aquarium",
+      "category": "Aquariums",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/aquarium/aquarium.blend",
+      "native_sha256": "ed722fedc1ec4840910b084ac5de150496f69d6c627b51191f823638cf2fae7e",
+      "source_native_sha256": "ed722fedc1ec4840910b084ac5de150496f69d6c627b51191f823638cf2fae7e",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/aquarium/previews/preview.jpg",
+          "sha256": "8bd0b8f40eb5e708e644962ad3b7861208c8ca1ddcd9d7342858d01ae4404a83"
+        },
+        "alternate": {
+          "path": "models/aquarium/previews/alternate.jpg",
+          "sha256": "13f30be73d376fd0587492e25ccc0dfb831fd582a7341fa88c681f7147fffde8"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "M_JikinFins_baseColor",
+          "path": "models/aquarium/textures/M_JikinFins_baseColor__0__M_JikinFins_baseColor.png",
+          "sha256": "2764e90c004896d1217dd9494ec8f5f97aacc149039716713eb2ab4964a52f89",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "M_JikinFins_metallicRoughness_metal.jpg-M_JikinFins_metallicRoughness_rough.jpg",
+          "path": "models/aquarium/textures/M_JikinFins_metallicRoughness_metal.jpg-M_JikinFins_metallicRoughness_rough.jpg__0__M_JikinFins_metallicRoughness_metal.jpg-M_JikinFins_metallicRoughness_rough.jpg",
+          "sha256": "8d301b864df0a6019ed81b66250f5ff41164911a6b43c7aeb54fd123b628da79",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "M_JikinFins_normal",
+          "path": "models/aquarium/textures/M_JikinFins_normal__0__M_JikinFins_normal.png",
+          "sha256": "2dc7c122a1e0257d53029e0df1a6c5d395f62b00159ba2a19b8bd1431e52ce05",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "buttons",
+      "name": "Buttons",
+      "category": "Buttons",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/buttons/buttons.blend",
+      "native_sha256": "9de0e0f559cafd5abffcd4a61c77da0a3cf9540105da2f12df99786486fea687",
+      "source_native_sha256": "9de0e0f559cafd5abffcd4a61c77da0a3cf9540105da2f12df99786486fea687",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/buttons/previews/preview.jpg",
+          "sha256": "2d72d4e2ebd2f6f0635837e0e60411e959bf812d82786325b97da5b6f5df001e"
+        },
+        "alternate": {
+          "path": "models/buttons/previews/alternate.jpg",
+          "sha256": "bc6a0b316d7024e735c31964a5d7c7ecf8529d93d25f1c85e2eb76880a17d39b"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "under-desk-treadmill",
+      "name": "Under-Desk Treadmill",
+      "category": "Under-Desk Treadmills",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/under-desk-treadmill/under-desk-treadmill.blend",
+      "native_sha256": "6b201ccf3c99bd7e70a70495be314da6dd38a064075ef4b00afea6323496c932",
+      "source_native_sha256": "6b201ccf3c99bd7e70a70495be314da6dd38a064075ef4b00afea6323496c932",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/under-desk-treadmill/previews/preview.jpg",
+          "sha256": "b8ddc7e568ea677449dcd381c49e462c388a3119cb4bc72965cb11e91cb84130"
+        },
+        "alternate": {
+          "path": "models/under-desk-treadmill/previews/alternate.jpg",
+          "sha256": "ab16ecb05de79de30f01c64af79c04288581b51f9885622bcb2f653bc2c88f50"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "trumpet",
+      "name": "Trumpet",
+      "category": "Trumpets",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": null,
+      "native": "models/trumpet/trumpet.blend",
+      "native_sha256": "cc44024c4a2131832d9dead05f9cb47c704391560cf79bea58b3661cf86a48c0",
+      "source_native_sha256": "cc44024c4a2131832d9dead05f9cb47c704391560cf79bea58b3661cf86a48c0",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/trumpet/previews/preview.jpg",
+          "sha256": "9b0bc58b6a9acd837393901feca3ac772246183b46a1f223d0502ba753e809ca"
+        },
+        "alternate": {
+          "path": "models/trumpet/previews/alternate.jpg",
+          "sha256": "8679834a0869bf8f1c38932538520866e90958c5872b4174a4a477f97987b8ae"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "artisan-keycap",
+      "name": "Artisan Keycap",
+      "category": "Keyboard Keycap Sets",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/artisan-keycap/artisan-keycap.blend",
+      "native_sha256": "def97d5625ad7e04a6a3aaed9f5cff39a0e4937a900f93a0cbefb2a95685e128",
+      "source_native_sha256": "def97d5625ad7e04a6a3aaed9f5cff39a0e4937a900f93a0cbefb2a95685e128",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/artisan-keycap/previews/preview.jpg",
+          "sha256": "f7665407852d006206613ae0b44b2cfb1f6a28e7a350bd1c15814acf4a0d020e"
+        },
+        "alternate": {
+          "path": "models/artisan-keycap/previews/alternate.jpg",
+          "sha256": "89f08f99297383767c22468d9f3ed0261b5791b089e8ab5f2ef6181e70042ba8"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "BFCM-basecolor-atlas.png",
+          "path": "models/artisan-keycap/textures/BFCM-basecolor-atlas.png__0__BFCM-basecolor-atlas.png",
+          "sha256": "20fac167eccaf31257dce3c37faddaebdedf4bd2c73f6d93e71108d0a6ed8d3a",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "BFCM-basecolor-atlas.png.001",
+          "path": "models/artisan-keycap/textures/BFCM-basecolor-atlas.png.001__0__BFCM-basecolor-atlas.png",
+          "sha256": "3a644bdf57e30be853a346e8b612f1129f562c6cd3f30af233c3c3ff2613924f",
+          "packed": true,
+          "color_space": "sRGB"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "pomegranate",
+      "name": "Pomegranate",
+      "category": "Pomegranates",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/pomegranate/pomegranate.blend",
+      "native_sha256": "7fe091b2d849187e8cde57b4cbaa8091c75aef99b18dfba9f9b8e5b18364f790",
+      "source_native_sha256": "7fe091b2d849187e8cde57b4cbaa8091c75aef99b18dfba9f9b8e5b18364f790",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/pomegranate/previews/preview.jpg",
+          "sha256": "8ef8669e24946edd13d296df17be77f58f8bf37b5dc79d31837f6cb51b8e7615"
+        },
+        "alternate": {
+          "path": "models/pomegranate/previews/alternate.jpg",
+          "sha256": "af6595541323bb411a22da41630d6d354de761a10907f9a02e2fac17842516ad"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "food_pomegranate_01_diff",
+          "path": "models/pomegranate/textures/food_pomegranate_01_diff__0__food_pomegranate_01_diff_2k.jpg",
+          "sha256": "5c840aa6a4c0b6d5d3bb65ebc328d0e79738df2caadf84cdb3921690da88a5e1",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "food_pomegranate_01_nor_gl",
+          "path": "models/pomegranate/textures/food_pomegranate_01_nor_gl__0__food_pomegranate_01_nor_gl_2k.jpg",
+          "sha256": "a12c46a477bce0790fecac6192fe65f5251dbb244aa0c308aed4114c9dc25b09",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "food_pomegranate_01_rough",
+          "path": "models/pomegranate/textures/food_pomegranate_01_rough__0__food_pomegranate_01_rough_2k.jpg",
+          "sha256": "d123e7d2f79a96bd46674abd7a65db927ee28d222211d3f6d27aedb3ca44702d",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "lollipop",
+      "name": "Lollipop",
+      "category": "Lollipops",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/lollipop/lollipop.blend",
+      "native_sha256": "b671f0d3faf5b2a3c450b2465e9b970cd62204f146334376e92c3f9a3c06371f",
+      "source_native_sha256": "b671f0d3faf5b2a3c450b2465e9b970cd62204f146334376e92c3f9a3c06371f",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/lollipop/previews/preview.jpg",
+          "sha256": "53af1cc08d7f1b3d94428e426a11651ee5e524b50bf5fe015fcd0a95f9571533"
+        },
+        "alternate": {
+          "path": "models/lollipop/previews/alternate.jpg",
+          "sha256": "ff87b195f7736517df0cdf2e1da57ccf6fec113a7f6129035bebf65ee7ee402b"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "cycles_round_lollipop_normal.png.001",
+          "path": "models/lollipop/textures/cycles_round_lollipop_normal.png.001__0__cycles_round_lollipop_normal.png",
+          "sha256": "106f127554c85218d4c0d9689c57c3b76ba119107a3065e3d149482b42cab177",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "Lollipop_BroadSpiral_Mask.png",
+          "path": "models/lollipop/textures/Lollipop_BroadSpiral_Mask.png__0__Lollipop_BroadSpiral_Mask.png",
+          "sha256": "b06c0299318c723cd968afb13b46529ce4be36cb4a74cab5521e950dd9271e88",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "PBR-MetalRough_round_lollipop_BaseColor.png",
+          "path": "models/lollipop/textures/PBR-MetalRough_round_lollipop_BaseColor.png__0__PBR-MetalRough_round_lollipop_BaseColor.png",
+          "sha256": "fe00bb27500da6d4b24a3513149d990198f14350dec52d1e3c91dafefef35852",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "PBR-MetalRough_round_lollipop_Roughness.png",
+          "path": "models/lollipop/textures/PBR-MetalRough_round_lollipop_Roughness.png__0__PBR-MetalRough_round_lollipop_Roughness.png",
+          "sha256": "b822272aaec9bd80490f9d1caf705c49d7085f4e13fd92cfcc01ba7ad7a83eb5",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "horse-grooming-brush",
+      "name": "Horse Grooming Brush",
+      "category": "Horse Grooming Brushes",
+      "collection_status": "active",
+      "review_status": "accepted-native",
+      "palette_pair": null,
+      "native": "models/horse-grooming-brush/horse-grooming-brush.blend",
+      "native_sha256": "fbf37bdb9c0937342fade9c5720d6510a17b7902f34d459d9f2140efdc7b8648",
+      "source_native_sha256": "fbf37bdb9c0937342fade9c5720d6510a17b7902f34d459d9f2140efdc7b8648",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/horse-grooming-brush/previews/preview.jpg",
+          "sha256": "9420bd7cb8c09dd7ab2a8fed70f27afd32c4f94fb091673bdcdaf2352460e0f2"
+        },
+        "alternate": {
+          "path": "models/horse-grooming-brush/previews/alternate.jpg",
+          "sha256": "327d9889c96214d6ae3a4fa43e95538a15f7e8739193cc27b99c32b98d0f7c05"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "guitar-picks",
+      "name": "Guitar Picks",
+      "category": "Guitar Picks",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/guitar-picks/guitar-picks.blend",
+      "native_sha256": "49770f3c22a2c7156ecf7c3af28f6db42f9bc2a52c82b302a357113bf4545f83",
+      "source_native_sha256": "49770f3c22a2c7156ecf7c3af28f6db42f9bc2a52c82b302a357113bf4545f83",
+      "portability_repacked": false,
+      "texture_split_priority": true,
+      "previews": {
+        "preview": {
+          "path": "models/guitar-picks/previews/preview.jpg",
+          "sha256": "d1fc6930221fc3ee909377344592760174387bad29e058db090277e97d61d835"
+        },
+        "alternate": {
+          "path": "models/guitar-picks/previews/alternate.jpg",
+          "sha256": "8ab79fb216f3e5ade7218de13aca3bca1c9446e0e4c648509d4ecacd773d9482"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "category": "Mangoes",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/mango/mango.blend",
+      "native_sha256": "017f0699968d98c295e88e828ccc4712c371162b4496947edbb0c0e43e941df8",
+      "source_native_sha256": "017f0699968d98c295e88e828ccc4712c371162b4496947edbb0c0e43e941df8",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/mango/previews/preview.jpg",
+          "sha256": "7490cd6b8ed17f069b0cde37f79437394372cad21f6fff61dfd2197f3f96ce66"
+        },
+        "alternate": {
+          "path": "models/mango/previews/alternate.jpg",
+          "sha256": "aaab93ded3f2794781d0c8c6cecded30c37675823cfab0869678e05763ff9824"
+        }
+      },
+      "textures": [
+        {
+          "kind": "image",
+          "name": "mango_body_basecolor",
+          "path": "models/mango/textures/mango_body_basecolor__0__mango_body_basecolor.png",
+          "sha256": "904573be6b617e28ee32bda4f9dc491dbfa46db51b8ef4ec1940b48dc1cf2862",
+          "packed": true,
+          "color_space": "sRGB"
+        },
+        {
+          "kind": "image",
+          "name": "mango_body_metallic-mango_body_roughness",
+          "path": "models/mango/textures/mango_body_metallic-mango_body_roughness__0__mango_body_metallic-mango_body_roughness.png",
+          "sha256": "bb97358bb0a899003680c4562bc67a44e69693095cdea6d22fa7d17c5c249d74",
+          "packed": true,
+          "color_space": "Non-Color"
+        },
+        {
+          "kind": "image",
+          "name": "mango_body_normal",
+          "path": "models/mango/textures/mango_body_normal__0__mango_body_normal.png",
+          "sha256": "5004ced5c90044198483f8cf91285cc84172fac2ed2f69d52bc167a7058d9373",
+          "packed": true,
+          "color_space": "Non-Color"
+        }
+      ],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "swim-goggles",
+      "name": "Swim Goggles",
+      "category": "Swim Goggles",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/swim-goggles/swim-goggles.blend",
+      "native_sha256": "35f971f18849263fbc2af0360c19d20eb1dd3e52861d36487f570e4824062fbf",
+      "source_native_sha256": "35f971f18849263fbc2af0360c19d20eb1dd3e52861d36487f570e4824062fbf",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/swim-goggles/previews/preview.jpg",
+          "sha256": "ef71671ecb1b56e512120691129ae414c0f881977d30c1e98a7898dd0f678dd2"
+        },
+        "alternate": {
+          "path": "models/swim-goggles/previews/alternate.jpg",
+          "sha256": "41c90ee89a570161a1919595e35c7238c37cebffd6a90646686184c983fc5134"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    },
+    {
+      "id": "skateboard",
+      "name": "Skateboard",
+      "category": "Skateboard",
+      "collection_status": "active",
+      "review_status": "candidate",
+      "palette_pair": null,
+      "native": "models/skateboard/skateboard.blend",
+      "native_sha256": "1a33a0c7f7ce61b3c65a1114e7224222a1d077377fa75ba04d83a203876c4793",
+      "source_native_sha256": "1a33a0c7f7ce61b3c65a1114e7224222a1d077377fa75ba04d83a203876c4793",
+      "portability_repacked": false,
+      "texture_split_priority": false,
+      "previews": {
+        "preview": {
+          "path": "models/skateboard/previews/preview.jpg",
+          "sha256": "0e7d60abf344dad2a19f4cf70b68ceb0be4a0cc3631b4554689a842a66e5071c"
+        },
+        "alternate": {
+          "path": "models/skateboard/previews/alternate.jpg",
+          "sha256": "618c20171a133b82dee474db929933f281f9f3190a619345814f365e9ff5f886"
+        }
+      },
+      "textures": [],
+      "glb": null,
+      "dependency_issues": [
+        {
+          "kind": "missing_image",
+          "name": "Skateboard_M_Skateboard1_BaseColor.png",
+          "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_BaseColor.png",
+          "source_type": "FILE",
+          "used_by_material": false,
+          "qualification": "Unused legacy source image reference; accepted material does not use this image."
+        },
+        {
+          "kind": "missing_image",
+          "name": "Skateboard_M_Skateboard1_Height.png",
+          "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Height.png",
+          "source_type": "FILE",
+          "used_by_material": false,
+          "qualification": "Unused legacy source image reference; accepted material does not use this image."
+        },
+        {
+          "kind": "missing_image",
+          "name": "Skateboard_M_Skateboard1_Metallic.png",
+          "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Metallic.png",
+          "source_type": "FILE",
+          "used_by_material": false,
+          "qualification": "Unused legacy source image reference; accepted material does not use this image."
+        },
+        {
+          "kind": "missing_image",
+          "name": "Skateboard_M_Skateboard1_Normal.png",
+          "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Normal.png",
+          "source_type": "FILE",
+          "used_by_material": false,
+          "qualification": "Unused legacy source image reference; accepted material does not use this image."
+        },
+        {
+          "kind": "missing_image",
+          "name": "Skateboard_M_Skateboard1_Roughness.png",
+          "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_21_Reviewer_Edits_20261110/workers/source-swaps-footwear/jobs/skateboard-r01-a03/../../../../../../../../../../../../../Downloads/Model Swaps/Textures/Skateboard_M_Skateboard1_Roughness.png",
+          "source_type": "FILE",
+          "used_by_material": false,
+          "qualification": "Unused legacy source image reference; accepted material does not use this image."
+        }
+      ],
+      "animation_actions": 0,
+      "blender_version": "5.2.2 LTS"
+    }
+  ],
+  "pending_model": [
+    "Glitter Flakes"
+  ]
+}

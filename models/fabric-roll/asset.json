@@ -1,0 +1,31 @@
+{
+  "id": "fabric-roll",
+  "name": "Fabric Roll",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_royal_blue",
+  "native": "models/fabric-roll/fabric-roll.blend",
+  "native_sha256": "d795dd6ed2567183abbae5e184f4ba3d7bb7a6de7b06a19749eb83c3a6e5f198",
+  "source_native_sha256": "d795dd6ed2567183abbae5e184f4ba3d7bb7a6de7b06a19749eb83c3a6e5f198",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/fabric-roll/previews/preview.jpg",
+      "sha256": "7aef742975dba470c304db17169065f3769d4413d6d6b36f993a672e56c710b0"
+    },
+    "alternate": {
+      "path": "models/fabric-roll/previews/alternate.jpg",
+      "sha256": "f902158a36050614fb7798b0cbd9cf78a54050cbc300c3c9966db40192253fbf"
+    }
+  },
+  "textures": [],
+  "glb": {
+    "path": "models/fabric-roll/fabric-roll.glb",
+    "sha256": "c3f56e31a2cf96320563d2aa9427415210c6040671c2cfdd744fc84c49f5ac94"
+  },
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

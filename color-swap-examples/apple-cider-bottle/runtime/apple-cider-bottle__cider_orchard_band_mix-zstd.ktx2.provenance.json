@@ -1,0 +1,92 @@
+{
+  "schema": "bfcm-lossless-ktx2-zstd/v1",
+  "input": {
+    "path": "/Users/cameronschultheis/Dev/projects/2026/10/bfcm-globe-exploration/3D Models/Fictional Products/Revisions/Pass_19_Review_Feedback/planning/dynamic-color-system/pilot-prep01/derivatives/pilot-execution01/apple-cider-bottle-cork02-layered03/artifacts/apple-cider-bottle__cider_orchard_band_mix.ktx2",
+    "sha256": "72e9e459a6fbcf7721658cd9f1e015f62aa96ab472e6fb8e14dc3fe9af72a0ec",
+    "bytes": 22370084
+  },
+  "output": {
+    "path": "/Users/cameronschultheis/.codex/worktrees/product-library-review/sphere-latest/public/models/color-swap-pilot/generations/apple-cider-bottle-cork02-layered03-lossless/apple-cider-bottle__cider_orchard_band_mix-zstd.ktx2",
+    "sha256": "4d46edfbe12c8a9202016c2a668b25d2dd29f95b8120b01f3277b80758561845",
+    "bytes": 17509
+  },
+  "preserved_authored_mips": true,
+  "regenerated_mips": false,
+  "lossless": true,
+  "mip_count": 12,
+  "ratio": 0.0007826971056523525,
+  "levels": [
+    {
+      "level": 0,
+      "raw_bytes": 16777216,
+      "compressed_bytes": 8573,
+      "decoded_sha256": "e03bb5d84d416773675738bc7d1510b25bf00bcba503eec5e1844630920d3aac"
+    },
+    {
+      "level": 1,
+      "raw_bytes": 4194304,
+      "compressed_bytes": 4212,
+      "decoded_sha256": "72ebffe5a64f5f43426185c59c4567042168a9aebb634eb6694940cecaeef869"
+    },
+    {
+      "level": 2,
+      "raw_bytes": 1048576,
+      "compressed_bytes": 2053,
+      "decoded_sha256": "af37b1395db0e213d12d1364a3f8dda2626b0f48cf11c4666242a87d5d506698"
+    },
+    {
+      "level": 3,
+      "raw_bytes": 262144,
+      "compressed_bytes": 1124,
+      "decoded_sha256": "0073e7d2f31e7bfc4bb855acf4ad666c4a87cc735f66f89bea2272e99ccd75f5"
+    },
+    {
+      "level": 4,
+      "raw_bytes": 65536,
+      "compressed_bytes": 586,
+      "decoded_sha256": "ccaffca18fe4d39f077e3fd553ed93215ca38f19f2eab96a6a7bf883b66479fb"
+    },
+    {
+      "level": 5,
+      "raw_bytes": 16384,
+      "compressed_bytes": 222,
+      "decoded_sha256": "7d7be50bdb870da445793158f803ae1d314a594d9243fa7f5bc28f0cd39a6920"
+    },
+    {
+      "level": 6,
+      "raw_bytes": 4096,
+      "compressed_bytes": 102,
+      "decoded_sha256": "05cde4774366f2cf0b0bd2695554ab6bc9126cb40dbb2c72601453de4f61a2ac"
+    },
+    {
+      "level": 7,
+      "raw_bytes": 1024,
+      "compressed_bytes": 72,
+      "decoded_sha256": "177b4f322beb66f92ce6d4360d8a5307dec9883895a41162a6af494bc13db17a"
+    },
+    {
+      "level": 8,
+      "raw_bytes": 256,
+      "compressed_bytes": 21,
+      "decoded_sha256": "d32c296f513bc0f6aa3d3b3deae1f57a9b2e03d3e535873d696a766a183f1f64"
+    },
+    {
+      "level": 9,
+      "raw_bytes": 64,
+      "compressed_bytes": 19,
+      "decoded_sha256": "4d3994339849f3318a16b798fcceeee4e4a03343275f681e448dab6aac9a9d37"
+    },
+    {
+      "level": 10,
+      "raw_bytes": 16,
+      "compressed_bytes": 20,
+      "decoded_sha256": "ad78c850c61a5667f6e427b0f80831744befc32c1e1460b3bae6777cf436aff6"
+    },
+    {
+      "level": 11,
+      "raw_bytes": 4,
+      "compressed_bytes": 13,
+      "decoded_sha256": "8a275e827a8029b783accae492901334dfe4610cda78a30558269ce4dce664db"
+    }
+  ]
+}

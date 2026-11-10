@@ -1,0 +1,37 @@
+{
+  "id": "pitcher",
+  "name": "Pitcher",
+  "category": "Home & Garden",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "lilac_orange",
+  "native": "models/pitcher/pitcher.blend",
+  "native_sha256": "b3e2bb37dee31a62f6719c56cc9735413353c850b701d5399c312f2b38069578",
+  "source_native_sha256": "b3e2bb37dee31a62f6719c56cc9735413353c850b701d5399c312f2b38069578",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/pitcher/previews/preview.jpg",
+      "sha256": "5f166506ba1406a3dfed6cb13c94d2794bc3b545902ea1951fd78bd8fe5008c0"
+    },
+    "alternate": {
+      "path": "models/pitcher/previews/alternate.jpg",
+      "sha256": "bb81f23e8e85d01691d370654422a23c27d76eeabc4f9c5d8332c1a323fd1295"
+    }
+  },
+  "textures": [
+    {
+      "kind": "image",
+      "name": "Pattern tile / stripes",
+      "path": "models/pitcher/textures/Pattern_tile___stripes__0___stripes.png",
+      "sha256": "8e36c916b3d4f75d0d6d470816c1ab02e48f8b410fc770669803e339963919ba",
+      "packed": true,
+      "color_space": "Non-Color"
+    }
+  ],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

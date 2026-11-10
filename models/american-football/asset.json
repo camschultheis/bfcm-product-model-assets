@@ -1,0 +1,28 @@
+{
+  "id": "american-football",
+  "name": "American football",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral_green",
+  "native": "models/american-football/american-football.blend",
+  "native_sha256": "909d2bcfbc0773a475ba22b2ed1be81657035cb3b144600abe5e60d35d64d550",
+  "source_native_sha256": "909d2bcfbc0773a475ba22b2ed1be81657035cb3b144600abe5e60d35d64d550",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/american-football/previews/preview.jpg",
+      "sha256": "c99a213a514b8baec5e6d25bfed0bd9341ef27b8cdba992d1b40fcf92710668f"
+    },
+    "alternate": {
+      "path": "models/american-football/previews/alternate.jpg",
+      "sha256": "13f2422a78c2cf5fd585596f162d2c23c6c2cc836c98783191d2b99800f805a8"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

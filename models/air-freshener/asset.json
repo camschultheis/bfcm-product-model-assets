@@ -1,0 +1,28 @@
+{
+  "id": "air-freshener",
+  "name": "Air Freshener",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple_deep_purple",
+  "native": "models/air-freshener/air-freshener.blend",
+  "native_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+  "source_native_sha256": "4e43db35bad8fcf9e787b5d7ec46106e2c8922e5f6e1a5022b73fff871b5d737",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/air-freshener/previews/preview.jpg",
+      "sha256": "6dbc6633610e65d0b11f9d7cfb74ba9b92891c455ec35a80ce38bf1dc31132a7"
+    },
+    "alternate": {
+      "path": "models/air-freshener/previews/alternate.jpg",
+      "sha256": "00e0d55d40ac411867e71c3fdcc6d1740353c3c9e7569e4d5475a1bde94dc9f3"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

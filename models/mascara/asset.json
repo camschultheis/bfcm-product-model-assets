@@ -1,0 +1,28 @@
+{
+  "id": "mascara",
+  "name": "Mascara",
+  "category": "Custom products",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "purple_deep_purple",
+  "native": "models/mascara/mascara.blend",
+  "native_sha256": "e2ff497357d4ec8d43239490cea42154e6582d8c9d3a9a66fc68bd84a1fff855",
+  "source_native_sha256": "e2ff497357d4ec8d43239490cea42154e6582d8c9d3a9a66fc68bd84a1fff855",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/mascara/previews/preview.jpg",
+      "sha256": "bb7f63dc39cb3a5477fc82a7d8419e8ffda22de340a833562587a60fc008ef15"
+    },
+    "alternate": {
+      "path": "models/mascara/previews/alternate.jpg",
+      "sha256": "93b46987614c90e4f0fa4c3f3bb17b5c4a7e496ec93ce40269e0f8b2329d8337"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

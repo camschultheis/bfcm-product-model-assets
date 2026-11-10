@@ -1,0 +1,28 @@
+{
+  "id": "bowling-ball",
+  "name": "Bowling ball",
+  "category": "Furniture / Sporting Goods",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream_blue",
+  "native": "models/bowling-ball/bowling-ball.blend",
+  "native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+  "source_native_sha256": "248a6d514e6d0159bdfda989ac74290b473e2533aa72dc257690e6635a8c7493",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/bowling-ball/previews/preview.jpg",
+      "sha256": "700e75f044a19d01ff965018adfb86c953ce00b230648be0800ee6c2d2b88e95"
+    },
+    "alternate": {
+      "path": "models/bowling-ball/previews/alternate.jpg",
+      "sha256": "c3b0c8aa7b7537874726ad3745ab0cf266723b6c6117dbc1b6502120b921cf4b"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

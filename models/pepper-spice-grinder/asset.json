@@ -1,0 +1,28 @@
+{
+  "id": "pepper-spice-grinder",
+  "name": "Whole-pepper spice grinder",
+  "category": "Herbs & Spices",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "cream-blue",
+  "native": "models/pepper-spice-grinder/pepper-spice-grinder.blend",
+  "native_sha256": "671016e68cd28343a4264d6576f5327f1007105756f9e50d67f4b40b52d25114",
+  "source_native_sha256": "671016e68cd28343a4264d6576f5327f1007105756f9e50d67f4b40b52d25114",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/pepper-spice-grinder/previews/preview.jpg",
+      "sha256": "a9125028b39973810307772ae59f798a2e26e397878fdbd03d2fb47e08c49f26"
+    },
+    "alternate": {
+      "path": "models/pepper-spice-grinder/previews/alternate.jpg",
+      "sha256": "9e9dc40aa9aabcd9ff473f0f6616c9c6fd8618d747f06c3d9cb7ee807e21d8af"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}

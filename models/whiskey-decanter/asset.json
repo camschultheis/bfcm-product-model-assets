@@ -1,0 +1,28 @@
+{
+  "id": "whiskey-decanter",
+  "name": "Apple cider bottle",
+  "category": "Non-alcoholic beverages",
+  "collection_status": "active",
+  "review_status": "accepted-native",
+  "palette_pair": "coral-green",
+  "native": "models/whiskey-decanter/whiskey-decanter.blend",
+  "native_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+  "source_native_sha256": "02b5b084957ae31252cf4336dc7dc0ad55d6612135e0eeccad4094b17256272d",
+  "portability_repacked": false,
+  "texture_split_priority": false,
+  "previews": {
+    "preview": {
+      "path": "models/whiskey-decanter/previews/preview.jpg",
+      "sha256": "ee1110530bfe8af6e2af160ade59b732b81f67915b885feec7bff3cfed2aec87"
+    },
+    "alternate": {
+      "path": "models/whiskey-decanter/previews/alternate.jpg",
+      "sha256": "9a5de887f1805b64a49b21a0eb5416eadfef92965c9b6674d09138f0424d9d40"
+    }
+  },
+  "textures": [],
+  "glb": null,
+  "dependency_issues": [],
+  "animation_actions": 0,
+  "blender_version": "5.2.2 LTS"
+}
